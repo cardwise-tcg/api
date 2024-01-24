@@ -40,9 +40,9 @@ For those unfamiliar with git (or github), I will soon prepare a simple guide on
 ## Checklist
 
 ### Lorcana
+- [x] Medium & small sizes of card images from 'Rise of the Floodborn'
 - [ ] Enchanted cards from 'The First Chapter' & 'Rise of the Floodborn'
 - [ ] Documentation on API endpoints (searching, filtering & sorting) 
-- [ ] Medium & small sizes of card images from 'Rise of the Floodborn'
 
 
 ## Running it locally
