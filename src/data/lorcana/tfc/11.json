@@ -1,0 +1,28 @@
+{
+    "artist": "Kendall Hale",
+    "ink": "Amber",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Maximus",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 11,
+    "keywords": [],
+    "flavor_text": "He pursues his quarry with courage, discipline, and a touch of class.",
+    "text": "Horse Kick - When you play this character, chosen character gets -2 {s} this turn.",
+    "classifications": [
+        "Dreamborn",
+        "Ally"
+    ],
+    "version": "Relentless Pursuer",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

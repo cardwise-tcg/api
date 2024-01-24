@@ -1,0 +1,28 @@
+{
+    "artist": "Valerio Buonfantino",
+    "ink": "Emerald",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Gaston",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 83,
+    "keywords": [],
+    "flavor_text": "\"Don't I deserve the best?\"",
+    "text": "Yes, I'm Intimidating: While one or more opponents have no cards in their hands, this character gets +3 {s}.",
+    "classifications": [
+        "Storyborn",
+        "Villain"
+    ],
+    "version": "Scheming Suitor",
+    "willpower": 3,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

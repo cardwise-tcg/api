@@ -1,0 +1,20 @@
+{
+    "artist": "Man? Kandalyan / Jochem van Gool",
+    "ink": "Sapphire",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Nothing To Hide",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Common",
+    "number": 165,
+    "keywords": [],
+    "flavor_text": "Helps you avoid unpleasant surprises.",
+    "text": "Each Opponent reveals their hand. Draw a card.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "artist": "Rob Di Salvo",
+    "ink": "Amethyst",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "I'm Stuck!",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Common",
+    "number": 63,
+    "keywords": [],
+    "flavor_text": "\"Oh, bother-not again.\"",
+    "text": "Chosen exerted character can't ready at the start of their next turn",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

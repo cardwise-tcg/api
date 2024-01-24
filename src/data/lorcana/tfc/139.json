@@ -1,0 +1,32 @@
+{
+    "artist": "Nicholas Kole",
+    "ink": "Sapphire",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Aurora",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 139,
+    "keywords": [
+        "Shift",
+        "Ward"
+    ],
+    "flavor_text": "As the princess slumbered, her power awoke.",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Aurora.) \n\nProtective Embrace - Your other characters gain Ward. (Opponents can't choose them except to challenge)",
+    "classifications": [
+        "Floodborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Dreaming Guardian",
+    "willpower": 5,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "artist": "Cam Kendell",
+    "ink": "Amethyst",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Dr. Facilier",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 39,
+    "keywords": [],
+    "flavor_text": "\"Enchant?e. A tip of the hat from Dr. Facilier.\"",
+    "text": "Dreams Made Real - Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.",
+    "classifications": [
+        "Storyborn",
+        "Villain",
+        "Sorcerer"
+    ],
+    "version": "Remarkable Gentleman",
+    "willpower": 4,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

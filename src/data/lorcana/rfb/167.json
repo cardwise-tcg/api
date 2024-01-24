@@ -1,0 +1,20 @@
+{
+    "artist": "Tanisha Cherislin",
+    "ink": "Sapphire",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Gumbo Pot",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Common",
+    "number": 167,
+    "keywords": [],
+    "flavor_text": "\"A gift this special just got to to be shared.\"\n-James",
+    "text": "The Best I've Ever Tasted: \"exert\" - Remove 1 damage each from up to 2 chosen characters.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

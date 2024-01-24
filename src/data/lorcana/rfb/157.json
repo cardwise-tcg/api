@@ -1,0 +1,29 @@
+{
+    "artist": "Vicky Xie / Mariana Moreno",
+    "ink": "Sapphire",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Prince Charming",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 157,
+    "keywords": [],
+    "flavor_text": "He'd searched across the Inklands for the young woman who'd stolen his heart at the ball, only to find more mysteries.",
+    "text": "To Wonderland: Banish this item - Return chosen character of yours to your hand.",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Prince"
+    ],
+    "version": "Heir To The Throne",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 3,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

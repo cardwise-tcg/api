@@ -1,0 +1,21 @@
+{
+    "artist": "Jared Nickerl / Alex Accorsi",
+    "ink": "Steel",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Strength Of A Raging Fire",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Rare",
+    "number": 201,
+    "keywords": [],
+    "flavor_text": "Tranquil as a forest\\nBut on fire within",
+    "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.) Deal damage to chosen character equal to the number of characters you have in play.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

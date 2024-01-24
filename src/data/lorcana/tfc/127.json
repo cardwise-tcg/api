@@ -1,0 +1,30 @@
+{
+    "artist": "Kenneth Anderson",
+    "ink": "Ruby",
+    "ink_cost": 6,
+    "inkable": true,
+    "name": "Tigger",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 127,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "\"I'm the bounciest bouncer that ever bounced!\"",
+    "text": "Evasive (Only characters with Evasive can challenge this character.) ",
+    "classifications": [
+        "Storyborn",
+        "Tigger"
+    ],
+    "version": "Wonderful Thing",
+    "willpower": 4,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

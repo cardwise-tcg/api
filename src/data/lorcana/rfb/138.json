@@ -1,0 +1,31 @@
+{
+    "artist": "Bill Robinson",
+    "ink": "Sapphire",
+    "ink_cost": 6,
+    "inkable": true,
+    "name": "Basil",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 138,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "A solution always presents itself.",
+    "text": "Shift 5 (You may pay 5 \"ink\" to play this on top of one of your characters named Basil.)\nThere's Always A Chance: If you used Shift to play this character, you may draw 2 cards when he enters play.",
+    "classifications": [
+        "Floodborn",
+        "Hero",
+        "Detective"
+    ],
+    "version": "Great Mouse Detective",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 3,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

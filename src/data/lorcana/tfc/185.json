@@ -1,0 +1,29 @@
+{
+    "artist": "Isaiah Mesq",
+    "ink": "Steel",
+    "ink_cost": 8,
+    "inkable": true,
+    "name": "Maui",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 185,
+    "keywords": [],
+    "flavor_text": "When the gods gift you a boat, you take it. The boat's owner is optional.",
+    "text": "Durable - When this character is banished in a challenge, you may return this card to your hand.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Deity"
+    ],
+    "version": "Demigod",
+    "willpower": 8,
+    "strength": 8,
+    "lore": 3,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

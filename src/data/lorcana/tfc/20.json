@@ -1,0 +1,31 @@
+{
+    "artist": "Filipe Laurentino",
+    "ink": "Amber",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Simba",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 20,
+    "keywords": [
+        "Bodyguard"
+    ],
+    "flavor_text": "Courage comes in all sizes.",
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Prince"
+    ],
+    "version": "Protective Cub",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "artist": "Ellie Horie",
+    "ink": "Ruby",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Minnie Mouse",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 115,
+    "keywords": [
+        "Evasive",
+        "Shift"
+    ],
+    "flavor_text": "Zero to fun in under 3 seconds!",
+    "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Minnie Mouse.)\nEvasive (Only Characters with Evasive can challenge this character.)\nUndersea Adventure: Whenever you play a second action in a turn, this character gets +2 {l} this turn.",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Zipping Around",
+    "willpower": 2,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

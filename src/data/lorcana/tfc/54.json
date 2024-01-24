@@ -1,0 +1,31 @@
+{
+    "artist": "Giulia Riva",
+    "ink": "Amethyst",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Rafiki",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 54,
+    "keywords": [
+        "Rush"
+    ],
+    "flavor_text": "\"The past can hurt. But the way I see it, you can either run from it or learn from it.\"",
+    "text": "Rush (This character can challenge the turn they're played.) ",
+    "classifications": [
+        "Dreamborn",
+        "Mentor",
+        "Sorcerer"
+    ],
+    "version": "Mysterious Sage",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

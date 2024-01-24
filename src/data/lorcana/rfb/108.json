@@ -1,0 +1,30 @@
+{
+    "artist": "Giulia Riva",
+    "ink": "Ruby",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Fidget",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 108,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "When a normal henchman just won't cut it.",
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\n",
+    "classifications": [
+        "Dreamborn",
+        "Ally"
+    ],
+    "version": "Ratigan's Henchman",
+    "willpower": 2,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

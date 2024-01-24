@@ -1,0 +1,28 @@
+{
+    "artist": "Kiersten Hale",
+    "ink": "Amber",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Piglet",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 18,
+    "keywords": [],
+    "flavor_text": "For a very small animal, he has an awfully big heart.",
+    "text": "Chosen character can challenge ready characters this turn.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Very Small Animal",
+    "willpower": 4,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "artist": "Leonardo Giammichele",
+    "ink": "Amethyst",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Dr. Facilier",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 38,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "\"Enchant?e. A tip of the hat from Dr. Facilier.\"",
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "classifications": [
+        "Storyborn",
+        "Villain",
+        "Sorcerer"
+    ],
+    "version": "Savvy Opportunist",
+    "willpower": 2,
+    "strength": 4,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "artist": "Leonardo Giammichele",
+    "ink": "Amber",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Just In Time",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Rare",
+    "number": 29,
+    "keywords": [],
+    "flavor_text": "The best heroes always arrive at the perfect moment - whether they know it or not.",
+    "text": "You may play a character with cost 5 or less for free.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

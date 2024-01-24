@@ -1,0 +1,20 @@
+{
+    "artist": "Isaiah Mesq",
+    "ink": "Sapphire",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Pawpsicle",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Common",
+    "number": 169,
+    "keywords": [],
+    "flavor_text": "A true friend is always there for you, whether you can see them or not.",
+    "text": "Jumbo Pop: When you play this item, you may draw a card.\nThat's Redwood: Banish this item - Remove up to 2 damage from chosen character.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

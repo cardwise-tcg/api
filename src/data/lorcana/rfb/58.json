@@ -1,0 +1,28 @@
+{
+    "artist": "Juan Diego Leon",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": false,
+    "name": "Pinocchio",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 58,
+    "keywords": [],
+    "flavor_text": "\"A lie keeps growing and growing until it's as plain as the nose on your face.\"\n-Blue Fairy",
+    "text": "Telling Lies: When you play this character, you may exert chosen opposing character.",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Talkative Pupper",
+    "willpower": 1,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

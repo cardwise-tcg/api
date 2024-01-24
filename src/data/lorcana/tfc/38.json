@@ -1,0 +1,31 @@
+{
+    "artist": "Grace Tran",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Dr. Facilier",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 38,
+    "keywords": [
+        "Challenger"
+    ],
+    "flavor_text": "\"Enchant?e. A tip of the hat from Dr. Facilier.\"",
+    "text": "Challenger +2 (When challenging, this character get +2 {s}.) ",
+    "classifications": [
+        "Storyborn",
+        "Villain",
+        "Sorcerer"
+    ],
+    "version": "Charlatan",
+    "willpower": 4,
+    "strength": 0,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

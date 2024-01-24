@@ -1,0 +1,30 @@
+{
+    "artist": "Jake Parker",
+    "ink": "Steel",
+    "ink_cost": 6,
+    "inkable": true,
+    "name": "Kronk",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 183,
+    "keywords": [
+        "Resist"
+    ],
+    "flavor_text": "\"Oh yeah. It's all coming together!\"",
+    "text": "Resist +1 (Damage dealt to this character is reduced by 1.)\\nScout Leader: During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen character.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Right-Hand Man",
+    "willpower": 6,
+    "strength": 6,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

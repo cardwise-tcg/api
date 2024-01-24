@@ -1,0 +1,21 @@
+{
+    "artist": "Peter Brockhammer",
+    "ink": "Steel",
+    "ink_cost": 5,
+    "inkable": false,
+    "name": "Grab Your Sword",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Rare",
+    "number": 198,
+    "keywords": [],
+    "flavor_text": "We don't like\nWhat we don't understand\nIn fact, it scares us",
+    "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nDeal 2 damage to each opposing character.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "artist": "M. Robert Davies / L. Giammichele",
+    "ink": "Ruby",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Shere Khan",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 126,
+    "keywords": [],
+    "flavor_text": "The sixth Rule of Villainy: Keep your mind sharp and your claws sharper.",
+    "text": "Don't Insult My Intelligence: Whenever one of your characters challenges another character, gain 1 lore.",
+    "classifications": [
+        "Storyborn",
+        "Villain"
+    ],
+    "version": "Menacing Predator",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

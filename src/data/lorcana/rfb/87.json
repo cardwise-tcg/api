@@ -1,0 +1,28 @@
+{
+    "artist": "Kristina Chouri / Mariana Moreno",
+    "ink": "Emerald",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Panic",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 87,
+    "keywords": [],
+    "flavor_text": "\"Who says it's hard to find good help these days? Oh yeah... ME!\"\n - Hades",
+    "text": "I Can Handle It: When you play this character, chosen character gets +2 {s} this turn. If the chosen character is named Pain, he gets +4 {s} instead.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Underworld Imp",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

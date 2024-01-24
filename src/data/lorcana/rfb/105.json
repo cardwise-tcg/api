@@ -1,0 +1,31 @@
+{
+    "artist": "Bill Robinson",
+    "ink": "Ruby",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Card Soldiers",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 105,
+    "keywords": [
+        "Challenger",
+        "Shift"
+    ],
+    "flavor_text": "You'll have to deal with them sooner or later.",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Captain Hook.) \n\nChallenger +3 When challenging, this character get +3 {s}.) \n\nStolen Dust - Characters with cost 3 or less can't challenge this character.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Full Deck",
+    "willpower": 5,
+    "strength": 5,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

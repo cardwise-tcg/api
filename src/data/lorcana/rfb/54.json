@@ -1,0 +1,29 @@
+{
+    "artist": "Brian Weisz",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Merlin",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 54,
+    "keywords": [],
+    "flavor_text": "\"You can't always trust to luck, boy.\"",
+    "text": "Look Before You Leap: When you play this character and when he leaves play, look at the top card of your deck. Put it on either the top or the bottom of your deck.",
+    "classifications": [
+        "Storyborn",
+        "Mentor",
+        "Sorcerer"
+    ],
+    "version": "Squirrel",
+    "willpower": 1,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

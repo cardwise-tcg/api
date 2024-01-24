@@ -1,0 +1,30 @@
+{
+    "artist": "R. La Barbera / L. Giammichele",
+    "ink": "Emerald",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Duke Of Weselton",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 73,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "\"Sorcery! I knew there was something dubious going on here.\"",
+    "text": "Bring Back To Life: \"exert\", 3 \"ink\" - Return a character card with Support from your discard to your hand.",
+    "classifications": [
+        "Storyborn",
+        "Villain"
+    ],
+    "version": "Opportunistic Official",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

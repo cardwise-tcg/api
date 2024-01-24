@@ -1,0 +1,20 @@
+{
+    "artist": "Cristian Romero",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": false,
+    "name": "Freeze",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Common",
+    "number": 63,
+    "keywords": [],
+    "flavor_text": "It's time for you to chill.",
+    "text": "Exert chosen opposing character.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

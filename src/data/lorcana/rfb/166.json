@@ -1,0 +1,20 @@
+{
+    "artist": "Antonia Flechsig",
+    "ink": "Sapphire",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Fang Crossbow",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Uncommon",
+    "number": 166,
+    "keywords": [],
+    "flavor_text": "Pretty words can move a crowd, but so can ugly ones.",
+    "text": "Careful Aim: \"exert\", 2 \"ink\" - Chosen character get -2 {s} this turn.\nStay Back!: \"exert\", Banish this item - Banish chosen Dragon character.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

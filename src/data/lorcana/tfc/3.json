@@ -1,0 +1,31 @@
+{
+    "artist": "Javier Salas",
+    "ink": "Amber",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Cinderella",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 3,
+    "keywords": [
+        "Singer"
+    ],
+    "flavor_text": "With a magical dress and a song in her heart, she dazzled everyone at the ball.",
+    "text": "Singer 5 (This character counts as cost 5 to sing songs.) \n\nA Wonderful Dream - \"exert\" - Remove up to 3 damage from chosen Princess character.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Gentle and Kind",
+    "willpower": 5,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

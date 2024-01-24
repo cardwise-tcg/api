@@ -1,0 +1,22 @@
+{
+    "artist": "Peter Brockhammer",
+    "ink": "Sapphire",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Sardine Can",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Uncommon",
+    "number": 170,
+    "keywords": [
+        "Ward"
+    ],
+    "flavor_text": "\"Flight 3759 boarding now! Let's go get that lore!\"\n-Orville",
+    "text": "Flight Cabin: Your exerted characters gain Ward. (Opponents can't choose them except to challenge.)",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

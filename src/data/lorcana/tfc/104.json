@@ -1,0 +1,30 @@
+{
+    "artist": "Nicholas Kole",
+    "ink": "Ruby",
+    "ink_cost": 7,
+    "inkable": true,
+    "name": "Aladdin",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 104,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "\"Oh ho! So the street rat found a sword and a backbone!\" \n-Razoul",
+    "text": "Shift 5 (You may pay 5 \"ink\" to play this on top of one of your characters named Aladdin.) \n\nDaring Exploit - During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore",
+    "classifications": [
+        "Floodborn",
+        "Hero"
+    ],
+    "version": "Heroic Outlaw",
+    "willpower": 5,
+    "strength": 5,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

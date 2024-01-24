@@ -1,0 +1,28 @@
+{
+    "artist": "Kevin Hong",
+    "ink": "Sapphire",
+    "ink_cost": 4,
+    "inkable": false,
+    "name": "James",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 150,
+    "keywords": [],
+    "flavor_text": "\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\"",
+    "text": "Never, Ever Lose Sight: When this character is banished, you may put this card into your inkwell facedown and exerted.",
+    "classifications": [
+        "Storyborn",
+        "Mentor"
+    ],
+    "version": "Role Model",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

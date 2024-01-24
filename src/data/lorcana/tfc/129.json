@@ -1,0 +1,22 @@
+{
+    "artist": "Ellie Horie",
+    "ink": "Ruby",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Cut To The Chase",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Uncommon",
+    "number": 129,
+    "keywords": [
+        "Rush"
+    ],
+    "flavor_text": "\"Surprise!\"",
+    "text": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

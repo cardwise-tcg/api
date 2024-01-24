@@ -1,0 +1,28 @@
+{
+    "artist": "Nicholas Kole",
+    "ink": "Amethyst",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Mickey Mouse",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 51,
+    "keywords": [],
+    "flavor_text": "He always goes for the clean sweep.",
+    "text": "Animate Broom - You pay 1 \"ink\" less to play Broom characters.\n\nCeaseless Worker - Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+    "classifications": [
+        "Dreamborn",
+        "Sorcerer"
+    ],
+    "version": "Wayward Sorcerer",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

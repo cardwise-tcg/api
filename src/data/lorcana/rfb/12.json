@@ -1,0 +1,28 @@
+{
+    "artist": "Hadjie Joos",
+    "ink": "Amber",
+    "ink_cost": 7,
+    "inkable": true,
+    "name": "King Louie",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 12,
+    "keywords": [],
+    "flavor_text": "\"Cool it, boy. Unwind yourself.\"",
+    "text": "Lay It On The Line - Whenever another character is banished, you may remove up to 2 damage from this character.",
+    "classifications": [
+        "Storyborn",
+        "King"
+    ],
+    "version": "Jungle VIP",
+    "willpower": 8,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "artist": "Juan Diego Leon",
+    "ink": "Emerald",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Mickey Mouse",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 89,
+    "keywords": [
+        "Bodyguard"
+    ],
+    "flavor_text": "On rivers throughout the Inklands, the little steamboat's whistle answers the cheery tunes of its pilot.",
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nAll For One - Your other musketeer character get +1 {s}.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Captain"
+    ],
+    "version": "Steamboat Pilot",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

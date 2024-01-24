@@ -1,0 +1,20 @@
+{
+    "artist": "Michaela Martin",
+    "ink": "Emerald",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Vicious Betrayal",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Common",
+    "number": 100,
+    "keywords": [],
+    "flavor_text": "\"A true king takes matters into his own claws.\"\n -Scar",
+    "text": "Chosen character gets +2 {s} this turn. If a villain character is chosen, they get +3 {s} instead.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

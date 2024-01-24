@@ -1,0 +1,31 @@
+{
+    "artist": "Jake Parker",
+    "ink": "Sapphire",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Basil",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 139,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "\"What an ingenious device! If its light is refracted through these, then its images must resolve somewhere below.\"",
+    "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Detective"
+    ],
+    "version": "Of Baker Street",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

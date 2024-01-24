@@ -1,0 +1,30 @@
+{
+    "artist": "Cary Godhey",
+    "ink": "Ruby",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Sergeant Tibbs",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 124,
+    "keywords": [
+        "Singer"
+    ],
+    "flavor_text": "\"Yes, sir. Righto, sir. Right away, sir!\"",
+    "text": "Singer 4 (This character counts as cost 4 to sing songs.)",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Courageous Cat",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "artist": "Brian Weisz",
+    "ink": "Amethyst",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Jetsam",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 46,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "\"We can help you get anything you want. . . .\"",
+    "text": "Evasive (Only characters with Evasive can challenge this character.) \n\nSinister Slither - Your characters named Flotsam gain Evasive.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Ursula's Spy",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

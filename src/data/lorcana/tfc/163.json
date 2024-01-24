@@ -1,0 +1,21 @@
+{
+    "artist": "Milica Celikovic",
+    "ink": "Sapphire",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Let It Go",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Rare",
+    "number": 163,
+    "keywords": [],
+    "flavor_text": "It's time to see what I can do \nTo test the limits and break through",
+    "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nPut chosen character into their player's inkwell facedown and exerted.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

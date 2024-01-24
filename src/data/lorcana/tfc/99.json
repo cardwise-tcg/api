@@ -1,0 +1,22 @@
+{
+    "artist": "Matthew Robert Davies",
+    "ink": "Emerald",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "The Beast Is Mine!",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Uncommon",
+    "number": 99,
+    "keywords": [
+        "Reckless"
+    ],
+    "flavor_text": "\"It's only fitting that the finest hunter get the foulest beast!\" \n-Gaston",
+    "text": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

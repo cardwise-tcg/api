@@ -1,0 +1,30 @@
+{
+    "artist": "Matthew Robert Davies",
+    "ink": "Sapphire",
+    "ink_cost": 6,
+    "inkable": false,
+    "name": "Gaston",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 147,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "No one . . . sings like Gaston!",
+    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Gaston.)\nDeveloped Brain: When you play this character, look at the top 3 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order.",
+    "classifications": [
+        "Floodborn",
+        "Villain"
+    ],
+    "version": "Intellectual Powerhouse",
+    "willpower": 4,
+    "strength": 4,
+    "lore": 3,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

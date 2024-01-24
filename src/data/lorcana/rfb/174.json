@@ -1,0 +1,29 @@
+{
+    "artist": "Grace Tran",
+    "ink": "Steel",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Benja",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 174,
+    "keywords": [],
+    "flavor_text": "\"Don't mistake spirit for skill.\"",
+    "text": "We Have A Choice: When you play this character, you may banish chosen item.",
+    "classifications": [
+        "Storyborn",
+        "Mentor",
+        "King"
+    ],
+    "version": "Guardian of the Dragon Gem",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "artist": "Isaiah Mesq",
+    "ink": "Ruby",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Queen Of Hearts",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 120,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "\"You know, we could make her really angry. Shall we try?\"\n - Cheshire Cat",
+    "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Queen of Hearts.)\nLet The Game Being: Whenever one of your characters challenges another character, you may draw a card.",
+    "classifications": [
+        "Floodborn",
+        "Villain",
+        "Queen"
+    ],
+    "version": "Sensing Weakness",
+    "willpower": 3,
+    "strength": 4,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

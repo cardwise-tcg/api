@@ -1,0 +1,30 @@
+{
+    "artist": "Michaela Martin",
+    "ink": "Emerald",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Ratigan",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 91,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "\"I've outdone myself this time! Soon I will have everything I deserve. Riches... power... an entire kingdom at my feet!\"",
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "classifications": [
+        "Dreamborn",
+        "Villain"
+    ],
+    "version": "Criminal Mastermind",
+    "willpower": 1,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

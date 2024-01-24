@@ -1,0 +1,28 @@
+{
+    "artist": "Rianti Hidayat",
+    "ink": "Sapphire",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Winnie The Pooh",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 161,
+    "keywords": [],
+    "flavor_text": "When he though, he though in the most thoughtful way he could think.",
+    "text": "Hunny Pot: Whenever this character quests, you may put a card from your hand into your inkwell facedown.",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Having A Think",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "artist": "Michael \"Cookie\" Niewiadomy",
+    "ink": "Ruby",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Felicia",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 107,
+    "keywords": [
+        "Reckless"
+    ],
+    "flavor_text": "\"This isn't how most cat-and-mouse games go, is it, Dr. Dawson?\"\n- Basil",
+    "text": "Reckless (This character can't quest and must challenge each turn if able.)",
+    "classifications": [
+        "Dreamborn",
+        "Ally"
+    ],
+    "version": "Always Hungry",
+    "willpower": 1,
+    "strength": 3,
+    "lore": 0,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

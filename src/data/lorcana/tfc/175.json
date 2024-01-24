@@ -1,0 +1,33 @@
+{
+    "artist": "Elliot Bocxtaele",
+    "ink": "Steel",
+    "ink_cost": 5,
+    "inkable": false,
+    "name": "Captain Hook",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 175,
+    "keywords": [
+        "Challenger",
+        "Shift"
+    ],
+    "flavor_text": "\"You wouldn't dare fight old hook man-to-man!\"",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Captain Hook.) \n\nChallenger +3 When challenging, this character get +3 {s}.) \n\nStolen Dust - Characters with cost 3 or less can't challenge this character.",
+    "classifications": [
+        "Floodborn",
+        "Villain",
+        "Pirate",
+        "Captain"
+    ],
+    "version": "Thinking a Happy Thought",
+    "willpower": 5,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

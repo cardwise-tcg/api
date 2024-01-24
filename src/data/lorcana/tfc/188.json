@@ -1,0 +1,29 @@
+{
+    "artist": "Nicholas Kole",
+    "ink": "Steel",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Simba",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 188,
+    "keywords": [],
+    "flavor_text": "\"I'm gonna be the best king the Pride Lands have ever seen!\"",
+    "text": "Guess What? - When you play this character, you may draw a card, then choose and discard a card.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Prince"
+    ],
+    "version": "Future King",
+    "willpower": 2,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

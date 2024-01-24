@@ -1,0 +1,28 @@
+{
+    "artist": "Gaku Kumatori",
+    "ink": "Ruby",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Lefou",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 112,
+    "keywords": [],
+    "flavor_text": "All a mob needs is a push in the wrong direction.",
+    "text": "Fan The Flames - When you play this character, ready chosen character. They can't quest for the rest of this turn.",
+    "classifications": [
+        "Dreamborn",
+        "Ally"
+    ],
+    "version": "Instigator",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

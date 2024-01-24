@@ -1,0 +1,31 @@
+{
+    "artist": "Matthew Robert Davies",
+    "ink": "Ruby",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Raya",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 124,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "\"My ba dreams of a united Kumandra. I fight to honor that dream.\"",
+    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Raya.)\nChampion Of Kumandra: Whenever this character challenges a damaged character, she takes no damage from the challenge.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Warrior Of Kumandra",
+    "willpower": 3,
+    "strength": 5,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

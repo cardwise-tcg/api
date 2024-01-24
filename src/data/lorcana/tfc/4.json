@@ -1,0 +1,31 @@
+{
+    "artist": "Jochem Van Gool",
+    "ink": "Amber",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Goofy",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 4,
+    "keywords": [
+        "Bodyguard"
+    ],
+    "flavor_text": "\"En Gawrsh\"",
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nAnd Two For Tea! - When you play this character, you may remove up to 2 damage from each of your Musketeer characters.",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Musketeer"
+    ],
+    "version": "Musketeer",
+    "willpower": 6,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

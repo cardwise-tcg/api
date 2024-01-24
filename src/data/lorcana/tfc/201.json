@@ -1,0 +1,20 @@
+{
+    "artist": "Samanta Erdini",
+    "ink": "Steel",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Beast's Mirror",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Common",
+    "number": 201,
+    "keywords": [],
+    "flavor_text": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
+    "text": "Show Me - \"exert\", 3 \"ink\" - If you have no cards in your hand, draw a card.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

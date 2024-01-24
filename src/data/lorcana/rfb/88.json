@@ -1,0 +1,30 @@
+{
+    "artist": "Hedvig Haggman-Sund",
+    "ink": "Emerald",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Pete",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 88,
+    "keywords": [
+        "Ward"
+    ],
+    "flavor_text": "A true friend is always there for you, whether you can see them or not.",
+    "text": "Ward (Opponents can't choose this character except to challenge.)\nTake That!: Whenever you play an action, this character gets +2 {s} this turn.\nWho's Next?: While this character has 7 {s} or more, he gets +2 {l}.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Bad Guy",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "artist": "Alice Pisoni",
+    "ink": "Steel",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Beast",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 171,
+    "keywords": [],
+    "flavor_text": "Woe to the one who draws his gaze.",
+    "text": "You're Not Welcome Here: When you play this character, you may deal 1 damage to chosen character.",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Prince"
+    ],
+    "version": "Forbidding Recluse",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

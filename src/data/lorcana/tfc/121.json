@@ -1,0 +1,29 @@
+{
+    "artist": "Clio Wolfensberger",
+    "ink": "Ruby",
+    "ink_cost": 6,
+    "inkable": false,
+    "name": "Rapunzel",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 121,
+    "keywords": [],
+    "flavor_text": "\"Who are you? And how did you find me?\"",
+    "text": "Tangle - When you play this character, each opponent loses 1 lore.",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Letting Down Her Hair",
+    "willpower": 4,
+    "strength": 5,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

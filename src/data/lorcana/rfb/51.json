@@ -1,0 +1,29 @@
+{
+    "artist": "S. Shaw / L. Giammichele",
+    "ink": "Amethyst",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Merlin",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 51,
+    "keywords": [],
+    "flavor_text": "\"He always was a stubborn old goat.\"\r - Madam Mim",
+    "text": "Here I Come!: When you play this character and when he leaves play, gain 1 lore.",
+    "classifications": [
+        "Storyborn",
+        "Mentor",
+        "Sorcerer"
+    ],
+    "version": "Goat",
+    "willpower": 3,
+    "strength": 4,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

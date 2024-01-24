@@ -1,0 +1,32 @@
+{
+    "artist": "Eri Welli",
+    "ink": "Steel",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "The Prince",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 195,
+    "keywords": [
+        "Bodyguard",
+        "Resist"
+    ],
+    "flavor_text": "As elusive as water.",
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\\nResist +1 (Damage dealt to this character is reduced by 1.)",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Prince"
+    ],
+    "version": "Never Gives Up",
+    "willpower": 3,
+    "strength": 1,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

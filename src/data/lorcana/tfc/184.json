@@ -1,0 +1,30 @@
+{
+    "artist": "Jared Nickerl",
+    "ink": "Steel",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Lilo",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 184,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "\"Space. That's where the aliens come from. And also tourists!\"",
+    "text": "Archery Lesson: Whenever this character quests, your character gains Evasive this turn. (They can challenge characters with Evasive.)",
+    "classifications": [
+        "Dreamborn",
+        "Hero"
+    ],
+    "version": "Galactic Hero",
+    "willpower": 2,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

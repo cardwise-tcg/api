@@ -1,0 +1,20 @@
+{
+    "artist": "Pao Yong",
+    "ink": "Sapphire",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Develop Your Brain",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Common",
+    "number": 161,
+    "keywords": [],
+    "flavor_text": "\"Knowledge, wisdom-there's the real power!\" \n-Merlin",
+    "text": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

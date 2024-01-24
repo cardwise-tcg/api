@@ -1,0 +1,32 @@
+{
+    "artist": "Alex Accorsi",
+    "ink": "Amber",
+    "ink_cost": 8,
+    "inkable": false,
+    "name": "Hades",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 5,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "\"Oh hey, I'm gonna need new business cards.\"",
+    "text": "Shift 6 (You may pay 6 \"ink\" to play this on top of one of your characters named Hades.) \n\nSinister Plot - This character gets +1 {l} for each other Villain character you have in play.",
+    "classifications": [
+        "Floodborn",
+        "Villain",
+        "King",
+        "Deity"
+    ],
+    "version": "King of Olympus",
+    "willpower": 7,
+    "strength": 6,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

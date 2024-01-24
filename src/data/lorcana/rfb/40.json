@@ -1,0 +1,29 @@
+{
+    "artist": "Hedvig H?ggman-Sund",
+    "ink": "Amethyst",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Fairy Godmother",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 40,
+    "keywords": [],
+    "flavor_text": "\"Use a humdrum spell. and you'll end up with humdrum magic. I like my magic to have something special!\"",
+    "text": "See The Future - \"exert\" - Chosen character gets +1 {l} this turn.",
+    "classifications": [
+        "Storyborn",
+        "Ally",
+        "Fairy"
+    ],
+    "version": "Here to Help",
+    "willpower": 7,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

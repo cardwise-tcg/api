@@ -1,0 +1,30 @@
+{
+    "artist": "Giulia Riva",
+    "ink": "Sapphire",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Rabbit",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 158,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "Pooh: \"Isn't there anybody here at all?\"\nRabbit: \"Nobody!\"\nPooh: \"Somebody's there... because somebody must have said 'Nobody.'\"",
+    "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Queen of Hearts.)\nLet The Game Being: Whenever one of your characters challenges another character, you may draw a card.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Reluctent Host",
+    "willpower": 6,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

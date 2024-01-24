@@ -1,0 +1,30 @@
+{
+    "artist": "Matthew Robert Davies",
+    "ink": "Ruby",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Gaston",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 110,
+    "keywords": [
+        "Reckless"
+    ],
+    "flavor_text": "It's not arrogance when you really are the best.",
+    "text": "Reckless (This character can't quest and must challenge each turn if able.) ",
+    "classifications": [
+        "Storyborn",
+        "Villain"
+    ],
+    "version": "Arrogant Hunter",
+    "willpower": 2,
+    "strength": 4,
+    "lore": 0,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "artist": "Matthew Robert Davies",
+    "ink": "Steel",
+    "ink_cost": 4,
+    "inkable": false,
+    "name": "Tiana",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 196,
+    "keywords": [
+        "Resist"
+    ],
+    "flavor_text": "When you simply must have the hautest couture.",
+    "text": "Resist +2 (Damage dealt to this character is reduced by 2.)\\nWhat You Give Is What You Get: While this character is exerted and you have no cards in your hand, opponents can't play actions.",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Celebrating Princess",
+    "willpower": 4,
+    "strength": 1,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

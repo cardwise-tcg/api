@@ -1,0 +1,31 @@
+{
+    "artist": "Dave Beauchene",
+    "ink": "Sapphire",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Merlin",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 153,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "\"What a mess! What a medieval muddle! We'll have to modernize it.\"",
+    "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",
+    "classifications": [
+        "Dreamborn",
+        "Mentor",
+        "Sorcerer"
+    ],
+    "version": "Self-Appointed Mentor",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

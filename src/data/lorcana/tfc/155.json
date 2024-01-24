@@ -1,0 +1,29 @@
+{
+    "artist": "Luis Huerta",
+    "ink": "Sapphire",
+    "ink_cost": 6,
+    "inkable": true,
+    "name": "Mufasa",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 155,
+    "keywords": [],
+    "flavor_text": "\"A king must care for all of the creatures in his kingdom, no matter their size.\"",
+    "text": "The Sun Will Set - When this character is banished, you may reveal the top card of your deck. If it's a character card, you may play that character for free and they enter play exerted. Otherwise, put it on the top of your deck.",
+    "classifications": [
+        "Storyborn",
+        "Mentor",
+        "King"
+    ],
+    "version": "King of the Pride Lands",
+    "willpower": 6,
+    "strength": 4,
+    "lore": 3,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

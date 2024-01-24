@@ -1,0 +1,31 @@
+{
+    "artist": "Matthew Robert Davies / Lady Shalirin",
+    "ink": "Amber",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "The Queen",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 26,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "As elusive as water.",
+    "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named The Queen.)\n\nWho is the Fairest? - Whenever this character quests, chosen opposing character gets -4 {s} this turn and chosen character gets +4 {s} this turn.",
+    "classifications": [
+        "Floodborn",
+        "Villain",
+        "Queen"
+    ],
+    "version": "Commanding Presence",
+    "willpower": 3,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

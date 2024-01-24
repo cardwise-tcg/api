@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "API with cards database for the CardWise mobile and web apps.",
+  "main": "src/http/api.ts",
+  "repository": "https://github.com/cardwise-tcg/api",
+  "author": "Ivanka Todorova",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon --exec ts-node src/http/api.ts",
+    "build": "tsc",
+    "compile": "ts-node src/compiler/index.ts",
+    "dev": "nodemon --exec ts-node src/http/api.ts"
+  },
+  "dependencies": {
+    "@types/koa": "^2.14.0",
+    "@types/koa-router": "^7.4.8",
+    "koa": "^2.15.0",
+    "koa-router": "^12.0.1",
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

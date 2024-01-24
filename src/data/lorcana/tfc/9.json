@@ -1,0 +1,30 @@
+{
+    "artist": "Dave Beauchene",
+    "ink": "Amber",
+    "ink_cost": 1,
+    "inkable": false,
+    "name": "Lilo",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 9,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "\"A falling star . . . I have to make a wish!\"",
+    "text": "Archery Lesson: Whenever this character quests, your character gains Evasive this turn. (They can challenge characters with Evasive.)",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Making a Wish",
+    "willpower": 1,
+    "strength": 1,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

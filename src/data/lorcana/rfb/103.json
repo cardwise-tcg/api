@@ -1,0 +1,31 @@
+{
+    "artist": "R. la Barbera / L. Giammichele",
+    "ink": "Ruby",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Baloo",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 103,
+    "keywords": [
+        "Shift",
+        "Ward"
+    ],
+    "flavor_text": "\"The bees are buzzin' in the tree to make some honey just for me!\"",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Aurora.) \n\nProtective Embrace - Your other characters gain Ward. (Opponents can't choose them except to challenge)",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Fun-Loving Bear",
+    "willpower": 3,
+    "strength": 4,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

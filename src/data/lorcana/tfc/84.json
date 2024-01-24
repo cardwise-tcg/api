@@ -1,0 +1,30 @@
+{
+    "artist": "Grace Tran",
+    "ink": "Emerald",
+    "ink_cost": 5,
+    "inkable": false,
+    "name": "Kuzco",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 84,
+    "keywords": [
+        "Ward"
+    ],
+    "flavor_text": "\"I asked for emerald and that is clearly jade! What is wrong with you people?\"",
+    "text": "Ward (Opponents can't choose this character except to challenge.) \n\nNo Touchy! - When this character is challenged and banished, you may banish the challenging character.",
+    "classifications": [
+        "Storyborn",
+        "King"
+    ],
+    "version": "Temperamental Emperor",
+    "willpower": 4,
+    "strength": 2,
+    "lore": 3,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

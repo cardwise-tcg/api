@@ -1,0 +1,29 @@
+{
+    "artist": "Hadjie Joos",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Yzma",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 60,
+    "keywords": [],
+    "flavor_text": "\"When I want your opinion, I will give it to you!\"",
+    "text": "You're Excused - Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck",
+    "classifications": [
+        "Dreamborn",
+        "Villain",
+        "Sorcerer"
+    ],
+    "version": "Alchemist",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

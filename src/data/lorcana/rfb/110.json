@@ -1,0 +1,31 @@
+{
+    "artist": "Arianna Rea",
+    "ink": "Ruby",
+    "ink_cost": 6,
+    "inkable": false,
+    "name": "Lady Tremaine",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 110,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "The twelfth Rule of Villainy: If you don't have a throne, take one.",
+    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Lady Tremaine.)\n\nPower To Rule At Last - When you play this character, each opponent chooses and banishes one of their characters.",
+    "classifications": [
+        "Floodborn",
+        "Villain",
+        "Queen"
+    ],
+    "version": "Imperious Queen",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "artist": "Matt Chapman",
+    "ink": "Emerald",
+    "ink_cost": 1,
+    "inkable": false,
+    "name": "Stampede",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Common",
+    "number": 96,
+    "keywords": [],
+    "flavor_text": "A wildebeest stampede is like a raging river: best experienced from a distance.",
+    "text": "Deal 2 damage to chosen damaged character.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

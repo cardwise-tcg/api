@@ -1,0 +1,28 @@
+{
+    "artist": "Lissette Carrera",
+    "ink": "Emerald",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Daisy Duck",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 76,
+    "keywords": [],
+    "flavor_text": "\"Surprise!\"",
+    "text": "Thwart: Whenever this character quests, each opponent chooses and discards a card.",
+    "classifications": [
+        "Dreamborn",
+        "Ally"
+    ],
+    "version": "Secret Agent",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

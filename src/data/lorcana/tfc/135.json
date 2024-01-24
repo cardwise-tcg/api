@@ -1,0 +1,20 @@
+{
+    "artist": "Eri Welli",
+    "ink": "Ruby",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Shield Of Virtue",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Uncommon",
+    "number": 135,
+    "keywords": [],
+    "flavor_text": "\"Arm thyself with this enchanted Shield of Virtue and this mighty Sword of Truth, for these weapons of righteousness will triumph over evil.\" \n-Flora",
+    "text": "Fireproof - \"exert\", 3 \"ink\" - Ready chosen character. They can't quest for the rest of this turn.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

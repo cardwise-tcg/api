@@ -1,0 +1,30 @@
+{
+    "artist": "Brian Weisz",
+    "ink": "Steel",
+    "ink_cost": 6,
+    "inkable": true,
+    "name": "Kronk",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 185,
+    "keywords": [
+        "Resist"
+    ],
+    "flavor_text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" \nAnna: \"Ooh, that's a rough business to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
+    "text": "Resist +1 (Damage dealt to this character is reduced by 1.)\\nScout Leader: During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen character.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Junior Chipmunk",
+    "willpower": 5,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

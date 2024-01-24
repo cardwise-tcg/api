@@ -1,0 +1,28 @@
+{
+    "artist": "Giulia Riva",
+    "ink": "Amethyst",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "The Wardrobe",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 57,
+    "keywords": [],
+    "flavor_text": "When you simply must have the hautest couture.",
+    "text": "Knowledge: \"exert\", 1 \"ink\" - Gain 1 lore.",
+    "classifications": [
+        "Dreamborn",
+        "Ally"
+    ],
+    "version": "Belle's Confidant",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

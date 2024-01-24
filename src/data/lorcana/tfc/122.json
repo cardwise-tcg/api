@@ -1,0 +1,30 @@
+{
+    "artist": "Amber Kommavongsa",
+    "ink": "Ruby",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Scar",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 122,
+    "keywords": [
+        "Ward"
+    ],
+    "flavor_text": "Consumed by the flames of ambition.",
+    "text": "Flight Cabin: Your exerted characters gain Ward. (Opponents can't choose them except to challenge.)",
+    "classifications": [
+        "Dreamborn",
+        "Villain"
+    ],
+    "version": "Fiery Usurper",
+    "willpower": 3,
+    "strength": 5,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

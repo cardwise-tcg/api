@@ -1,0 +1,31 @@
+{
+    "artist": "Jake Parker",
+    "ink": "Amber",
+    "ink_cost": 7,
+    "inkable": true,
+    "name": "Cobra Bubbles",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 4,
+    "keywords": [
+        "Resist",
+        "Shift"
+    ],
+    "flavor_text": "\"Let me get this straight. Your 'magic' spellbook got washed away in a flood of 'magic' ink?\"",
+    "text": "Shift 5 (You may pay 5 \"ink\" to play this on top of one of your characters named Cinderella.)\r Resist +2 (Damage dealt to this character is reduced by 2.)\r The Singing Sword: Whenever you play a song, this character may challenge ready characters this turn.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Just a Social Worker",
+    "willpower": 9,
+    "strength": 5,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

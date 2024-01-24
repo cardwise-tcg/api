@@ -1,0 +1,31 @@
+{
+    "artist": "Jenna Gray",
+    "ink": "Steel",
+    "ink_cost": 4,
+    "inkable": false,
+    "name": "Namaari",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Legendary",
+    "number": 189,
+    "keywords": [
+        "Bodyguard"
+    ],
+    "flavor_text": "There's no such thing as a lone musketeer.",
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\\nBlades: This character can challenge ready characters.",
+    "classifications": [
+        "Storyborn",
+        "Villain",
+        "Princess"
+    ],
+    "version": "Morning Mist",
+    "willpower": 4,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "artist": "Alice Pisoni",
+    "ink": "Amber",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Ariel",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 2,
+    "keywords": [
+        "Singer"
+    ],
+    "flavor_text": "\"...\"",
+    "text": "Singer 5 (This character counts as cost 5 to sing songs.) \n\nMusical Debut - When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Spectacular Singer",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

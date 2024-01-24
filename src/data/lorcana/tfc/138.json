@@ -1,0 +1,29 @@
+{
+    "artist": "Rosalia Radosti",
+    "ink": "Sapphire",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Aurora",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 138,
+    "keywords": [],
+    "flavor_text": "\"There was something strange about that voice. Too beautiful to be real . . .\"\n-Prince Phillip",
+    "text": "Disarming Beauty - When you play this character, chosen character gets -2 {s} this turn.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Briar Rose",
+    "willpower": 5,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

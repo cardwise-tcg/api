@@ -1,0 +1,20 @@
+{
+    "artist": "Julie",
+    "ink": "Amethyst",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "The Sorcerer's Spellbook",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Rare",
+    "number": 68,
+    "keywords": [],
+    "flavor_text": "Illumineers seek the power of knowledge - but must be aware of the price.",
+    "text": "Knowledge: \"exert\", 1 \"ink\" - Gain 1 lore.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "artist": "Connie Kang / Jackie Droujko",
+    "ink": "Amber",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Hold Still",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Common",
+    "number": 28,
+    "keywords": [],
+    "flavor_text": "\"This might sting a little.\"",
+    "text": "Remove up to 4 damage from chosen character.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

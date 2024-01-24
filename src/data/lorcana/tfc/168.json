@@ -1,0 +1,20 @@
+{
+    "artist": "Tanisha Cherislin",
+    "ink": "Sapphire",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Fishbone Quill",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Rare",
+    "number": 168,
+    "keywords": [],
+    "flavor_text": "\"If you want to cross the bridge, my sweet, you've got to pay the toll.\" \n-Ursula",
+    "text": "Go Ahead And Sing - \"exert\" - Put any card from your hand into your inkwell facedown.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

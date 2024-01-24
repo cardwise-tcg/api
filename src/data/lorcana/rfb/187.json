@@ -1,0 +1,30 @@
+{
+    "artist": "Cristian Remero",
+    "ink": "Steel",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Li Shang",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 187,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "Learn what to do, then learn to do it without thought.",
+    "text": "Archery Lesson: Whenever this character quests, your character gains Evasive this turn. (They can challenge characters with Evasive.)",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Archery Instructor",
+    "willpower": 6,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

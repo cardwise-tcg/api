@@ -1,0 +1,32 @@
+{
+    "artist": "Samanta Erdini",
+    "ink": "Sapphire",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Aurora",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 140,
+    "keywords": [
+        "Shift",
+        "Ward"
+    ],
+    "flavor_text": "\"They say if you dream a thing more than once, it's sure to come true!\"",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Aurora.) \n\nProtective Embrace - Your other characters gain Ward. (Opponents can't choose them except to challenge)",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Regal Princess",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "artist": "Aisha Durmagambetova",
+    "ink": "Amber",
+    "ink_cost": 2,
+    "inkable": false,
+    "name": "Last Stand",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Uncommon",
+    "number": 29,
+    "keywords": [],
+    "flavor_text": "\"Let's finish this, binturi.\"\r - Namaari",
+    "text": "Banish chosen character who was challenged this turn.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

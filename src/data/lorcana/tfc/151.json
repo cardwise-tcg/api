@@ -1,0 +1,29 @@
+{
+    "artist": "Gaku Kumatori",
+    "ink": "Sapphire",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Maleficent",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 151,
+    "keywords": [],
+    "flavor_text": "She had no invitation-and needed no introduction.",
+    "text": "Cast My Spell! - When you play this character, you may draw a card.",
+    "classifications": [
+        "Dreamborn",
+        "Villain",
+        "Sorcerer"
+    ],
+    "version": "Uninvited",
+    "willpower": 6,
+    "strength": 3,
+    "lore": 3,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

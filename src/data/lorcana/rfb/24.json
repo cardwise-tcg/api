@@ -1,0 +1,29 @@
+{
+    "artist": "Samantha Erdini",
+    "ink": "Amber",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Snow White",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 24,
+    "keywords": [],
+    "flavor_text": "\"Nothing says 'hello' better than a fresh-baked pie.\"",
+    "text": "How Do You Do? - You pay 1 \"ink\" less to play Seven Dwarfs Characters.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Unexpected Houseguest",
+    "willpower": 2,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

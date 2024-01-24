@@ -1,0 +1,20 @@
+{
+    "artist": "Andrew Trabbold",
+    "ink": "Ruby",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Poisoned Apple",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Rare",
+    "number": 134,
+    "keywords": [],
+    "flavor_text": "\"One taste of the poisoned apple, and the victim's eyes will close forever....\" \n-The Queen",
+    "text": "Take A Bite . . . - 1 \"ink\", Banish this item - Exert chosen character. If a princess character is chosen, banish her instead.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

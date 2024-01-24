@@ -1,0 +1,31 @@
+{
+    "artist": "Pirel",
+    "ink": "Sapphire",
+    "ink_cost": 7,
+    "inkable": true,
+    "name": "Chief Tui",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 143,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "\"You can always rely on the strength of those who love you.\"",
+    "text": "Support (Whenever this character quests, you may add their {s} to another chosen character‘s {s} this turn.) ",
+    "classifications": [
+        "Storyborn",
+        "Mentor",
+        "King"
+    ],
+    "version": "Respected Leader",
+    "willpower": 6,
+    "strength": 3,
+    "lore": 3,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

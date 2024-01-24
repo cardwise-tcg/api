@@ -1,0 +1,30 @@
+{
+    "artist": "Aubrey Archer",
+    "ink": "Amethyst",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Chip The Teacup",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 37,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "\"Wanna see me do a trick?\"",
+    "text": "Support (Whenever this character quests, you may add their {s} to another chosen character‘s {s} this turn.) ",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Gentle Soul",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

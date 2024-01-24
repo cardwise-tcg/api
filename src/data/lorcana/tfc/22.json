@@ -1,0 +1,29 @@
+{
+    "artist": "Alex Accorsi",
+    "ink": "Amber",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Stitch",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 22,
+    "keywords": [],
+    "flavor_text": "Lilo: \"David! I got a new dog!\" \nDavid: \"Auwe! . . . You sure it's a dog?\" \nLilo: \"Uh-huh. He used to be a collie before he got ran over.\"",
+    "text": "Ohana - When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Alien"
+    ],
+    "version": "New Dog",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

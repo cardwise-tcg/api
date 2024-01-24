@@ -1,0 +1,30 @@
+{
+    "artist": "Isaiah Mesq",
+    "ink": "Amber",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Sebastian",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 19,
+    "keywords": [
+        "Singer"
+    ],
+    "flavor_text": "\"I should be writing symphonies, not tagging along after some headstrong teenager.\"",
+    "text": "Singer 4 (This character counts as cost 4 to sing songs.)",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Court Composer",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "artist": "Andrew Trabbold",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": false,
+    "name": "Preplexing Signposts",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Rare",
+    "number": 67,
+    "keywords": [],
+    "flavor_text": "Alice: \"I just wanted to ask you which way I ought to go.\"\nCheshire Cat: \"Well, that depends on where you want to get.\"",
+    "text": "To Wonderland: Banish this item - Return chosen character of yours to your hand.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

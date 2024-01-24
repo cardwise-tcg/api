@@ -1,0 +1,22 @@
+{
+    "artist": "Kamil Murzyn",
+    "ink": "Amethyst",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "White Rabbit's Pocket Watch",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Rare",
+    "number": 68,
+    "keywords": [
+        "Rush"
+    ],
+    "flavor_text": "\"No wonder you're late. Why, this watch is exactly two days slow.\" - The Mad Hatter",
+    "text": "I'm Late! - \"exert\", 1\"ink\" - Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

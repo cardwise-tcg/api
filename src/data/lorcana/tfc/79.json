@@ -1,0 +1,28 @@
+{
+    "artist": "Isaiah Mesq",
+    "ink": "Emerald",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Horace",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 79,
+    "keywords": [],
+    "flavor_text": "\"Well, they ain't in here, Jasper.\"",
+    "text": "Easy Street - Whenever you play a Floodborn character, each opponent loses 1 lore.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "No-Good Scoundrel",
+    "willpower": 3,
+    "strength": 4,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

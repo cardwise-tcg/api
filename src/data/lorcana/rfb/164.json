@@ -1,0 +1,20 @@
+{
+    "artist": "Juan Diego Leon",
+    "ink": "Sapphire",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Launch",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Uncommon",
+    "number": 164,
+    "keywords": [],
+    "flavor_text": "Ready... aim... coconut?",
+    "text": "Banish chosen item of yours to deal 5 damage to chosen character.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

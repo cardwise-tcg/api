@@ -1,0 +1,28 @@
+{
+    "artist": "Nicholas Kole",
+    "ink": "Emerald",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Cruella De Vil",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 72,
+    "keywords": [],
+    "flavor_text": "When she stops by, misery is company.",
+    "text": "You'll Be Sorry! - When this character is challenged and banished, you may return chosen character to their player's hand.",
+    "classifications": [
+        "Storyborn",
+        "Villain"
+    ],
+    "version": "Miserable as Usual",
+    "willpower": 3,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

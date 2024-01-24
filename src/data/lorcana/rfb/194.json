@@ -1,0 +1,28 @@
+{
+    "artist": "Gaku Kumatori",
+    "ink": "Steel",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "The Huntsman",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 194,
+    "keywords": [],
+    "flavor_text": "\"Run away, hide! In the woods, anywhere!\"",
+    "text": "Change Of Heart: Whenever this character quests, you may draw a card, then choose and discard a card.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Reluctant Enforcer",
+    "willpower": 1,
+    "strength": 1,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

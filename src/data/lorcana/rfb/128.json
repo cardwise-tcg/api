@@ -1,0 +1,30 @@
+{
+    "artist": "Brian Weisz",
+    "ink": "Ruby",
+    "ink_cost": 4,
+    "inkable": false,
+    "name": "Tuk Tuk",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 128,
+    "keywords": [
+        "Reckless"
+    ],
+    "flavor_text": "A good friend is always ready to roll.",
+    "text": "Reckless (This character can't quest and must challenge each turn if able.)",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Wrecking Ball",
+    "willpower": 5,
+    "strength": 4,
+    "lore": 0,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

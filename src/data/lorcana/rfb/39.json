@@ -1,0 +1,32 @@
+{
+    "artist": "Cristian Romero",
+    "ink": "Amethyst",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Elsa",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 39,
+    "keywords": [
+        "Challenger"
+    ],
+    "flavor_text": "The power of ice may not stop the flood, but it will help protect Lorcana.",
+    "text": "Challenger +3 (While challenging, this character gets +3 {s}.)",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+    ],
+    "version": "Gloves Off",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

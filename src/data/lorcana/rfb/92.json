@@ -1,0 +1,30 @@
+{
+    "artist": "Filipe Laurentino",
+    "ink": "Emerald",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Ray",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 92,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "He may be hard to follow, but his heart isn't.",
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "Easygoing Firefly",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 3,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

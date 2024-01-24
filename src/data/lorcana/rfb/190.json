@@ -1,0 +1,28 @@
+{
+    "artist": "Koni",
+    "ink": "Steel",
+    "ink_cost": 6,
+    "inkable": true,
+    "name": "Pacha",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 190,
+    "keywords": [],
+    "flavor_text": "\"Don't be fooled by the folksy peasant look.\" - Kuzco",
+    "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\n\nPut the top card of your deck into your inkwell facedown and exerted.",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Village Leader",
+    "willpower": 8,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

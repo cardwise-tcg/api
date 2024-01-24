@@ -1,0 +1,20 @@
+{
+    "artist": "Hedvig Haggman-Sund",
+    "ink": "Emerald",
+    "ink_cost": 5,
+    "inkable": false,
+    "name": "Steal From The Rich",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Rare",
+    "number": 97,
+    "keywords": [],
+    "flavor_text": "\"Wonder how much ol' Prince John spent on all those fancy locks.\" \n-Little John",
+    "text": "Whenever one of your characters quests this turn, each opponent loses 1 lore.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

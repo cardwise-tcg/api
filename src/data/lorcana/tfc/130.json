@@ -1,0 +1,20 @@
+{
+    "artist": "Luis Huerta",
+    "ink": "Ruby",
+    "ink_cost": 5,
+    "inkable": false,
+    "name": "Dragon Fire",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Uncommon",
+    "number": 130,
+    "keywords": [],
+    "flavor_text": "Rare is the hero who can withstand a dragon's wrath.",
+    "text": "Banish chosen character",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

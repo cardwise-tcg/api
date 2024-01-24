@@ -1,0 +1,31 @@
+{
+    "artist": "Evana Kisa",
+    "ink": "Steel",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Beast",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Legendary",
+    "number": 173,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "\"It must be my destiny–to remain a beast forever.\"",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Beast.)\nIt's Better This Way: At the start of your turn, if this character has no damage, draw a card. Otherwise, he gets +4 {s} this turn.",
+    "classifications": [
+        "Floodborn",
+        "Hero",
+        "Prince"
+    ],
+    "version": "Tragic Hero",
+    "willpower": 5,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

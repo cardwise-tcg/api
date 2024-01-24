@@ -1,0 +1,21 @@
+{
+    "artist": "Juan Diego Leon",
+    "ink": "Amber",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Hakuna Matata",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Common",
+    "number": 27,
+    "keywords": [],
+    "flavor_text": "What a wonderful phrase!",
+    "text": "(A character with cost 4 or more can \"exert\" to sing this song for free.)\n\nRemove up to 3 damage from each of your characters.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "artist": "Gaku Kumatori",
+    "ink": "Ruby",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Go The Distance",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Common",
+    "number": 129,
+    "keywords": [],
+    "flavor_text": "\"You can wish for nearly anything! Do you want the short version, or should I give you the whole song and dance?\"",
+    "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\nReady chosen damaged character of yours. They can't quest for the rest of this turn. Draw a card.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

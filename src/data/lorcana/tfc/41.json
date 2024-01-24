@@ -1,0 +1,30 @@
+{
+    "artist": "Nicholas Kole",
+    "ink": "Amethyst",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Elsa",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 41,
+    "keywords": [],
+    "flavor_text": "Recreated by magical ink, Elsa found herself in an entirely new world. Fortunately, ice works the same way everywhere.",
+    "text": "Freeze -\"exert\" - Exert chosen opposing character.",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+    ],
+    "version": "Snow Queen",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "artist": "Matt Chapman",
+    "ink": "Amber",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Painting the Roses Red",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Common",
+    "number": 30,
+    "keywords": [],
+    "flavor_text": "\"Get a move on! I'm a busy god, lots to do-meetings, curses, a little light scheming.\"\n - Hades",
+    "text": "{A character with cost X or more can \"exert\" to sing this song for free.)\n\nUp to 2 chosen characters get -1 {s} this turn. Draw a card.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

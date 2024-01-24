@@ -1,0 +1,31 @@
+{
+    "artist": "Amber Kommavongsa",
+    "ink": "Ruby",
+    "ink_cost": 6,
+    "inkable": true,
+    "name": "Raya",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 123,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "Two parts of bravery, one part cleverness, and a whole lot of determination.",
+    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Raya.)\nChampion Of Kumandra: Whenever this character challenges a damaged character, she takes no damage from the challenge.",
+    "classifications": [
+        "Floodborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Leader of Heart",
+    "willpower": 3,
+    "strength": 5,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

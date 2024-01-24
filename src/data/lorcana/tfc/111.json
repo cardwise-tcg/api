@@ -1,0 +1,30 @@
+{
+    "artist": "Kenneth Anderson",
+    "ink": "Ruby",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Goofy",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 111,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "Sometimes you gotta give it the ol' jump and hyuck.",
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "classifications": [
+        "Dreamborn",
+        "Hero"
+    ],
+    "version": "Daredevil",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

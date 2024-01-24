@@ -1,0 +1,31 @@
+{
+    "artist": "Marco Giorgianni",
+    "ink": "Steel",
+    "ink_cost": 9,
+    "inkable": true,
+    "name": "Goofy",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 180,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "It's a banner day for Sir Goofy, who is steeled to prove his mettle against anyone courting trouble-jouse in case.",
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Knight"
+    ],
+    "version": "Knight for a Day",
+    "willpower": 10,
+    "strength": 10,
+    "lore": 4,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

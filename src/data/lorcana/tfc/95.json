@@ -1,0 +1,21 @@
+{
+    "artist": "R. La Barbera / L. Giammichele",
+    "ink": "Emerald",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Mother Knows Best",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Uncommon",
+    "number": 95,
+    "keywords": [],
+    "flavor_text": "One way or another\nSomething will go wrong, I swear",
+    "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\n\nReturn chosen character to their player's hand.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

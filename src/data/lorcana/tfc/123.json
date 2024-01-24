@@ -1,0 +1,31 @@
+{
+    "artist": "Jenna Gray",
+    "ink": "Ruby",
+    "ink_cost": 8,
+    "inkable": false,
+    "name": "Scar",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 123,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "\"The time has come to take what is ours!\"",
+    "text": "Shift 6 (You may pay 6 \"ink\" to play this on top of one of your characters named Scar.) \n\nRousing Speech - When you play this character, ready your characters with cost 3 or less. They can't quest for the rest of this turn.",
+    "classifications": [
+        "Floodborn",
+        "Villain",
+        "King"
+    ],
+    "version": "Shameless Firebrand",
+    "willpower": 6,
+    "strength": 6,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

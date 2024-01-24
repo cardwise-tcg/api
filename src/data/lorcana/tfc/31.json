@@ -1,0 +1,21 @@
+{
+    "artist": "Alice Pisoni",
+    "ink": "Amber",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "You Have Forgotten Me",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Uncommon",
+    "number": 31,
+    "keywords": [],
+    "flavor_text": "\"You are more than what you have become.\"\n- Mufasa",
+    "text": "Each opponent chooses and discards 2 cards.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "artist": "Isaiah Mesq",
+    "ink": "Sapphire",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Cogsworth",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 142,
+    "keywords": [
+        "Resist",
+        "Shift",
+        "Ward"
+    ],
+    "flavor_text": "The coconut is a versatile gift from the gods, used to make nearly everything-including baskets to carry more coconuts.",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Cogsworth.)\nWard (Opponents can't choose this character except to challenge.)\nUnwind: Your other characters gain Resist +1 (Damage dealt to them is reduced by 1)",
+    "classifications": [
+        "Floodborn",
+        "Ally"
+    ],
+    "version": "Grandfather Clock",
+    "willpower": 5,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

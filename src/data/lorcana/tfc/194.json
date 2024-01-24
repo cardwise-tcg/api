@@ -1,0 +1,29 @@
+{
+    "artist": "Grace Tran",
+    "ink": "Steel",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Tinker Bell",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 194,
+    "keywords": [],
+    "flavor_text": "Sometimes all you need is a little tactical genius.",
+    "text": "Battle Plans - \"exert\" - Draw a card, then choose and discard a card.",
+    "classifications": [
+        "Dreamborn",
+        "Ally",
+        "Fairy"
+    ],
+    "version": "Tiny Tactician",
+    "willpower": 4,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

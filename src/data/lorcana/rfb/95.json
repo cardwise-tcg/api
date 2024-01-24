@@ -1,0 +1,29 @@
+{
+    "artist": "Man? Kandalyan / Luca Pinelli",
+    "ink": "Emerald",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Virana",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 95,
+    "keywords": [],
+    "flavor_text": "\"I must make the hard decisions to protect my daughter, especially in this unfamiliar world.\"",
+    "text": "Chosen character gets +2 {s} this turn. If a villain character is chosen, they get +3 {s} instead.",
+    "classifications": [
+        "Storyborn",
+        "Villain",
+        "Queen"
+    ],
+    "version": "Fang Chief",
+    "willpower": 5,
+    "strength": 5,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

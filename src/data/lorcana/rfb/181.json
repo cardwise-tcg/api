@@ -1,0 +1,33 @@
+{
+    "artist": "Grace Tran",
+    "ink": "Steel",
+    "ink_cost": 6,
+    "inkable": true,
+    "name": "Hercules",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 181,
+    "keywords": [
+        "Resist",
+        "Shift"
+    ],
+    "flavor_text": "A good guy to have around when something wrecks your inkworks.",
+    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Hercules.)\\nResist +2 (Damage dealth to this character is reduced by 2.)",
+    "classifications": [
+        "Floodborn",
+        "Hero",
+        "Prince",
+        "Deity"
+    ],
+    "version": "Divine Hero",
+    "willpower": 3,
+    "strength": 6,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

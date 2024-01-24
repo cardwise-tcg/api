@@ -1,0 +1,32 @@
+{
+    "artist": "Marcell Berg",
+    "ink": "Steel",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Captain Hook",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 174,
+    "keywords": [
+        "Challenger"
+    ],
+    "flavor_text": "He loves to make light of a foe's predicament",
+    "text": "Challenger +2 (When challenging, this character gets +2 {s}.) ",
+    "classifications": [
+        "Dreamborn",
+        "Villain",
+        "Pirate",
+        "Captain"
+    ],
+    "version": "Forceful Duelist",
+    "willpower": 2,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

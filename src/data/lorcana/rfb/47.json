@@ -1,0 +1,32 @@
+{
+    "artist": "Ally Zermeno",
+    "ink": "Amethyst",
+    "ink_cost": 7,
+    "inkable": true,
+    "name": "Madam Mim",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Legendary",
+    "number": 47,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "\"Did I say no purple dragons? Did I?\"",
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\r\\nI Win, I Win!: When you play this character, banish her or return another 2 chosen characters of yours to your hand.",
+    "classifications": [
+        "Storyborn",
+        "Villain",
+        "Sorcerer",
+        "Dragon"
+    ],
+    "version": "Purple Dragon",
+    "willpower": 7,
+    "strength": 5,
+    "lore": 4,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

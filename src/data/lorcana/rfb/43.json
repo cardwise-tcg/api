@@ -1,0 +1,28 @@
+{
+    "artist": "Ellie Horie",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "HeiHei",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 43,
+    "keywords": [],
+    "flavor_text": "Power. Beauty. HeiHei.",
+    "text": "He's Back: When this character is banished in a challenge, return this card to your hand.",
+    "classifications": [
+        "Dreamborn",
+        "Ally"
+    ],
+    "version": "Persistent Presence",
+    "willpower": 1,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

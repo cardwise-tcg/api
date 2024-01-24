@@ -1,0 +1,28 @@
+{
+    "artist": "Nicholas Kole",
+    "ink": "Steel",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Donald Duck",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 178,
+    "keywords": [],
+    "flavor_text": "\"You go ahead, Minnie! I'm going to see if there's any lore over here.\"",
+    "text": "Share and Share Alike: Whenever this character quests, you pay 1 \"ink\" less for the next character you play this turn.",
+    "classifications": [
+        "Dreamborn",
+        "Hero"
+    ],
+    "version": "Deep-Sea Diver",
+    "willpower": 5,
+    "strength": 6,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

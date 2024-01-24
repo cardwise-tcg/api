@@ -1,0 +1,30 @@
+{
+    "artist": "Giulia Riva",
+    "ink": "Emerald",
+    "ink_cost": 6,
+    "inkable": false,
+    "name": "Genie",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 75,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "\"Can your friends go 'Abracadabra, let 'er rip' and then make the sucker disappear?\"",
+    "text": "Evasive (Only characters with Evasive can challenge this character.) \n\nDisappear - When you play this character, you may return chosen character to their player's hand.",
+    "classifications": [
+        "Storyborn",
+        "Ally"
+    ],
+    "version": "On the Job",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

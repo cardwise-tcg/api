@@ -1,0 +1,31 @@
+{
+    "artist": "Aubrey Archer",
+    "ink": "Amber",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Rapunzel",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 19,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "Who has time to read labels?",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Rapunzel.)\n\nLet Your Power Shine - Whenever you remove 1 or more damage from one of your characters, you may draw a card.",
+    "classifications": [
+        "Floodborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Gifted Artist",
+    "willpower": 6,
+    "strength": 0,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "artist": "Luis Huerta",
+    "ink": "Steel",
+    "ink_cost": 8,
+    "inkable": true,
+    "name": "Gantu",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Legendary",
+    "number": 178,
+    "keywords": [],
+    "flavor_text": "\"Relax, enjoy the trip... and don't get any ideas!\"",
+    "text": "Under Arrest - Characters with cost 2 or less can't challenge your characters.",
+    "classifications": [
+        "Storyborn",
+        "Alien",
+        "Captain"
+    ],
+    "version": "Galactic Federation Captain",
+    "willpower": 6,
+    "strength": 6,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

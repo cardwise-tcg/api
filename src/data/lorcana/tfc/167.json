@@ -1,0 +1,20 @@
+{
+    "artist": "Ron Baird",
+    "ink": "Sapphire",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Eye Of The Fates",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Uncommon",
+    "number": 167,
+    "keywords": [],
+    "flavor_text": "You can change the future once you know what you're looking at.",
+    "text": "See The Future - \"exert\" - Chosen character gets +1 {l} this turn.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

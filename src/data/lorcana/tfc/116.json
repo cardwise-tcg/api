@@ -1,0 +1,28 @@
+{
+    "artist": "Kenneth Anderson",
+    "ink": "Ruby",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Minnie Mouse",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 116,
+    "keywords": [],
+    "flavor_text": "Her fashion sense is always spot on.",
+    "text": "Animate Broom - You pay 1 \"ink\" less to play Broom characters.\n\nCeaseless Worker - Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Always Classy",
+    "willpower": 3,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

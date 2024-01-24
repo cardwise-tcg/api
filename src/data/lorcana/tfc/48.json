@@ -1,0 +1,29 @@
+{
+    "artist": "Grace Tran",
+    "ink": "Amethyst",
+    "ink_cost": 1,
+    "inkable": false,
+    "name": "Maleficent",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 48,
+    "keywords": [],
+    "flavor_text": "\"One mustn't rush these things, or the greatest plan might come to nothing.\"",
+    "text": "Speak! - \"exert\", 4 \"ink\" - Draw a card.",
+    "classifications": [
+        "Dreamborn",
+        "Villain",
+        "Sorcerer"
+    ],
+    "version": "Biding Her Time",
+    "willpower": 1,
+    "strength": 1,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "artist": "Jeff Murchie",
+    "ink": "Emerald",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Tamatoa",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 92,
+    "keywords": [],
+    "flavor_text": "\"Someday, I'll grow up to be the most crabulous crustacean the world has ever seen!\"",
+    "text": "Final Enchantment - Banish this item - Banish chosen villain character.",
+    "classifications": [
+        "Dreamborn"
+    ],
+    "version": "Drab Little Crab",
+    "willpower": 4,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

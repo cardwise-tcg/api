@@ -1,0 +1,29 @@
+{
+    "artist": "Marcel Berg",
+    "ink": "Amber",
+    "ink_cost": 7,
+    "inkable": true,
+    "name": "Stitch",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Legendary",
+    "number": 21,
+    "keywords": [],
+    "flavor_text": "\"So you're from outer space, huh? I hear the surfing's choice.\" \n- David",
+    "text": "Ohana - When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Alien"
+    ],
+    "version": "Carefree Surfer",
+    "willpower": 8,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

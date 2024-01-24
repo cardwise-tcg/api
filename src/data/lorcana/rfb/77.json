@@ -1,0 +1,30 @@
+{
+    "artist": "Ron Baird",
+    "ink": "Emerald",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Donald Duck",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 77,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "\"You go ahead, Minnie! I'm going to see if there's any lore over here.\"",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Donald Duck.)\nAllow Me: At the start of your turn, each player may draw a card.",
+    "classifications": [
+        "Floodborn",
+        "Ally"
+    ],
+    "version": "Perfect Gentleman",
+    "willpower": 5,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

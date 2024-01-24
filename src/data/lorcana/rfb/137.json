@@ -1,0 +1,30 @@
+{
+    "artist": "Alice Pisoni",
+    "ink": "Sapphire",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Alice",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Legendary",
+    "number": 137,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "It can be hard to tell the difference between a diamond in the rough and someone who's just, well, rough.",
+    "text": "Good Advice: Your other characters gain Support. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)\r What Did I Do?: While this character has 10 {s} or more, she gets +4 {l}.",
+    "classifications": [
+        "Dreamborn",
+        "Hero"
+    ],
+    "version": "Growing Girl",
+    "willpower": 4,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

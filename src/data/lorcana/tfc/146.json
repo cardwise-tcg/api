@@ -1,0 +1,28 @@
+{
+    "artist": "Fliipe Laurentino",
+    "ink": "Sapphire",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Gramma Tala",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 146,
+    "keywords": [],
+    "flavor_text": "Moana: \"Is there something you want to tell me?\" \nGramma Tala: \"Is there something you want to hear?\"",
+    "text": "I Will Be With You - When this character is banished, you may put this card into your inkwell facedown and exerted.",
+    "classifications": [
+        "Storyborn",
+        "Mentor"
+    ],
+    "version": "Storyteller",
+    "willpower": 1,
+    "strength": 1,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

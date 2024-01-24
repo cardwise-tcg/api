@@ -1,0 +1,21 @@
+{
+    "artist": "Koni",
+    "ink": "Steel",
+    "ink_cost": 5,
+    "inkable": false,
+    "name": "A Whole New World",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Super Rare",
+    "number": 195,
+    "keywords": [],
+    "flavor_text": "Shining, shimmering, splendid . . .",
+    "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nEach player discards their hand and draws 7 cards.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

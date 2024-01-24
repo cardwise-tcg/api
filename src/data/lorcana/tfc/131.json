@@ -1,0 +1,20 @@
+{
+    "artist": "Jenna Gray",
+    "ink": "Ruby",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Fan The Flames",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Uncommon",
+    "number": 131,
+    "keywords": [],
+    "flavor_text": "Pretty words can move a crowd, but so can ugly ones.",
+    "text": "Ready chosen character. They can't quest for the rest of this turn.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

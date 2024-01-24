@@ -1,0 +1,21 @@
+{
+    "artist": "Jake Parker",
+    "ink": "Ruby",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Teeth and Ambitions",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Rare",
+    "number": 130,
+    "keywords": [],
+    "flavor_text": "Of course, quid pro quo, you're expected To take certain duties on board",
+    "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\nDeal 2 damage to chosen character of yours to deal 2 damaged to another chosen character.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

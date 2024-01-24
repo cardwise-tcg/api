@@ -1,0 +1,28 @@
+{
+    "artist": "Isaiah Mesq",
+    "ink": "Emerald",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Enchantress",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 80,
+    "keywords": [],
+    "flavor_text": "Appearances can be deceiving.",
+    "text": "True Form: While being challenged, this character gets +2 {s}.",
+    "classifications": [
+        "Dreamborn",
+        "Sorcerer"
+    ],
+    "version": "Unexpected Judge",
+    "willpower": 1,
+    "strength": 1,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

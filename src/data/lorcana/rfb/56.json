@@ -1,0 +1,30 @@
+{
+    "artist": "Kapik",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": false,
+    "name": "Pinocchio",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 56,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "\"With that personality, that profile, that physique... Why, I can see your name in light, lights six feet high.\"\n-Honest John",
+    "text": "Shift 3 (You pay 3 \"ink\" to play this on top of one of your characters named Pinocchio.)\nListen To Your Conscience: When you play this character, you may return chosen character or item with cost 3 or less to their player's hand.",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Star Attraction",
+    "willpower": 1,
+    "strength": 1,
+    "lore": 3,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

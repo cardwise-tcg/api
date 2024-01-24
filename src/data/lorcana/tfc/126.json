@@ -1,0 +1,31 @@
+{
+    "artist": "Kamil Murzyn",
+    "ink": "Ruby",
+    "ink_cost": 6,
+    "inkable": false,
+    "name": "Te Ka",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 126,
+    "keywords": [
+        "Reckless"
+    ],
+    "flavor_text": "She burns for that which was stolen from her.",
+    "text": "Reckless (This character can't quest and must challenge each turn if able.) ",
+    "classifications": [
+        "Storyborn",
+        "Villain",
+        "Deity"
+    ],
+    "version": "The Burning One",
+    "willpower": 6,
+    "strength": 8,
+    "lore": 0,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

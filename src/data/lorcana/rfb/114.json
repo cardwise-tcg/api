@@ -1,0 +1,31 @@
+{
+    "artist": "Adam Fenton",
+    "ink": "Ruby",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Minnie Mouse",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 114,
+    "keywords": [
+        "Evasive",
+        "Shift"
+    ],
+    "flavor_text": "\"This goes into my top ten most fun things!\"",
+    "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Minnie Mouse.)\nEvasive (Only Characters with Evasive can challenge this character.)\nUndersea Adventure: Whenever you play a second action in a turn, this character gets +2 {l} this turn.",
+    "classifications": [
+        "Floodborn",
+        "Hero"
+    ],
+    "version": "Wide-Eyed Diver",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

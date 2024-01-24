@@ -1,0 +1,28 @@
+{
+    "artist": "Samantha Erdini",
+    "ink": "Ruby",
+    "ink_cost": 2,
+    "inkable": false,
+    "name": "Lady Tremaine",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 111,
+    "keywords": [],
+    "flavor_text": "\"Make no mistake: this time I will make certain the key remains safe!\"",
+    "text": "Not For You - When you play this character, each opponent with more lore than you loses 1 lore.",
+    "classifications": [
+        "Storyborn",
+        "Villain"
+    ],
+    "version": "Overbearing Matriarch",
+    "willpower": 2,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

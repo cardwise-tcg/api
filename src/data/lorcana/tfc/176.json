@@ -1,0 +1,30 @@
+{
+    "artist": "Oleg Yurkov",
+    "ink": "Steel",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Cerberus",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 176,
+    "keywords": [
+        "Challenger",
+        "Shift"
+    ],
+    "flavor_text": "Always vigilant. Always fierce. Always fighting for the ball.",
+    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Captain Hook.) \n\nChallenger +3 When challenging, this character get +3 {s}.) \n\nStolen Dust - Characters with cost 3 or less can't challenge this character.",
+    "classifications": [
+        "Storyborn"
+    ],
+    "version": "Three-Headed Dog",
+    "willpower": 6,
+    "strength": 5,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

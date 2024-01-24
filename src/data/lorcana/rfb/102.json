@@ -1,0 +1,20 @@
+{
+    "artist": "Leonardo Giammichele",
+    "ink": "Emerald",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Ratigan's Marvelous Trap",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Rare",
+    "number": 102,
+    "keywords": [],
+    "flavor_text": "Simple in purpose, elaborate in execution - just like Ratigan.",
+    "text": "Snap! Boom! Twang!: Banish this item - Each opponent loses 2 lore.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

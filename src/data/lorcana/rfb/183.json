@@ -1,0 +1,31 @@
+{
+    "artist": "Cam Kendall",
+    "ink": "Steel",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Jafar",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 183,
+    "keywords": [
+        "Shift"
+    ],
+    "flavor_text": "Shan-Yu: \"It looks like you're out of ideas.\"\nMulan: \"Not quite!\"",
+    "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Jafar.)\\nNow Where Were We?: During your turn, whenever this character banishes another character in a challenge, you may draw a card.",
+    "classifications": [
+        "Floodborn",
+        "Villain",
+        "Sorcerer"
+    ],
+    "version": "Dreadnought",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

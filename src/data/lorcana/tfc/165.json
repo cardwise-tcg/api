@@ -1,0 +1,22 @@
+{
+    "artist": "Bill Robinson",
+    "ink": "Sapphire",
+    "ink_cost": 1,
+    "inkable": true,
+    "name": "Work Together",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Common",
+    "number": 165,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "Pacho: \"Put your whole back into it!\" \nKuzco: \"This is my whole back!\"",
+    "text": "Chosen Character gains Support this turn. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

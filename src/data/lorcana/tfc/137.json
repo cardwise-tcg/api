@@ -1,0 +1,29 @@
+{
+    "artist": "Hedvig Haggman-Sund",
+    "ink": "Sapphire",
+    "ink_cost": 4,
+    "inkable": false,
+    "name": "Ariel",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 137,
+    "keywords": [],
+    "flavor_text": "\"You want thingamabobs? I got twenty.\"",
+    "text": "Look At This Stuff - Whenever you play an item, you may ready this character.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Whoseit Collector",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "artist": "Dav Augereau",
+    "ink": "Steel",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Donald Duck",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 177,
+    "keywords": [
+        "Bodyguard",
+        "Evasive"
+    ],
+    "flavor_text": "\"You go ahead, Minnie! I'm going to see if there's any lore over here.\"",
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) \n\nStay Alert! - During your turn, your Musketeer characters gain Evasive. (They can challenge characters with Evasive.)",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Musketeer"
+    ],
+    "version": "Musketeer",
+    "willpower": 5,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

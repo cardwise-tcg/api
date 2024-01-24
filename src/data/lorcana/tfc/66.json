@@ -1,0 +1,20 @@
+{
+    "artist": "Andrew Trabbold",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": false,
+    "name": "Magic Mirror",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Rare",
+    "number": 66,
+    "keywords": [],
+    "flavor_text": "\"What wouldst thou know, my Queen?\"",
+    "text": "Speak! - \"exert\", 4 \"ink\" - Draw a card.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "artist": "P. Gaylord / L. Giammichele",
+    "ink": "Ruby",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Tigger",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 127,
+    "keywords": [],
+    "flavor_text": "Bouncing in to save the day!",
+    "text": "Energetic: Whenever you play an action, this character gets +2 {s} this turn.",
+    "classifications": [
+        "Dreamborn",
+        "Tigger"
+    ],
+    "version": "One Of A Kind",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

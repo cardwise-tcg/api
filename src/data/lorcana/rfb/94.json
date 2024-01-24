@@ -1,0 +1,31 @@
+{
+    "artist": "Casey Robin",
+    "ink": "Emerald",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Tiana",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 94,
+    "keywords": [
+        "Resist"
+    ],
+    "flavor_text": "Finding your true self will set your heart aglow.",
+    "text": "Resist +2 (Damage dealt to this character is reduced by 2.)\\nWhat You Give Is What You Get: While this character is exerted and you have no cards in your hand, opponents can't play actions.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "True Princess",
+    "willpower": 3,
+    "strength": 5,
+    "lore": 3,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

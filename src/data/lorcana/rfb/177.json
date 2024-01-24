@@ -1,0 +1,33 @@
+{
+    "artist": "Grace Tran",
+    "ink": "Steel",
+    "ink_cost": 7,
+    "inkable": true,
+    "name": "Cinderella",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Super Rare",
+    "number": 177,
+    "keywords": [
+        "Resist",
+        "Shift"
+    ],
+    "flavor_text": "She's always had the heart of a champion–now she'll have the skills, too.",
+    "text": "Shift 5 (You may pay 5 \"ink\" to play this on top of one of your characters named Cinderella.)\r Resist +2 (Damage dealt to this character is reduced by 2.)\r The Singing Sword: Whenever you play a song, this character may challenge ready characters this turn.",
+    "classifications": [
+        "Floodborn",
+        "Hero",
+        "Princess",
+        "Knight"
+    ],
+    "version": "Stouthearted",
+    "willpower": 5,
+    "strength": 5,
+    "lore": 3,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

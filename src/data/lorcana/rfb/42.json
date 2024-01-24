@@ -1,0 +1,29 @@
+{
+    "artist": "Matt Chapman",
+    "ink": "Amethyst",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Fairy Godmother",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 42,
+    "keywords": [],
+    "flavor_text": "\"We'll have to hurry, because even miracles take a little time.\"",
+    "text": "Just Leave It To Me: Whenever you play a character named Cinderella, you may exert chosen character.",
+    "classifications": [
+        "Storyborn",
+        "Ally",
+        "Fairy"
+    ],
+    "version": "Pure Heart",
+    "willpower": 4,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

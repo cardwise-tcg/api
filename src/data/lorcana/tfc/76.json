@@ -1,0 +1,31 @@
+{
+    "artist": "Javier Salas",
+    "ink": "Emerald",
+    "ink_cost": 8,
+    "inkable": false,
+    "name": "Genie",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 76,
+    "keywords": [
+        "Evasive",
+        "Shift"
+    ],
+    "flavor_text": "\"Can your friends go 'Abracadabra, let 'er rip' and then make the sucker disappear?\"",
+    "text": "Shift 6 (You may pay 6 \"ink\" to play this on top of one of your characters named Genie.) \n\nEvasive (Only characters with Evasive can challenge this character.) \n\nPhenomenal Cosmic Power! - Whenever this character quests, you may play an action with cost 5 or less for free.",
+    "classifications": [
+        "Floodborn",
+        "Hero"
+    ],
+    "version": "Powers Unleashed",
+    "willpower": 5,
+    "strength": 3,
+    "lore": 3,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

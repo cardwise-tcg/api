@@ -1,0 +1,28 @@
+{
+    "artist": "Arianna Rea",
+    "ink": "Sapphire",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Judy Hopps",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 152,
+    "keywords": [],
+    "flavor_text": "\"I'll get to the bottom of what happened with that locked lorebook. You can count on me!\"",
+    "text": "Don't Call Me Cute: When you play this character, you may banish chosen item. Its player draws a card.",
+    "classifications": [
+        "Storyborn",
+        "Hero"
+    ],
+    "version": "Optimistic Officer",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

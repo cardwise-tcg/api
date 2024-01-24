@@ -1,0 +1,32 @@
+{
+    "artist": "Eva Widermann",
+    "ink": "Steel",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Hercules",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 182,
+    "keywords": [
+        "Resist",
+        "Shift"
+    ],
+    "flavor_text": "No need to call IX-I-I!",
+    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Hercules.)\\nResist +2 (Damage dealth to this character is reduced by 2.)",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Prince"
+    ],
+    "version": "Hero In Training",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

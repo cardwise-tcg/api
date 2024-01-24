@@ -1,0 +1,31 @@
+{
+    "artist": "Cam Kendell",
+    "ink": "Sapphire",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Donald Duck",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 144,
+    "keywords": [
+        "Ward"
+    ],
+    "flavor_text": "Walk smarter, not harder.",
+    "text": "Ward (Opponents can't choose this character except to challenge.) ",
+    "classifications": [
+        "Dreamborn",
+        "Hero",
+        "Inventor"
+    ],
+    "version": "Strutting His Stuff",
+    "willpower": 3,
+    "strength": 4,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

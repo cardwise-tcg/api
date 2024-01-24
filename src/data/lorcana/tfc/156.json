@@ -1,0 +1,30 @@
+{
+    "artist": "Leonardo Giammichele",
+    "ink": "Sapphire",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Philoctetes",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 156,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "\"Ya gotta be the best to train the best. And I train the best!\"",
+    "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",
+    "classifications": [
+        "Storyborn",
+        "Mentor"
+    ],
+    "version": "Trainer of Heroes",
+    "willpower": 1,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

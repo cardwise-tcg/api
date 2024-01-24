@@ -1,0 +1,31 @@
+{
+    "artist": "Koni",
+    "ink": "Emerald",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Prince John",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 89,
+    "keywords": [
+        "Ward"
+    ],
+    "flavor_text": "\"Taxes! Taxes! Beautiful, lovely taxes!\"",
+    "text": "Ward (Opponents can't choose this character except to challenge.)\nI Sentence You: Whenever your opponents discards 1 or more cards, you may draw a card for each card discarded.",
+    "classifications": [
+        "Dreamborn",
+        "Villain",
+        "Prince"
+    ],
+    "version": "Greediest of All",
+    "willpower": 2,
+    "strength": 1,
+    "lore": 2,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

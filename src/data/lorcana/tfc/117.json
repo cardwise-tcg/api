@@ -1,0 +1,29 @@
+{
+    "artist": "Tanisha Cherislin",
+    "ink": "Ruby",
+    "ink_cost": 5,
+    "inkable": true,
+    "name": "Moana",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Uncommon",
+    "number": 117,
+    "keywords": [],
+    "flavor_text": "\"You know who you are.\"",
+    "text": "This Is Not Who You Are - When you play this character, you may banish chosen character named Te Ka.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Chosen by the Ocean",
+    "willpower": 6,
+    "strength": 2,
+    "lore": 2,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

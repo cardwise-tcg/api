@@ -1,0 +1,30 @@
+{
+    "artist": "Nicolas Kole",
+    "ink": "Ruby",
+    "ink_cost": 8,
+    "inkable": true,
+    "name": "Mickey Mouse",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Legendary",
+    "number": 115,
+    "keywords": [
+        "Evasive"
+    ],
+    "flavor_text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "classifications": [
+        "Dreamborn",
+        "Hero"
+    ],
+    "version": "Brave Little Tailor",
+    "willpower": 5,
+    "strength": 5,
+    "lore": 4,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "artist": "Sandra Rios",
+    "ink": "Ruby",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Honest John",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 109,
+    "keywords": [],
+    "flavor_text": "\"A thing like that ought to be worth a fortune to someone!\"",
+    "text": "Easy Street - Whenever you play a Floodborn character, each opponent loses 1 lore.",
+    "classifications": [
+        "Storyborn",
+        "Villain"
+    ],
+    "version": "Not That Honest",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

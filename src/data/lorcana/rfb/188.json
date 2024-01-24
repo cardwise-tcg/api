@@ -1,0 +1,30 @@
+{
+    "artist": "Cristian Romero",
+    "ink": "Steel",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Magic Broom",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 188,
+    "keywords": [
+        "Resist"
+    ],
+    "flavor_text": "Even with a hauling weight of \"seriously, a lot,\" it can only do so much in a magical flood.",
+    "text": "Make It Shine: When you play this character, chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+    "classifications": [
+        "Dreamborn",
+        "Broom"
+    ],
+    "version": "Industrial Model",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

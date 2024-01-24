@@ -1,0 +1,20 @@
+{
+    "artist": "Don Aguillo",
+    "ink": "Emerald",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Pack Tactics",
+    "types": [
+        "Action"
+    ],
+    "rarity": "Rare",
+    "number": 100,
+    "keywords": [],
+    "flavor_text": "Pacha: \"You want to survive the jungle? Start thinking like you belong here.\"\nKuzco: \"No problem... Grrr, look at me, I'm a jaguar.\"",
+    "text": "Gain 1 lore for each damaged character opponents have in play.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

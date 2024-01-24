@@ -1,0 +1,20 @@
+{
+    "artist": "Oleg Yurkov",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": false,
+    "name": "Ursula's Cauldron",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Uncommon",
+    "number": 67,
+    "keywords": [],
+    "flavor_text": "Perfect for mixing potions and stealing voices.",
+    "text": "Peer Into The Depths - \"exert\" - Look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.",
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}

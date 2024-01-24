@@ -1,0 +1,31 @@
+{
+    "artist": "Valentina Graziuso",
+    "ink": "Amethyst",
+    "ink_cost": 3,
+    "inkable": true,
+    "name": "Merlin",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 50,
+    "keywords": [
+        "Challenger"
+    ],
+    "flavor_text": "He'll be out of this in a snap!",
+    "text": "Ready Or Not!: When you play this character and when he leaves play, chosen characters gain Challenger +3 this turn. (They get +3 {s} while challenging.)",
+    "classifications": [
+        "Storyborn",
+        "Mentor",
+        "Sorcerer"
+    ],
+    "version": "Crab",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

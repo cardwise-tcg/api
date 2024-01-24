@@ -1,0 +1,23 @@
+{
+    "artist": "Kuya Jaypi",
+    "ink": "Amethyst",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Legend Of The Sword In The Stone",
+    "types": [
+        "Action",
+        "Song"
+    ],
+    "rarity": "Common",
+    "number": 64,
+    "keywords": [
+        "Challenger"
+    ],
+    "flavor_text": "A legend is sung of when England was young\\n   And knights were brave and bold",
+    "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\nChosen character gains Challenger +3 this turn. (They get +3 {s} while challenging.)",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

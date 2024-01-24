@@ -1,0 +1,29 @@
+{
+    "artist": "LadyShalirin",
+    "ink": "Amber",
+    "ink_cost": 2,
+    "inkable": true,
+    "name": "Snow White",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Common",
+    "number": 23,
+    "keywords": [],
+    "flavor_text": "\"Why, you're all alone, just like me.\"",
+    "text": "I Won't Hurt You - When you play this character, you may remove up to 2 damage from chosen character.",
+    "classifications": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "version": "Lost in the Forest",
+    "willpower": 3,
+    "strength": 2,
+    "lore": 1,
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

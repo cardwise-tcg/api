@@ -1,0 +1,22 @@
+{
+    "artist": "Andrew Trabbold",
+    "ink": "Amber",
+    "ink_cost": 3,
+    "inkable": false,
+    "name": "Dragon Gem",
+    "types": [
+        "Item"
+    ],
+    "rarity": "Rare",
+    "number": 33,
+    "keywords": [
+        "Support"
+    ],
+    "flavor_text": "Hope shines in even the darkest situations.",
+    "text": "Bring Back To Life: \"exert\", 3 \"ink\" - Return a character card with Support from your discard to your hand.",
+    "set": {
+        "key": "RFB",
+        "name": "Rise Of The Floodborn",
+        "number": 2
+    }
+}

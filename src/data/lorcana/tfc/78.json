@@ -1,0 +1,29 @@
+{
+    "artist": "Massimiliano Narciso",
+    "ink": "Emerald",
+    "ink_cost": 4,
+    "inkable": true,
+    "name": "Hans",
+    "types": [
+        "Character"
+    ],
+    "rarity": "Rare",
+    "number": 78,
+    "keywords": [],
+    "flavor_text": "\"Rules are like older siblings. All they do is get in the way.\"",
+    "text": "(A character with cost 4 or more can \"exert\" to sing this song for free.)\n\nRemove up to 3 damage from each of your characters.",
+    "classifications": [
+        "Storyborn",
+        "Villain",
+        "Prince"
+    ],
+    "version": "Scheming Prince",
+    "willpower": 3,
+    "strength": 3,
+    "lore": 3,
+    "set": {
+        "key": "TFC",
+        "name": "The First Chapter",
+        "number": 1
+    }
+}
