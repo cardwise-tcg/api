@@ -1,30 +1,30 @@
 {
-    "artist": "Jochem van Gool",
-    "ink": "Amber",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Gaston",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 8,
-    "keywords": [
-        "Singer"
-    ],
-    "flavor_text": "No one . . . sings like Gaston!",
-    "text": "Singer 5 ( This character counts as cost 5 to sing songs.)",
-    "classifications": [
-        "Dreamborn",
-        "Villain"
-    ],
-    "version": "Baritone Bully",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Jochem van Gool",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Gaston",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 8,
+  "keywords": [
+    "Singer"
+  ],
+  "flavor_text": "No one . . . sings like Gaston!",
+  "text": "Singer 5 ( This character counts as cost 5 to sing songs.)",
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "version": "Baritone Bully",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

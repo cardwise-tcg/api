@@ -1,23 +1,23 @@
 {
-    "artist": "Mariana Moreno",
-    "ink": "Amethyst",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "Gruesome And Grim",
-    "types": [
-        "Action",
-        "Song"
-    ],
-    "rarity": "Rare",
-    "number": 62,
-    "keywords": [
-        "Rush"
-    ],
-    "flavor_text": "When he talks, even the sky listens.",
-    "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\nPlay a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played)",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Mariana Moreno",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Gruesome And Grim",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "rarity": "Rare",
+  "number": 62,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "When he talks, even the sky listens.",
+  "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\nPlay a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played)",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "Jenna Gray",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "Belle",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 71,
-    "keywords": [],
-    "flavor_text": "There's nothing more tempting than a pile of unread books.",
-    "text": "Use Your Imagination: While an opponent has no cards in their hand, this character gets +2 {l}.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Princess"
-    ],
-    "version": "Bookworm",
-    "willpower": 4,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Jenna Gray",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Belle",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 71,
+  "keywords": [],
+  "flavor_text": "There's nothing more tempting than a pile of unread books.",
+  "text": "Use Your Imagination: While an opponent has no cards in their hand, this character gets +2 {l}.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "version": "Bookworm",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "Matthew Robert Davies",
-    "ink": "Amber",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Ariel",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 1,
-    "keywords": [],
-    "flavor_text": "\"...\"",
-    "text": "Voiceless - This character can't \"exert\" to sing songs.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Princess"
-    ],
-    "version": "On Human Legs",
-    "willpower": 4,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Matthew Robert Davies",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Ariel",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 1,
+  "keywords": [],
+  "flavor_text": "\"...\"",
+  "text": "Voiceless - This character can't \"exert\" to sing songs.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "version": "On Human Legs",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

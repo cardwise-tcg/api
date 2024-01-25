@@ -1,29 +1,29 @@
 {
-    "artist": "Mel Milton",
-    "ink": "Ruby",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Mulan",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 118,
-    "keywords": [],
-    "flavor_text": "Everything looks better when you're free to be yourself.",
-    "text": "Lead By Example - During your turn, whenever this character banishes another character in a challenge, your other characters get +1 {l} this turn.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Princess"
-    ],
-    "version": "Imperial Soldier",
-    "willpower": 5,
-    "strength": 4,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Mel Milton",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Mulan",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 118,
+  "keywords": [],
+  "flavor_text": "Everything looks better when you're free to be yourself.",
+  "text": "Lead By Example - During your turn, whenever this character banishes another character in a challenge, your other characters get +1 {l} this turn.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "version": "Imperial Soldier",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

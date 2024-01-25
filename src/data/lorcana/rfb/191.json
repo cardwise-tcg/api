@@ -1,30 +1,30 @@
 {
-    "artist": "Gakue Kumatori",
-    "ink": "Steel",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Prince Naveen",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 191,
-    "keywords": [
-        "Ward"
-    ],
-    "flavor_text": "All he's got is his charm.",
-    "text": "Ward (Opponents can't choose this character except to challenge.)\nI Sentence You: Whenever your opponents discards 1 or more cards, you may draw a card for each card discarded.",
-    "classifications": [
-        "Storyborn",
-        "Prince"
-    ],
-    "version": "Penniless Royal",
-    "willpower": 3,
-    "strength": 4,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Gakue Kumatori",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Prince Naveen",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 191,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "All he's got is his charm.",
+  "text": "Ward (Opponents can't choose this character except to challenge.)\nI Sentence You: Whenever your opponents discards 1 or more cards, you may draw a card for each card discarded.",
+  "classifications": [
+    "Storyborn",
+    "Prince"
+  ],
+  "version": "Penniless Royal",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

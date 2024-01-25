@@ -1,28 +1,28 @@
 {
-    "artist": "Noukah",
-    "ink": "Steel",
-    "ink_cost": 2,
-    "inkable": false,
-    "name": "Robin Hood",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 193,
-    "keywords": [],
-    "flavor_text": "\"Capable? You don't know the half of it.\" - Little John",
-    "text": "Skirmish \"exert\" - Deal 1 damage to chosen character.",
-    "classifications": [
-        "Dreamborn",
-        "Hero"
-    ],
-    "version": "Capable Fighter",
-    "willpower": 3,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Noukah",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Robin Hood",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 193,
+  "keywords": [],
+  "flavor_text": "\"Capable? You don't know the half of it.\" - Little John",
+  "text": "Skirmish \"exert\" - Deal 1 damage to chosen character.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "version": "Capable Fighter",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

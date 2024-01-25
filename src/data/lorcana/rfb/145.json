@@ -1,30 +1,30 @@
 {
-    "artist": "GusGadget / Leonardo Giammichele",
-    "ink": "Sapphire",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Cruella De Vil",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 145,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "\"It's ink couture, darling. I wear only the best!\"",
-    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Cruella De Vil.)\nOh, No You Don't: Whenever this character quests, chosen opposing character gets -2 {s} this turn.",
-    "classifications": [
-        "Floodborn",
-        "Villain"
-    ],
-    "version": "Perfectly Wretched",
-    "willpower": 3,
-    "strength": 4,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "GusGadget / Leonardo Giammichele",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Cruella De Vil",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 145,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "\"It's ink couture, darling. I wear only the best!\"",
+  "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Cruella De Vil.)\nOh, No You Don't: Whenever this character quests, chosen opposing character gets -2 {s} this turn.",
+  "classifications": [
+    "Floodborn",
+    "Villain"
+  ],
+  "version": "Perfectly Wretched",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "Alex Accorsi",
-    "ink": "Sapphire",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Maurice",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 152,
-    "keywords": [],
-    "flavor_text": "\"What I believe you were trying to say is 'Thank you.'\"",
-    "text": "Give It A Try - Whenever this character quests, you pay 2 \"ink\" less for the next item you play this turn.\n\nIt Works! - Whenever you play an item, you may draw a card.",
-    "classifications": [
-        "Dreamborn",
-        "Mentor",
-        "Inventor"
-    ],
-    "version": "World-Famous Inventor",
-    "willpower": 7,
-    "strength": 2,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Alex Accorsi",
+  "ink": "Sapphire",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Maurice",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 152,
+  "keywords": [],
+  "flavor_text": "\"What I believe you were trying to say is 'Thank you.'\"",
+  "text": "Give It A Try - Whenever this character quests, you pay 2 \"ink\" less for the next item you play this turn.\n\nIt Works! - Whenever you play an item, you may draw a card.",
+  "classifications": [
+    "Dreamborn",
+    "Mentor",
+    "Inventor"
+  ],
+  "version": "World-Famous Inventor",
+  "willpower": 7,
+  "strength": 2,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "Bill Robinson",
-    "ink": "Ruby",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Stitch",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 125,
-    "keywords": [],
-    "flavor_text": "\"His destructive programming is taking effect. He will be irresistibly drawn to large cities, where he will back up sewers, reverse street signs, and steal everyone's left shoe.\" \n-Jumba Jookiba",
-    "text": "Whenever one of your characters quests this turn, each opponent loses 1 lore.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Alien"
-    ],
-    "version": "Abomination",
-    "willpower": 6,
-    "strength": 4,
-    "lore": 3,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Bill Robinson",
+  "ink": "Ruby",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Stitch",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 125,
+  "keywords": [],
+  "flavor_text": "\"His destructive programming is taking effect. He will be irresistibly drawn to large cities, where he will back up sewers, reverse street signs, and steal everyone's left shoe.\" \n-Jumba Jookiba",
+  "text": "Whenever one of your characters quests this turn, each opponent loses 1 lore.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Alien"
+  ],
+  "version": "Abomination",
+  "willpower": 6,
+  "strength": 4,
+  "lore": 3,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

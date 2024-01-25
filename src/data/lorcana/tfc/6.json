@@ -1,29 +1,29 @@
 {
-    "artist": "Randy Bishop",
-    "ink": "Amber",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Hades",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 6,
-    "keywords": [],
-    "flavor_text": "\"Production is up, costs are down, the rivers are full. Time to talk expansion.\"",
-    "text": "Well of Souls - When you play this character, return a character card from your discard to your hand.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Deity"
-    ],
-    "version": "Lord of the Underworld",
-    "willpower": 2,
-    "strength": 3,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Randy Bishop",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Hades",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 6,
+  "keywords": [],
+  "flavor_text": "\"Production is up, costs are down, the rivers are full. Time to talk expansion.\"",
+  "text": "Well of Souls - When you play this character, return a character card from your discard to your hand.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "version": "Lord of the Underworld",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,20 +1,20 @@
 {
-    "artist": "Oleg Yurkov",
-    "ink": "Steel",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "Plasma Blaster",
-    "types": [
-        "Item"
-    ],
-    "rarity": "Rare",
-    "number": 204,
-    "keywords": [],
-    "flavor_text": "\"You don't have to say 'pew pew' when you use it, but it doesn't hurt.\" \n-Lilo, galactic hero",
-    "text": "Quick Shot - \"exert\", 2 \"ink\": Deal 1 damage to chosen character.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Oleg Yurkov",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Plasma Blaster",
+  "types": [
+    "Item"
+  ],
+  "rarity": "Rare",
+  "number": 204,
+  "keywords": [],
+  "flavor_text": "\"You don't have to say 'pew pew' when you use it, but it doesn't hurt.\" \n-Lilo, galactic hero",
+  "text": "Quick Shot - \"exert\", 2 \"ink\": Deal 1 damage to chosen character.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

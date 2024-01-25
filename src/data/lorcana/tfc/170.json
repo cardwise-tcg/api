@@ -1,22 +1,22 @@
 {
-    "artist": "Grace Tran",
-    "ink": "Sapphire",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "Scepter Of Arendelle",
-    "types": [
-        "Item"
-    ],
-    "rarity": "Uncommon",
-    "number": 170,
-    "keywords": [
-        "Support"
-    ],
-    "flavor_text": "\"The time has come to take what is ours!\"",
-    "text": "Command - \"exert\"- Chosen character gains Support this turn. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Grace Tran",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Scepter Of Arendelle",
+  "types": [
+    "Item"
+  ],
+  "rarity": "Uncommon",
+  "number": 170,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "\"The time has come to take what is ours!\"",
+  "text": "Command - \"exert\"- Chosen character gains Support this turn. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

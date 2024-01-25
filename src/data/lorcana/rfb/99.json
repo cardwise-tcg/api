@@ -1,20 +1,20 @@
 {
-    "artist": "Man? Kandalyan",
-    "ink": "Emerald",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "Improvise",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Common",
-    "number": 99,
-    "keywords": [],
-    "flavor_text": "Shan-Yu: \"It looks like you're out of ideas.\"\nMulan: \"Not quite!\"",
-    "text": "Chosen Character gets +1 {s} this turn. Draw a card.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Man? Kandalyan",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Improvise",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Common",
+  "number": 99,
+  "keywords": [],
+  "flavor_text": "Shan-Yu: \"It looks like you're out of ideas.\"\nMulan: \"Not quite!\"",
+  "text": "Chosen Character gets +1 {s} this turn. Draw a card.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

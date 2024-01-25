@@ -1,28 +1,28 @@
 {
-    "artist": "Andrey Chumak",
-    "ink": "Amber",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Lefou",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 8,
-    "keywords": [],
-    "flavor_text": "You need a good toady to be a proper bad guy.",
-    "text": "Loyal - If you have a character named Gaston in play, you pay 1 \"ink\" less to play this character.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Bumbler",
-    "willpower": 2,
-    "strength": 1,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Andrey Chumak",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Lefou",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 8,
+  "keywords": [],
+  "flavor_text": "You need a good toady to be a proper bad guy.",
+  "text": "Loyal - If you have a character named Gaston in play, you pay 1 \"ink\" less to play this character.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Bumbler",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,31 +1,31 @@
 {
-    "artist": "Ron Baird",
-    "ink": "Emerald",
-    "ink_cost": 7,
-    "inkable": true,
-    "name": "Dr. Facilier",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 79,
-    "keywords": [
-        "Evasive"
-    ],
-    "flavor_text": "\"Enchant?e. A tip of the hat from Dr. Facilier.\"",
-    "text": "Evasive (Only characters with Evasive can challenge this character.)\nYou're In My World: Whenever this character quests, chosen opposing character can't quest during their next turn.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Fortune Teller",
-    "willpower": 4,
-    "strength": 4,
-    "lore": 3,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Ron Baird",
+  "ink": "Emerald",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Dr. Facilier",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 79,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"Enchant?e. A tip of the hat from Dr. Facilier.\"",
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\nYou're In My World: Whenever this character quests, chosen opposing character can't quest during their next turn.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Fortune Teller",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 3,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

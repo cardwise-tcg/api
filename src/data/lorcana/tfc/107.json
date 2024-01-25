@@ -1,34 +1,34 @@
 {
-    "artist": "Cam Kendall",
-    "ink": "Ruby",
-    "ink_cost": 7,
-    "inkable": false,
-    "name": "Captain Hook",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 107,
-    "keywords": [
-        "Evasive",
-        "Reckless",
-        "Rush"
-    ],
-    "flavor_text": "\"You wouldn't dare fight old hook man-to-man!\"",
-    "text": "Rush (This character can challenge the turn they're played.) \n\nYou Coward! - While this character is exerted, opposing characters with Evasive gain Reckless. (They can't quest and must challenge if able.)",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Pirate",
-        "Captain"
-    ],
-    "version": "Ruthless Pirate",
-    "willpower": 5,
-    "strength": 5,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Cam Kendall",
+  "ink": "Ruby",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Captain Hook",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 107,
+  "keywords": [
+    "Evasive",
+    "Reckless",
+    "Rush"
+  ],
+  "flavor_text": "\"You wouldn't dare fight old hook man-to-man!\"",
+  "text": "Rush (This character can challenge the turn they're played.) \n\nYou Coward! - While this character is exerted, opposing characters with Evasive gain Reckless. (They can't quest and must challenge if able.)",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Pirate",
+    "Captain"
+  ],
+  "version": "Ruthless Pirate",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

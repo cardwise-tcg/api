@@ -1,21 +1,21 @@
 {
-    "artist": "Amber Kommavongsa",
-    "ink": "Amber",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "Control Your Temper!",
-    "types": [
-        "Action",
-        "Song"
-    ],
-    "rarity": "Common",
-    "number": 26,
-    "keywords": [],
-    "flavor_text": "\"This has gone far enough. I'm in charge here.\"",
-    "text": "Chosen character gets -2 {s} this turn.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Amber Kommavongsa",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Control Your Temper!",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "rarity": "Common",
+  "number": 26,
+  "keywords": [],
+  "flavor_text": "\"This has gone far enough. I'm in charge here.\"",
+  "text": "Chosen character gets -2 {s} this turn.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

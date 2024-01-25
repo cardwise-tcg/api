@@ -1,28 +1,28 @@
 {
-    "artist": "Giulia Riva",
-    "ink": "Amethyst",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "Olaf",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 52,
-    "keywords": [],
-    "flavor_text": "\"I'm Olaf and I like warm hugs!\"",
-    "text": "Each Opponent reveals their hand. Draw a card.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Friendly Snowman",
-    "willpower": 3,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Giulia Riva",
+  "ink": "Amethyst",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Olaf",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 52,
+  "keywords": [],
+  "flavor_text": "\"I'm Olaf and I like warm hugs!\"",
+  "text": "Each Opponent reveals their hand. Draw a card.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Friendly Snowman",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

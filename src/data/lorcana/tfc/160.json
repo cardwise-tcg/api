@@ -1,28 +1,28 @@
 {
-    "artist": "Cristian Romero",
-    "ink": "Sapphire",
-    "ink_cost": 7,
-    "inkable": true,
-    "name": "Triton",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 160,
-    "keywords": [],
-    "flavor_text": "\"Isn't 'Because I said so' enough of a reason?\"",
-    "text": "Battle Plans - \"exert\" - Draw a card, then choose and discard a card.",
-    "classifications": [
-        "Storyborn",
-        "King"
-    ],
-    "version": "The Sea King",
-    "willpower": 9,
-    "strength": 5,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Cristian Romero",
+  "ink": "Sapphire",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Triton",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 160,
+  "keywords": [],
+  "flavor_text": "\"Isn't 'Because I said so' enough of a reason?\"",
+  "text": "Battle Plans - \"exert\" - Draw a card, then choose and discard a card.",
+  "classifications": [
+    "Storyborn",
+    "King"
+  ],
+  "version": "The Sea King",
+  "willpower": 9,
+  "strength": 5,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

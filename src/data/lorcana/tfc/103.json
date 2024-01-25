@@ -1,28 +1,28 @@
 {
-    "artist": "Oleg Yurkov",
-    "ink": "Ruby",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Abu",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 103,
-    "keywords": [],
-    "flavor_text": "\"Someday, Abu, things are gonna change. We'll be rich, live in a palace, and never have any problems at all.\"\n-Aladdin",
-    "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nEach player discards their hand and draws 7 cards.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Mischievous Monkey",
-    "willpower": 2,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Oleg Yurkov",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Abu",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 103,
+  "keywords": [],
+  "flavor_text": "\"Someday, Abu, things are gonna change. We'll be rich, live in a palace, and never have any problems at all.\"\n-Aladdin",
+  "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nEach player discards their hand and draws 7 cards.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Mischievous Monkey",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

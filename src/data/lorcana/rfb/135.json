@@ -1,22 +1,22 @@
 {
-    "artist": "Leonardo Giammichele",
-    "ink": "Ruby",
-    "ink_cost": 2,
-    "inkable": false,
-    "name": "Peter Pan's Dagger",
-    "types": [
-        "Item"
-    ],
-    "rarity": "Common",
-    "number": 135,
-    "keywords": [
-        "Evasive"
-    ],
-    "flavor_text": "Like so much other lore, Peter Pan's dagger was safe in the Great Illuminary until the flood.",
-    "text": "You characters with Evasive get +1 {s}.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Leonardo Giammichele",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Peter Pan's Dagger",
+  "types": [
+    "Item"
+  ],
+  "rarity": "Common",
+  "number": 135,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "Like so much other lore, Peter Pan's dagger was safe in the Great Illuminary until the flood.",
+  "text": "You characters with Evasive get +1 {s}.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

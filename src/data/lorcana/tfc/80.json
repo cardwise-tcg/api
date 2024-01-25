@@ -1,30 +1,30 @@
 {
-    "artist": "Brian Weisz",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Iago",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 80,
-    "keywords": [
-        "Reckless"
-    ],
-    "flavor_text": "\"Oh, bother-not again.\"",
-    "text": "You Got A Problem? - \"exert\" - Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Loud-Mouthed Parrot",
-    "willpower": 4,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Brian Weisz",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Iago",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 80,
+  "keywords": [
+    "Reckless"
+  ],
+  "flavor_text": "\"Oh, bother-not again.\"",
+  "text": "You Got A Problem? - \"exert\" - Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Loud-Mouthed Parrot",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

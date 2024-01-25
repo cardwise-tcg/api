@@ -1,28 +1,28 @@
 {
-    "artist": "Randy Bishop",
-    "ink": "Steel",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Aladdin",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 171,
-    "keywords": [],
-    "flavor_text": "\"Oh ho! So the street rat found a sword and a backbone!\" \n-Razoul",
-    "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nEach player discards their hand and draws 7 cards.",
-    "classifications": [
-        "Storyborn",
-        "Hero"
-    ],
-    "version": "Cornered Swordsman",
-    "willpower": 1,
-    "strength": 2,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Randy Bishop",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Aladdin",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 171,
+  "keywords": [],
+  "flavor_text": "\"Oh ho! So the street rat found a sword and a backbone!\" \n-Razoul",
+  "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nEach player discards their hand and draws 7 cards.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "version": "Cornered Swordsman",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

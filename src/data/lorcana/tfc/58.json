@@ -1,32 +1,32 @@
 {
-    "artist": "Adrianne Gumaya",
-    "ink": "Amethyst",
-    "ink_cost": 5,
-    "inkable": false,
-    "name": "Tinker Bell",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 58,
-    "keywords": [
-        "Challenger",
-        "Evasive"
-    ],
-    "flavor_text": "\"There's all manner of tasty treats in the world - ya just gotta know where to look.\"",
-    "text": "Evasive (Only characters with Evasive can challenge this character.) \n\nLoyal and Devoted - Your characters named Peter Pan gain Challenger 1",
-    "classifications": [
-        "Storyborn",
-        "Ally",
-        "Fairy"
-    ],
-    "version": "Peter Pan's Ally",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Adrianne Gumaya",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Tinker Bell",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 58,
+  "keywords": [
+    "Challenger",
+    "Evasive"
+  ],
+  "flavor_text": "\"There's all manner of tasty treats in the world - ya just gotta know where to look.\"",
+  "text": "Evasive (Only characters with Evasive can challenge this character.) \n\nLoyal and Devoted - Your characters named Peter Pan gain Challenger 1",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Fairy"
+  ],
+  "version": "Peter Pan's Ally",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

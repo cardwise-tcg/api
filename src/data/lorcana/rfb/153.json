@@ -1,28 +1,28 @@
 {
-    "artist": "Michaela Martin",
-    "ink": "Sapphire",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Mrs. Judson",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 153,
-    "keywords": [],
-    "flavor_text": "\"I know just the thing. Let me fetch you a pot of tea and some of my fresh cheese crumpets.\"",
-    "text": "Tidy Up: Whenever you play a Floodborn character, you may put the top card of your deck into your inkwell facedown and exerted.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Housekeeper",
-    "willpower": 5,
-    "strength": 1,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Michaela Martin",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Mrs. Judson",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 153,
+  "keywords": [],
+  "flavor_text": "\"I know just the thing. Let me fetch you a pot of tea and some of my fresh cheese crumpets.\"",
+  "text": "Tidy Up: Whenever you play a Floodborn character, you may put the top card of your deck into your inkwell facedown and exerted.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Housekeeper",
+  "willpower": 5,
+  "strength": 1,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

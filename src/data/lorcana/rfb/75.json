@@ -1,30 +1,30 @@
 {
-    "artist": "Jeff Murchie",
-    "ink": "Emerald",
-    "ink_cost": 8,
-    "inkable": true,
-    "name": "Cheshire Cat",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 75,
-    "keywords": [
-        "Evasive",
-        "Shift"
-    ],
-    "flavor_text": "Alice felt quite confused. \"But I don't see much ink here at all. How can the flood still be changing the Inklands?\"\r \"Things are always changing, you know,\" said the cat. \"It would be a change if they didn't.\"",
-    "text": "Shift 5 (You may pay 5 \"ink\" to play this on top of one of your characters named Cheshire Cat.)\nEvasive (Only characters with Evasive can challenge this character.)\nWicked Smile: \"exert\" - Banish chosen damaged character.",
-    "classifications": [
-        "Floodborn"
-    ],
-    "version": "From the Shadows",
-    "willpower": 6,
-    "strength": 5,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Jeff Murchie",
+  "ink": "Emerald",
+  "ink_cost": 8,
+  "inkable": true,
+  "name": "Cheshire Cat",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 75,
+  "keywords": [
+    "Evasive",
+    "Shift"
+  ],
+  "flavor_text": "Alice felt quite confused. \"But I don't see much ink here at all. How can the flood still be changing the Inklands?\"\r \"Things are always changing, you know,\" said the cat. \"It would be a change if they didn't.\"",
+  "text": "Shift 5 (You may pay 5 \"ink\" to play this on top of one of your characters named Cheshire Cat.)\nEvasive (Only characters with Evasive can challenge this character.)\nWicked Smile: \"exert\" - Banish chosen damaged character.",
+  "classifications": [
+    "Floodborn"
+  ],
+  "version": "From the Shadows",
+  "willpower": 6,
+  "strength": 5,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

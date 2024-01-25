@@ -1,29 +1,29 @@
 {
-    "artist": "Jared Nickerl",
-    "ink": "Sapphire",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "Mickey Mouse",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 154,
-    "keywords": [],
-    "flavor_text": "Wherever the seaweed had come from, Mickey was sure of one thing: something fishy was going on.",
-    "text": "Get A Clue - When you play this character, you may put the top card of your deck into your inkwell facedown and exerted.",
-    "classifications": [
-        "Dreamborn",
-        "Hero",
-        "Detective"
-    ],
-    "version": "Detective",
-    "willpower": 3,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Jared Nickerl",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Mickey Mouse",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 154,
+  "keywords": [],
+  "flavor_text": "Wherever the seaweed had come from, Mickey was sure of one thing: something fishy was going on.",
+  "text": "Get A Clue - When you play this character, you may put the top card of your deck into your inkwell facedown and exerted.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Detective"
+  ],
+  "version": "Detective",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

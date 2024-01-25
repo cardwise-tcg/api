@@ -1,31 +1,31 @@
 {
-    "artist": "Koni",
-    "ink": "Amethyst",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Zeus",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 61,
-    "keywords": [
-        "Challenger",
-        "Rush"
-    ],
-    "flavor_text": "\"A little lightning solves a whole lot of problems.\"",
-    "text": "Rush (This character can challenge the turn they're played.) \n\nChallenger +4 (While challenging, this character get +4 {s}.) ",
-    "classifications": [
-        "Storyborn",
-        "Deity"
-    ],
-    "version": "God of Lightning",
-    "willpower": 4,
-    "strength": 0,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Koni",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Zeus",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 61,
+  "keywords": [
+    "Challenger",
+    "Rush"
+  ],
+  "flavor_text": "\"A little lightning solves a whole lot of problems.\"",
+  "text": "Rush (This character can challenge the turn they're played.) \n\nChallenger +4 (While challenging, this character get +4 {s}.) ",
+  "classifications": [
+    "Storyborn",
+    "Deity"
+  ],
+  "version": "God of Lightning",
+  "willpower": 4,
+  "strength": 0,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

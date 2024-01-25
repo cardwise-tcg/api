@@ -1,29 +1,29 @@
 {
-    "artist": "Leonardo Giammichele",
-    "ink": "Steel",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Starkey",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 191,
-    "keywords": [],
-    "flavor_text": "A pirate must be tough, loyal, and strong. \"Smart\" doesn't even make the list.",
-    "text": "Aye Aye, Captain - While you have a Captain character in play, this character gets +1 {l}.",
-    "classifications": [
-        "Storyborn",
-        "Ally",
-        "Pirate"
-    ],
-    "version": "Hook's Henchman",
-    "willpower": 4,
-    "strength": 5,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Leonardo Giammichele",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Starkey",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 191,
+  "keywords": [],
+  "flavor_text": "A pirate must be tough, loyal, and strong. \"Smart\" doesn't even make the list.",
+  "text": "Aye Aye, Captain - While you have a Captain character in play, this character gets +1 {l}.",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "version": "Hook's Henchman",
+  "willpower": 4,
+  "strength": 5,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,30 +1,30 @@
 {
-    "artist": "Duyen Nguyen / Aubrey Archer",
-    "ink": "Amethyst",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Elsa",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 40,
-    "keywords": [],
-    "flavor_text": "\"I never knew what I was capable of.\"",
-    "text": "That's No Blizzard! - Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Queen",
-        "Sorcerer"
-    ],
-    "version": "Queen Regent",
-    "willpower": 4,
-    "strength": 4,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Duyen Nguyen / Aubrey Archer",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Elsa",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 40,
+  "keywords": [],
+  "flavor_text": "\"I never knew what I was capable of.\"",
+  "text": "That's No Blizzard! - Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "version": "Queen Regent",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,20 +1,20 @@
 {
-    "artist": "Kenneth Anderson",
-    "ink": "Sapphire",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "If It's Not Baroque",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Rare",
-    "number": 162,
-    "keywords": [],
-    "flavor_text": "\". . . Don't fix it.\"",
-    "text": "Return an item card from your discard to your hand.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Kenneth Anderson",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "If It's Not Baroque",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Rare",
+  "number": 162,
+  "keywords": [],
+  "flavor_text": "\". . . Don't fix it.\"",
+  "text": "Return an item card from your discard to your hand.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

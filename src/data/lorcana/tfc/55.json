@@ -1,28 +1,28 @@
 {
-    "artist": "Jared Nickerl",
-    "ink": "Amethyst",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Sven",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 55,
-    "keywords": [],
-    "flavor_text": "\"Reindeer comin' through!\" \n- Kristoff",
-    "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\n\nEach opponent chooses and discards a card.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Official Ice Deliverer",
-    "willpower": 7,
-    "strength": 5,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Jared Nickerl",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Sven",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 55,
+  "keywords": [],
+  "flavor_text": "\"Reindeer comin' through!\" \n- Kristoff",
+  "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\n\nEach opponent chooses and discards a card.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Official Ice Deliverer",
+  "willpower": 7,
+  "strength": 5,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

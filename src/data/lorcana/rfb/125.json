@@ -1,30 +1,30 @@
 {
-    "artist": "Nicholas Kole",
-    "ink": "Ruby",
-    "ink_cost": 7,
-    "inkable": false,
-    "name": "Scar",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 125,
-    "keywords": [
-        "Rush"
-    ],
-    "flavor_text": "\"The time has come to take what is ours!\"",
-    "text": "Rush (This character can challenge the turn they're played.)\nDaddy Isn't Here To Save You: During your turn, whenever this character banishes another character in a challenge, you may ready this character. He can't quest for the rest of this turn.",
-    "classifications": [
-        "Storyborn",
-        "Villain"
-    ],
-    "version": "Vicious Cheater",
-    "willpower": 5,
-    "strength": 6,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Nicholas Kole",
+  "ink": "Ruby",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Scar",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 125,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "\"The time has come to take what is ours!\"",
+  "text": "Rush (This character can challenge the turn they're played.)\nDaddy Isn't Here To Save You: During your turn, whenever this character banishes another character in a challenge, you may ready this character. He can't quest for the rest of this turn.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "version": "Vicious Cheater",
+  "willpower": 5,
+  "strength": 6,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,32 +1,32 @@
 {
-    "artist": "Man? Kandalyan / Pix Smith",
-    "ink": "Amethyst",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Madam Mim",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 48,
-    "keywords": [
-        "Rush",
-        "Shift"
-    ],
-    "flavor_text": "\"Did I say no purple dragons? Did I?\"",
-    "text": "Shift 3 (You may play 3 \"ink\" to play this on top of one of your characters named Madam Mim.)\nGruesome And Grim: \"exert\" - Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played)",
-    "classifications": [
-        "Floodborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Rival of Merlin",
-    "willpower": 5,
-    "strength": 2,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Man? Kandalyan / Pix Smith",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Madam Mim",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 48,
+  "keywords": [
+    "Rush",
+    "Shift"
+  ],
+  "flavor_text": "\"Did I say no purple dragons? Did I?\"",
+  "text": "Shift 3 (You may play 3 \"ink\" to play this on top of one of your characters named Madam Mim.)\nGruesome And Grim: \"exert\" - Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played)",
+  "classifications": [
+    "Floodborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Rival of Merlin",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

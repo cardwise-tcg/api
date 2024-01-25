@@ -1,29 +1,29 @@
 {
-    "artist": "Phillip Kruse",
-    "ink": "Amber",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Prince Phillip",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 16,
-    "keywords": [],
-    "flavor_text": "\"The road to true love may be barred by still many more dangers, which you alone will have to face.\" \n- Flora",
-    "text": "Heroism - When this character challenges and is banished, you may banish the challenged character.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Prince"
-    ],
-    "version": "Dragonslayer",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Phillip Kruse",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Prince Phillip",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 16,
+  "keywords": [],
+  "flavor_text": "\"The road to true love may be barred by still many more dangers, which you alone will have to face.\" \n- Flora",
+  "text": "Heroism - When this character challenges and is banished, you may banish the challenged character.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "version": "Dragonslayer",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

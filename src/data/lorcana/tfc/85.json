@@ -1,28 +1,28 @@
 {
-    "artist": "Leonardo Giammichele",
-    "ink": "Emerald",
-    "ink_cost": 6,
-    "inkable": false,
-    "name": "Lady Tremaine",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 85,
-    "keywords": [],
-    "flavor_text": "\"If your chores are done, then clearly you don't have enough of them.\"",
-    "text": "Do It Again! - When you play this character, you may return an action card from your discard to your hand.",
-    "classifications": [
-        "Dreamborn",
-        "Villain"
-    ],
-    "version": "Wicked Stepmother",
-    "willpower": 5,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Leonardo Giammichele",
+  "ink": "Emerald",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Lady Tremaine",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 85,
+  "keywords": [],
+  "flavor_text": "\"If your chores are done, then clearly you don't have enough of them.\"",
+  "text": "Do It Again! - When you play this character, you may return an action card from your discard to your hand.",
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "version": "Wicked Stepmother",
+  "willpower": 5,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

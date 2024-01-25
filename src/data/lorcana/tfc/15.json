@@ -1,31 +1,31 @@
 {
-    "artist": "Kamil Murzyn / Eri Welli",
-    "ink": "Amber",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Mr. Smee",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 15,
-    "keywords": [
-        "Resist"
-    ],
-    "flavor_text": "\"Mr. Smee is a kind, gentle soul who lives to bring comfort and aid to a twisted old villain. Now, what good is kindness like that?\" \n- Peter Pan",
-    "text": "Protection - \"exert\": Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
-    "classifications": [
-        "Dreamborn",
-        "Ally",
-        "Pirate"
-    ],
-    "version": "Loyal First Mate",
-    "willpower": 5,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Kamil Murzyn / Eri Welli",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Mr. Smee",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 15,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "\"Mr. Smee is a kind, gentle soul who lives to bring comfort and aid to a twisted old villain. Now, what good is kindness like that?\" \n- Peter Pan",
+  "text": "Protection - \"exert\": Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+  "classifications": [
+    "Dreamborn",
+    "Ally",
+    "Pirate"
+  ],
+  "version": "Loyal First Mate",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,31 +1,31 @@
 {
-    "artist": "Alice Pisoni",
-    "ink": "Amethyst",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Madam Mim",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 46,
-    "keywords": [
-        "Rush"
-    ],
-    "flavor_text": "Mad Hatter: \"Would you like a little more tea?\" \nAlice: \"I haven't had any yet, so I can't very well take more.\"",
-    "text": "Chasing The Rabbit: When you play this character, banish her or return another chosen character of yours to your hand.\nRush (This character can challenge the turn they're played.)",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Fox",
-    "willpower": 3,
-    "strength": 4,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Alice Pisoni",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Madam Mim",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 46,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "Mad Hatter: \"Would you like a little more tea?\" \nAlice: \"I haven't had any yet, so I can't very well take more.\"",
+  "text": "Chasing The Rabbit: When you play this character, banish her or return another chosen character of yours to your hand.\nRush (This character can challenge the turn they're played.)",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Fox",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

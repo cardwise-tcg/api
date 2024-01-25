@@ -1,31 +1,31 @@
 {
-    "artist": "Kristina Chouri",
-    "ink": "Sapphire",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Noi",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 155,
-    "keywords": [
-        "Resist",
-        "Ward"
-    ],
-    "flavor_text": "\"It's criminal how good these things taste!\"",
-    "text": "Hide And Seek: While you have an item in play, this character gains Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Orphaned Thief",
-    "willpower": 2,
-    "strength": 1,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Kristina Chouri",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Noi",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 155,
+  "keywords": [
+    "Resist",
+    "Ward"
+  ],
+  "flavor_text": "\"It's criminal how good these things taste!\"",
+  "text": "Hide And Seek: While you have an item in play, this character gains Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Orphaned Thief",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,30 +1,30 @@
 {
-    "artist": "Cam Kendall",
-    "ink": "Steel",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "Goons",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 179,
-    "keywords": [
-        "Bodyguard"
-    ],
-    "flavor_text": "They may be useless, but they came with the castle.",
-    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nAnd Two For Tea! - When you play this character, you may remove up to 2 damage from each of your Musketeer characters.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Maleficent's Underlings",
-    "willpower": 2,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Cam Kendall",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Goons",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 179,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "flavor_text": "They may be useless, but they came with the castle.",
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nAnd Two For Tea! - When you play this character, you may remove up to 2 damage from each of your Musketeer characters.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Maleficent's Underlings",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "Cookie",
-    "ink": "Steel",
-    "ink_cost": 5,
-    "inkable": false,
-    "name": "Simba",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 190,
-    "keywords": [],
-    "flavor_text": "\"I can't hide anymore. It's time to accept my destiny.\"",
-    "text": "I Know What I Have To Do - During your turn, whenever this character banishes another character in a challenge, you gain 1 lore.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Prince"
-    ],
-    "version": "Rightful Heir",
-    "willpower": 5,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Cookie",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Simba",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 190,
+  "keywords": [],
+  "flavor_text": "\"I can't hide anymore. It's time to accept my destiny.\"",
+  "text": "I Know What I Have To Do - During your turn, whenever this character banishes another character in a challenge, you gain 1 lore.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "version": "Rightful Heir",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

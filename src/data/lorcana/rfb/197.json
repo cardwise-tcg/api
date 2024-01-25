@@ -1,31 +1,31 @@
 {
-    "artist": "Samantra Erdini",
-    "ink": "Steel",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "Tiana",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 197,
-    "keywords": [
-        "Resist"
-    ],
-    "flavor_text": "\"My place is going be special, with great food to fill people's bellies and hot jazz to feed their souls!\"",
-    "text": "Resist +2 (Damage dealt to this character is reduced by 2.)\\nWhat You Give Is What You Get: While this character is exerted and you have no cards in your hand, opponents can't play actions.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Princess"
-    ],
-    "version": "Diligent Waitress",
-    "willpower": 3,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Samantra Erdini",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Tiana",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 197,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "\"My place is going be special, with great food to fill people's bellies and hot jazz to feed their souls!\"",
+  "text": "Resist +2 (Damage dealt to this character is reduced by 2.)\\nWhat You Give Is What You Get: While this character is exerted and you have no cards in your hand, opponents can't play actions.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "version": "Diligent Waitress",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

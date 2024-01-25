@@ -1,20 +1,20 @@
 {
-    "artist": "Grace Tran",
-    "ink": "Steel",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Break",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Common",
-    "number": 196,
-    "keywords": [],
-    "flavor_text": "No one throws a tantrum like a beast.",
-    "text": "Banish chosen item.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Grace Tran",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Break",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Common",
+  "number": 196,
+  "keywords": [],
+  "flavor_text": "No one throws a tantrum like a beast.",
+  "text": "Banish chosen item.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

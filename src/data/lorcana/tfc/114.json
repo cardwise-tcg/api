@@ -1,32 +1,32 @@
 {
-    "artist": "Pixel / Marco Giogianni",
-    "ink": "Ruby",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Maui",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 114,
-    "keywords": [
-        "Reckless",
-        "Rush"
-    ],
-    "flavor_text": "\"What I believe you were trying to say is 'Thank you.'\"",
-    "text": "Rush (This character can challenge the turn they're played.) \n\nReckless (This character can't quest and must challenge each turn if able.) ",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Deity"
-    ],
-    "version": "Hero to All",
-    "willpower": 5,
-    "strength": 6,
-    "lore": 0,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Pixel / Marco Giogianni",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Maui",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 114,
+  "keywords": [
+    "Reckless",
+    "Rush"
+  ],
+  "flavor_text": "\"What I believe you were trying to say is 'Thank you.'\"",
+  "text": "Rush (This character can challenge the turn they're played.) \n\nReckless (This character can't quest and must challenge each turn if able.) ",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Deity"
+  ],
+  "version": "Hero to All",
+  "willpower": 5,
+  "strength": 6,
+  "lore": 0,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

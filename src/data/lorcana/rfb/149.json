@@ -1,28 +1,28 @@
 {
-    "artist": "Leonardo Giammichele",
-    "ink": "Sapphire",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Hiram Flaversham",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 149,
-    "keywords": [],
-    "flavor_text": "His creations are even more wondrous with the Illuminary's resources at his fingertips.",
-    "text": "Artificer: When you play this character and whenever he quests, you may banish one of your items to draw 2 cards.",
-    "classifications": [
-        "Storyborn",
-        "Inventor"
-    ],
-    "version": "Toymaker",
-    "willpower": 6,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Leonardo Giammichele",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Hiram Flaversham",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 149,
+  "keywords": [],
+  "flavor_text": "His creations are even more wondrous with the Illuminary's resources at his fingertips.",
+  "text": "Artificer: When you play this character and whenever he quests, you may banish one of your items to draw 2 cards.",
+  "classifications": [
+    "Storyborn",
+    "Inventor"
+  ],
+  "version": "Toymaker",
+  "willpower": 6,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

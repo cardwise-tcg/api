@@ -1,32 +1,32 @@
 {
-    "artist": "Filipe Laurentino",
-    "ink": "Amethyst",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Fairy Godmother",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 41,
-    "keywords": [
-        "Challenger",
-        "Shift"
-    ],
-    "flavor_text": "\"Use a humdrum spell. and you'll end up with humdrum magic. I like my magic to have something special!\"",
-    "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Fairy Godmother.)\nForget The Coach, Here's A Sword: Whenever this character quests, your characters gain Challenger +3 and \"When this character is banished in a challenge, return this card to your hand\" this turn. (They get +3 {s} while challenging.)",
-    "classifications": [
-        "Floodborn",
-        "Mentor",
-        "Fairy"
-    ],
-    "version": "Mystic Armorer",
-    "willpower": 4,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Filipe Laurentino",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Fairy Godmother",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 41,
+  "keywords": [
+    "Challenger",
+    "Shift"
+  ],
+  "flavor_text": "\"Use a humdrum spell. and you'll end up with humdrum magic. I like my magic to have something special!\"",
+  "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Fairy Godmother.)\nForget The Coach, Here's A Sword: Whenever this character quests, your characters gain Challenger +3 and \"When this character is banished in a challenge, return this card to your hand\" this turn. (They get +3 {s} while challenging.)",
+  "classifications": [
+    "Floodborn",
+    "Mentor",
+    "Fairy"
+  ],
+  "version": "Mystic Armorer",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

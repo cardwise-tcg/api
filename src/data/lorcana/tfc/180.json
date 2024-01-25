@@ -1,29 +1,29 @@
 {
-    "artist": "Kendall Hale",
-    "ink": "Steel",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Hans",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 180,
-    "keywords": [],
-    "flavor_text": "Tired of being last, he decided to cut the line.",
-    "text": "Stage A Little Accident - Whenever this character quests, you may deal 1 damage to chosen character.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Prince"
-    ],
-    "version": "Thirteenth in Line",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Kendall Hale",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Hans",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 180,
+  "keywords": [],
+  "flavor_text": "Tired of being last, he decided to cut the line.",
+  "text": "Stage A Little Accident - Whenever this character quests, you may deal 1 damage to chosen character.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Prince"
+  ],
+  "version": "Thirteenth in Line",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

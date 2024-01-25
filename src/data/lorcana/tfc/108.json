@@ -1,27 +1,27 @@
 {
-    "artist": "Kenneth Anderson",
-    "ink": "Ruby",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Donald Duck",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 108,
-    "keywords": [],
-    "flavor_text": "\"Who you callin' boisterous, buster?\"",
-    "text": "Share and Share Alike: Whenever this character quests, you pay 1 \"ink\" less for the next character you play this turn.",
-    "classifications": [
-        "Storyborn"
-    ],
-    "version": "Boisterous Fowl",
-    "willpower": 3,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Kenneth Anderson",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Donald Duck",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 108,
+  "keywords": [],
+  "flavor_text": "\"Who you callin' boisterous, buster?\"",
+  "text": "Share and Share Alike: Whenever this character quests, you pay 1 \"ink\" less for the next character you play this turn.",
+  "classifications": [
+    "Storyborn"
+  ],
+  "version": "Boisterous Fowl",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

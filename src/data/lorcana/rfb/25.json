@@ -1,31 +1,31 @@
 {
-    "artist": "Javi Salas",
-    "ink": "Amber",
-    "ink_cost": 6,
-    "inkable": false,
-    "name": "Snow White",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 25,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "\"Nothing says 'hello' better than a fresh-baked pie.\"",
-    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Snow White.)\n\nWishes Come True - Whenever this character quests, you may return a character card from your discard to your hand.",
-    "classifications": [
-        "Floodborn",
-        "Hero",
-        "Princess"
-    ],
-    "version": "Well Wisher",
-    "willpower": 5,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Javi Salas",
+  "ink": "Amber",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Snow White",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 25,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "\"Nothing says 'hello' better than a fresh-baked pie.\"",
+  "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Snow White.)\n\nWishes Come True - Whenever this character quests, you may return a character card from your discard to your hand.",
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "version": "Well Wisher",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

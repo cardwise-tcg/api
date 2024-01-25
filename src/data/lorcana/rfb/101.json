@@ -1,20 +1,20 @@
 {
-    "artist": "Brian Weisz",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Ring The Bell",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Uncommon",
-    "number": 101,
-    "keywords": [],
-    "flavor_text": "\"I'm afraid that you've gone and upset me.\"\n - Ratigan",
-    "text": "Banish chosen damaged character.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Brian Weisz",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Ring The Bell",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Uncommon",
+  "number": 101,
+  "keywords": [],
+  "flavor_text": "\"I'm afraid that you've gone and upset me.\"\n - Ratigan",
+  "text": "Banish chosen damaged character.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

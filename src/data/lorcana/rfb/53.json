@@ -1,29 +1,29 @@
 {
-    "artist": "Matthew Robert Davies",
-    "ink": "Amethyst",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Merlin",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 53,
-    "keywords": [],
-    "flavor_text": "\"Oh, blast it all - I can't make up my mind.\"",
-    "text": "Battle Of Wits: Whenever one of your other characters is returned to your hand from play, this characters get +1 {l} this turn.",
-    "classifications": [
-        "Storyborn",
-        "Mentor",
-        "Sorcerer"
-    ],
-    "version": "Shapeshifter",
-    "willpower": 5,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Matthew Robert Davies",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Merlin",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 53,
+  "keywords": [],
+  "flavor_text": "\"Oh, blast it all - I can't make up my mind.\"",
+  "text": "Battle Of Wits: Whenever one of your other characters is returned to your hand from play, this characters get +1 {l} this turn.",
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "Sorcerer"
+  ],
+  "version": "Shapeshifter",
+  "willpower": 5,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "John Loren",
-    "ink": "Amethyst",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Winnie The Pooh",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 59,
-    "keywords": [],
-    "flavor_text": "He'd always felt a kinship with honey. They were both golden, and sweet, and likely to end up in sticky situations.",
-    "text": "Hunny Pot: Whenever this character quests, you may put a card from your hand into your inkwell facedown.",
-    "classifications": [
-        "Dreamborn",
-        "Hero",
-        "Sorcerer"
-    ],
-    "version": "Hunny Wizard",
-    "willpower": 5,
-    "strength": 5,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "John Loren",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Winnie The Pooh",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 59,
+  "keywords": [],
+  "flavor_text": "He'd always felt a kinship with honey. They were both golden, and sweet, and likely to end up in sticky situations.",
+  "text": "Hunny Pot: Whenever this character quests, you may put a card from your hand into your inkwell facedown.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Sorcerer"
+  ],
+  "version": "Hunny Wizard",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

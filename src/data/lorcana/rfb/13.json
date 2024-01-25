@@ -1,28 +1,28 @@
 {
-    "artist": "Veronica Di Lorenzo / Livio Cacciatore",
-    "ink": "Amber",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Mickey Mouse",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 13,
-    "keywords": [],
-    "flavor_text": "\"Come on in- there's lots to explore.\"",
-    "text": "Glad You're Here! - Whenever this character quests, you pay 3 \"ink\" less for the next character you play this turn.",
-    "classifications": [
-        "Storyborn",
-        "Hero"
-    ],
-    "version": "Friendly Face",
-    "willpower": 6,
-    "strength": 1,
-    "lore": 3,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Veronica Di Lorenzo / Livio Cacciatore",
+  "ink": "Amber",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Mickey Mouse",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 13,
+  "keywords": [],
+  "flavor_text": "\"Come on in- there's lots to explore.\"",
+  "text": "Glad You're Here! - Whenever this character quests, you pay 3 \"ink\" less for the next character you play this turn.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "version": "Friendly Face",
+  "willpower": 6,
+  "strength": 1,
+  "lore": 3,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

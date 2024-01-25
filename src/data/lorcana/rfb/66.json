@@ -1,22 +1,22 @@
 {
-    "artist": "Matt Chapman",
-    "ink": "Amethyst",
-    "ink_cost": 1,
-    "inkable": false,
-    "name": "Croquet Mallet",
-    "types": [
-        "Item"
-    ],
-    "rarity": "Common",
-    "number": 66,
-    "keywords": [
-        "Rush"
-    ],
-    "flavor_text": "\"This has gone far enough. I'm in charge here.\"",
-    "text": "Hurtling Hedgehog: Banish this item - Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Matt Chapman",
+  "ink": "Amethyst",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Croquet Mallet",
+  "types": [
+    "Item"
+  ],
+  "rarity": "Common",
+  "number": 66,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "\"This has gone far enough. I'm in charge here.\"",
+  "text": "Hurtling Hedgehog: Banish this item - Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

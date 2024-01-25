@@ -1,30 +1,30 @@
 {
-    "artist": "isaiah Mesq",
-    "ink": "Amethyst",
-    "ink_cost": 5,
-    "inkable": false,
-    "name": "Pinocchio",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 57,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "He raced into the Inklands without a thought.",
-    "text": "Shift 3 (You pay 3 \"ink\" to play this on top of one of your characters named Pinocchio.)\nListen To Your Conscience: When you play this character, you may return chosen character or item with cost 3 or less to their player's hand.",
-    "classifications": [
-        "Floodborn",
-        "Hero"
-    ],
-    "version": "On The Run",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "isaiah Mesq",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Pinocchio",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 57,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "He raced into the Inklands without a thought.",
+  "text": "Shift 3 (You pay 3 \"ink\" to play this on top of one of your characters named Pinocchio.)\nListen To Your Conscience: When you play this character, you may return chosen character or item with cost 3 or less to their player's hand.",
+  "classifications": [
+    "Floodborn",
+    "Hero"
+  ],
+  "version": "On The Run",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

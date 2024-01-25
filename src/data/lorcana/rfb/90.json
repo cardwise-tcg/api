@@ -1,29 +1,29 @@
 {
-    "artist": "Matthew Robert Davies",
-    "ink": "Emerald",
-    "ink_cost": 2,
-    "inkable": false,
-    "name": "Queen Of Hearts",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 90,
-    "keywords": [],
-    "flavor_text": "\"You know, we could make her really angry. Shall we try?\"\n - Cheshire Cat",
-    "text": "Royal Rage: When you play this character, deal 1 damage to chosen damaged opposing character.",
-    "classifications": [
-        "Dreamborn",
-        "Villain",
-        "Queen"
-    ],
-    "version": "Quick-Tempered",
-    "willpower": 2,
-    "strength": 1,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Matthew Robert Davies",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Queen Of Hearts",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 90,
+  "keywords": [],
+  "flavor_text": "\"You know, we could make her really angry. Shall we try?\"\n - Cheshire Cat",
+  "text": "Royal Rage: When you play this character, deal 1 damage to chosen damaged opposing character.",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Queen"
+  ],
+  "version": "Quick-Tempered",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

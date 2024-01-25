@@ -1,28 +1,28 @@
 {
-    "artist": "Eri Welli",
-    "ink": "Amber",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Christopher Robin",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 2,
-    "keywords": [],
-    "flavor_text": "\"Look, Pooh! Have you ever seen anything so grand?\"\n- Christopher Robin",
-    "text": "We'll Always Be Together: Whenever you ready this character, if you have 2 or more other characters in play, gain 2 lore.",
-    "classifications": [
-        "Dreamborn",
-        "Hero"
-    ],
-    "version": "Adventurer",
-    "willpower": 6,
-    "strength": 2,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Eri Welli",
+  "ink": "Amber",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Christopher Robin",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 2,
+  "keywords": [],
+  "flavor_text": "\"Look, Pooh! Have you ever seen anything so grand?\"\n- Christopher Robin",
+  "text": "We'll Always Be Together: Whenever you ready this character, if you have 2 or more other characters in play, gain 2 lore.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "version": "Adventurer",
+  "willpower": 6,
+  "strength": 2,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

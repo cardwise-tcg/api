@@ -1,30 +1,30 @@
 {
-    "artist": "Alex Accorsi",
-    "ink": "Emerald",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Bucky",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 73,
-    "keywords": [
-        "Ward"
-    ],
-    "flavor_text": "\"There's a lot of nuance to squirrel.\" - Kronk",
-    "text": "Ward (Opponents can't choose this character except to challenge.)\nSqueak: Whenever you play a Floodborn character, each opponent chooses and discards a card.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Squirrel Squeak Tutor",
-    "willpower": 1,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Alex Accorsi",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Bucky",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 73,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "\"There's a lot of nuance to squirrel.\" - Kronk",
+  "text": "Ward (Opponents can't choose this character except to challenge.)\nSqueak: Whenever you play a Floodborn character, each opponent chooses and discards a card.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Squirrel Squeak Tutor",
+  "willpower": 1,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

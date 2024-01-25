@@ -1,30 +1,30 @@
 {
-    "artist": "Carmine Pucci / Leonardo Giammichele",
-    "ink": "Ruby",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Donald Duck",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 106,
-    "keywords": [
-        "Evasive"
-    ],
-    "flavor_text": "\"You go ahead, Minnie! I'm going to see if there's any lore over here.\"",
-    "text": "Evasive (Only characters with Evasive can challenge this character.)\r \r Phooey!: This character gets +1 {l} for each 1 damage on him.",
-    "classifications": [
-        "Dreamborn",
-        "Hero"
-    ],
-    "version": "Not Again!",
-    "willpower": 5,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Carmine Pucci / Leonardo Giammichele",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Donald Duck",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 106,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"You go ahead, Minnie! I'm going to see if there's any lore over here.\"",
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\r \r Phooey!: This character gets +1 {l} for each 1 damage on him.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "version": "Not Again!",
+  "willpower": 5,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

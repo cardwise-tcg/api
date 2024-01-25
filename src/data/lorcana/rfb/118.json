@@ -1,29 +1,29 @@
 {
-    "artist": "Hedvig H?ggman-Sund",
-    "ink": "Ruby",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Namaari",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 118,
-    "keywords": [],
-    "flavor_text": "\"I don't need swords to beat you. They just make it more fun.\"",
-    "text": "This Shouldn't Take Long: \"exert\", Banish this character - Banish chosen character.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Princess"
-    ],
-    "version": "Nemesis",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Hedvig H?ggman-Sund",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Namaari",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 118,
+  "keywords": [],
+  "flavor_text": "\"I don't need swords to beat you. They just make it more fun.\"",
+  "text": "This Shouldn't Take Long: \"exert\", Banish this character - Banish chosen character.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Princess"
+  ],
+  "version": "Nemesis",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

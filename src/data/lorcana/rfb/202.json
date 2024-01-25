@@ -1,22 +1,22 @@
 {
-    "artist": "Jared Nickerl",
-    "ink": "Steel",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "Last Cannon",
-    "types": [
-        "Item"
-    ],
-    "rarity": "Common",
-    "number": 202,
-    "keywords": [
-        "Challenger"
-    ],
-    "flavor_text": "One shot can change everything.",
-    "text": "Arm Yourself: 1 \"ink\", Banish this item - Chosen character gains Challenger +3 this turn. (They get +3 {s} while challenging.)",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Jared Nickerl",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Last Cannon",
+  "types": [
+    "Item"
+  ],
+  "rarity": "Common",
+  "number": 202,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "One shot can change everything.",
+  "text": "Arm Yourself: 1 \"ink\", Banish this item - Chosen character gains Challenger +3 this turn. (They get +3 {s} while challenging.)",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

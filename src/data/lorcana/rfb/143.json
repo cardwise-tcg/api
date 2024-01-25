@@ -1,30 +1,30 @@
 {
-    "artist": "Leonardo Giamichele",
-    "ink": "Sapphire",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Cogsworth",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 143,
-    "keywords": [
-        "Reckless"
-    ],
-    "flavor_text": "\"This has gone far enough. I'm in charge here.\"",
-    "text": "Wait A Minute: Your characters with Reckless gain \"\"exert\" - Gain 1 lore.\"",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Talking Clock",
-    "willpower": 3,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Leonardo Giamichele",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Cogsworth",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 143,
+  "keywords": [
+    "Reckless"
+  ],
+  "flavor_text": "\"This has gone far enough. I'm in charge here.\"",
+  "text": "Wait A Minute: Your characters with Reckless gain \"\"exert\" - Gain 1 lore.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Talking Clock",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "Matthew Robert Davies",
-    "ink": "Steel",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Beast",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 172,
-    "keywords": [],
-    "flavor_text": "\"You'll have to go through me first.\"",
-    "text": "Shield Another: Whenever one of your other character would be dealt damage, put that many damage counters on this character instead.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Prince"
-    ],
-    "version": "Selfless Protector",
-    "willpower": 8,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Matthew Robert Davies",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Beast",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 172,
+  "keywords": [],
+  "flavor_text": "\"You'll have to go through me first.\"",
+  "text": "Shield Another: Whenever one of your other character would be dealt damage, put that many damage counters on this character instead.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "version": "Selfless Protector",
+  "willpower": 8,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

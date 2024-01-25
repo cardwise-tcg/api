@@ -1,20 +1,20 @@
 {
-    "artist": "Gaku Kumatori",
-    "ink": "Ruby",
-    "ink_cost": 1,
-    "inkable": false,
-    "name": "Sword In The Stone",
-    "types": [
-        "Item"
-    ],
-    "rarity": "Uncommon",
-    "number": 136,
-    "keywords": [],
-    "flavor_text": "\"Whoso pulleth out this sword of this stone and anvil is rightwise king born of England.\"",
-    "text": "\"exert\", 2 \"ink\" - Chosen character gets +1 {s} this turn for each 1 damage on them.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Gaku Kumatori",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Sword In The Stone",
+  "types": [
+    "Item"
+  ],
+  "rarity": "Uncommon",
+  "number": 136,
+  "keywords": [],
+  "flavor_text": "\"Whoso pulleth out this sword of this stone and anvil is rightwise king born of England.\"",
+  "text": "\"exert\", 2 \"ink\" - Chosen character gets +1 {s} this turn for each 1 damage on them.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,28 +1,28 @@
 {
-    "artist": "Aubrey Archer",
-    "ink": "Emerald",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Megara",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 87,
-    "keywords": [],
-    "flavor_text": "\"A deal's a deal. But falling in love was never supposed to be a part of it.\"",
-    "text": "Wonder Boy - When you play this character, chosen character gets +2 {s} this turn.",
-    "classifications": [
-        "Dreamborn",
-        "Ally"
-    ],
-    "version": "Pulling the Strings",
-    "willpower": 1,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Aubrey Archer",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Megara",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 87,
+  "keywords": [],
+  "flavor_text": "\"A deal's a deal. But falling in love was never supposed to be a part of it.\"",
+  "text": "Wonder Boy - When you play this character, chosen character gets +2 {s} this turn.",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "version": "Pulling the Strings",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

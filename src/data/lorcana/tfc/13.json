@@ -1,28 +1,28 @@
 {
-    "artist": "Kendall Hale",
-    "ink": "Amber",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Minnie Mouse",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 13,
-    "keywords": [],
-    "flavor_text": "Wherever the princess goes, her musketeers are . . . well, they're around somewhere, probably.",
-    "text": "Animate Broom - You pay 1 \"ink\" less to play Broom characters.\n\nCeaseless Worker - Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
-    "classifications": [
-        "Dreamborn",
-        "Princess"
-    ],
-    "version": "Beloved Princess",
-    "willpower": 3,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Kendall Hale",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Minnie Mouse",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 13,
+  "keywords": [],
+  "flavor_text": "Wherever the princess goes, her musketeers are . . . well, they're around somewhere, probably.",
+  "text": "Animate Broom - You pay 1 \"ink\" less to play Broom characters.\n\nCeaseless Worker - Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+  "classifications": [
+    "Dreamborn",
+    "Princess"
+  ],
+  "version": "Beloved Princess",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

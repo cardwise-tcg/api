@@ -1,20 +1,20 @@
 {
-    "artist": "Bill Robinson",
-    "ink": "Emerald",
-    "ink_cost": 2,
-    "inkable": false,
-    "name": "Bounce",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Uncommon",
-    "number": 97,
-    "keywords": [],
-    "flavor_text": "\"Are you ready for some bouncing?\"\n - Tigger",
-    "text": "Return chosen character of yours to your hand to return another chosen character to their player's hand.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Bill Robinson",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Bounce",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Uncommon",
+  "number": 97,
+  "keywords": [],
+  "flavor_text": "\"Are you ready for some bouncing?\"\n - Tigger",
+  "text": "Return chosen character of yours to your hand to return another chosen character to their player's hand.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

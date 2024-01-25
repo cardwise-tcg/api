@@ -1,31 +1,31 @@
 {
-    "artist": "Cookie",
-    "ink": "Steel",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Tinker Bell",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 193,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "\"There's all manner of tasty treats in the world - ya just gotta know where to look.\"",
-    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Tinker Bell.) \n\nROCK THE BOAT: When you play this character, deal 1 damage to each opposing character.\n\nPuny Pirate! - During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.",
-    "classifications": [
-        "Floodborn",
-        "Ally",
-        "Fairy"
-    ],
-    "version": "Giant Fairy",
-    "willpower": 5,
-    "strength": 4,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Cookie",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Tinker Bell",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 193,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "\"There's all manner of tasty treats in the world - ya just gotta know where to look.\"",
+  "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Tinker Bell.) \n\nROCK THE BOAT: When you play this character, deal 1 damage to each opposing character.\n\nPuny Pirate! - During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.",
+  "classifications": [
+    "Floodborn",
+    "Ally",
+    "Fairy"
+  ],
+  "version": "Giant Fairy",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

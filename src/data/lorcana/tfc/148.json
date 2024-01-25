@@ -1,28 +1,28 @@
 {
-    "artist": "R. La Barbera/L. Giammichele",
-    "ink": "Sapphire",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Jasmine",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 148,
-    "keywords": [],
-    "flavor_text": "\"Try to understand. I've never done a thing on my own. I've never had any real friends. . . . I've never even been outside the palace walls.\"",
-    "text": "Never, Ever Lose Sight: When this character is banished, you may put this card into your inkwell facedown and exerted.",
-    "classifications": [
-        "Storyborn",
-        "Princess"
-    ],
-    "version": "Disguised",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "R. La Barbera/L. Giammichele",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Jasmine",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 148,
+  "keywords": [],
+  "flavor_text": "\"Try to understand. I've never done a thing on my own. I've never had any real friends. . . . I've never even been outside the palace walls.\"",
+  "text": "Never, Ever Lose Sight: When this character is banished, you may put this card into your inkwell facedown and exerted.",
+  "classifications": [
+    "Storyborn",
+    "Princess"
+  ],
+  "version": "Disguised",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

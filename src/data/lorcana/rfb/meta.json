@@ -1,21 +1,21 @@
 {
-    "artist": "Rob Di Salvo",
-    "ink": "Amber",
-    "ink_cost": 2,
-    "inkable": false,
-    "name": "Zero to Hero",
-    "types": [
-        "Action",
-        "Song"
-    ],
-    "rarity": "Uncommon",
-    "number": 32,
-    "keywords": [],
-    "flavor_text": "Yzma: \"Llamas! All I see when I close my eyes is llamas!\"\nKronk: \"Weird. I just saw one in the flood. Poor little guy.\"",
-    "text": "{A character with cost X or more can \"exert\" to sing this song for free.)\n\nCount the number of characters you have in play. You pay that amount of \"ink\" less for the next character you play this turn.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Rob Di Salvo",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Zero to Hero",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "rarity": "Uncommon",
+  "number": 32,
+  "keywords": [],
+  "flavor_text": "Yzma: \"Llamas! All I see when I close my eyes is llamas!\"\nKronk: \"Weird. I just saw one in the flood. Poor little guy.\"",
+  "text": "{A character with cost X or more can \"exert\" to sing this song for free.)\n\nCount the number of characters you have in play. You pay that amount of \"ink\" less for the next character you play this turn.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

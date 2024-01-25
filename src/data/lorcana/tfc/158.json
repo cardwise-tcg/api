@@ -1,28 +1,28 @@
 {
-    "artist": "Bill Robinson",
-    "ink": "Sapphire",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Scar",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 158,
-    "keywords": [],
-    "flavor_text": "\"The best plans involve a little danger. Just not for me.\"",
-    "text": "Insidious Plot - When you play this character, chosen opposing character gets -5 {s} this turn.",
-    "classifications": [
-        "Storyborn",
-        "Villain"
-    ],
-    "version": "Mastermind",
-    "willpower": 4,
-    "strength": 5,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Bill Robinson",
+  "ink": "Sapphire",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Scar",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 158,
+  "keywords": [],
+  "flavor_text": "\"The best plans involve a little danger. Just not for me.\"",
+  "text": "Insidious Plot - When you play this character, chosen opposing character gets -5 {s} this turn.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "version": "Mastermind",
+  "willpower": 4,
+  "strength": 5,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

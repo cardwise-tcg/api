@@ -1,30 +1,30 @@
 {
-    "artist": "Alice Pisoni / Whitney Pollett",
-    "ink": "Ruby",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Elsa",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 109,
-    "keywords": [],
-    "flavor_text": "\"My sister has always been there for me. I need to be there for her.\"",
-    "text": "That's No Blizzard! - Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn.",
-    "classifications": [
-        "Dreamborn",
-        "Hero",
-        "Queen",
-        "Sorcerer"
-    ],
-    "version": "Ice Surfer",
-    "willpower": 4,
-    "strength": 3,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Alice Pisoni / Whitney Pollett",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Elsa",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 109,
+  "keywords": [],
+  "flavor_text": "\"My sister has always been there for me. I need to be there for her.\"",
+  "text": "That's No Blizzard! - Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "version": "Ice Surfer",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

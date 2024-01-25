@@ -1,28 +1,28 @@
 {
-    "artist": "Mario Oscar Gabriele",
-    "ink": "Emerald",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Arthur",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 69,
-    "keywords": [],
-    "flavor_text": "\"It's not just fancy horses and swinging a sword around, you know! A true master must use his brain as well as his blade.\" - Merlin",
-    "text": "Look At This Stuff - Whenever you play an item, you may ready this character.",
-    "classifications": [
-        "Dreamborn",
-        "Hero"
-    ],
-    "version": "Trained Swordsman",
-    "willpower": 3,
-    "strength": 4,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Mario Oscar Gabriele",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Arthur",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 69,
+  "keywords": [],
+  "flavor_text": "\"It's not just fancy horses and swinging a sword around, you know! A true master must use his brain as well as his blade.\" - Merlin",
+  "text": "Look At This Stuff - Whenever you play an item, you may ready this character.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "version": "Trained Swordsman",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

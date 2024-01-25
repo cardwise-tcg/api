@@ -1,28 +1,28 @@
 {
-    "artist": "Michaela Martin",
-    "ink": "Amethyst",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Kuzco",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 45,
-    "keywords": [],
-    "flavor_text": "\"So there I was. Perfectly in control of the situation.\"",
-    "text": "Ok, Where am I?: When this character is banished, you may draw a card.",
-    "classifications": [
-        "Storyborn",
-        "King"
-    ],
-    "version": "Wanted Llama",
-    "willpower": 2,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Michaela Martin",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Kuzco",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 45,
+  "keywords": [],
+  "flavor_text": "\"So there I was. Perfectly in control of the situation.\"",
+  "text": "Ok, Where am I?: When this character is banished, you may draw a card.",
+  "classifications": [
+    "Storyborn",
+    "King"
+  ],
+  "version": "Wanted Llama",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

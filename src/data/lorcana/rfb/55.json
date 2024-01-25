@@ -1,31 +1,31 @@
 {
-    "artist": "Giulia Riva",
-    "ink": "Amethyst",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Peter Pan's Shadow",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 55,
-    "keywords": [
-        "Evasive",
-        "Rush"
-    ],
-    "flavor_text": "Like so much other lore, Peter Pan's dagger was safe in the Great Illuminary until the flood.",
-    "text": "Evasive (Only characters with Evasive can challenge this character.)\nRush (This character can challenge the turn they're played.)\nTiptoe: Your other characters with Rush gain Evasive.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Not Sewn On",
-    "willpower": 3,
-    "strength": 2,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Giulia Riva",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Peter Pan's Shadow",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 55,
+  "keywords": [
+    "Evasive",
+    "Rush"
+  ],
+  "flavor_text": "Like so much other lore, Peter Pan's dagger was safe in the Great Illuminary until the flood.",
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\nRush (This character can challenge the turn they're played.)\nTiptoe: Your other characters with Rush gain Evasive.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Not Sewn On",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

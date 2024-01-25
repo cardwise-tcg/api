@@ -1,29 +1,29 @@
 {
-    "artist": "Brian Weisz",
-    "ink": "Amethyst",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Madam Mim",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 49,
-    "keywords": [],
-    "flavor_text": "\"I've got you rattled now!\"",
-    "text": "Just You Wait: When you play this character, banish her or return another chosen character of yours to your hand.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Snake",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Brian Weisz",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Madam Mim",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 49,
+  "keywords": [],
+  "flavor_text": "\"I've got you rattled now!\"",
+  "text": "Just You Wait: When you play this character, banish her or return another chosen character of yours to your hand.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Snake",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

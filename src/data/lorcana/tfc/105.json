@@ -1,28 +1,28 @@
 {
-    "artist": "Peter Brockhammer",
-    "ink": "Ruby",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Aladdin",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 105,
-    "keywords": [],
-    "flavor_text": "It can be hard to tell the difference between a diamond in the rough and someone who's just, well, rough.",
-    "text": "Improvise - When you play this character, each opponent loses 1 lore.",
-    "classifications": [
-        "Storyborn",
-        "Hero"
-    ],
-    "version": "Street Rat",
-    "willpower": 2,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Peter Brockhammer",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Aladdin",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 105,
+  "keywords": [],
+  "flavor_text": "It can be hard to tell the difference between a diamond in the rough and someone who's just, well, rough.",
+  "text": "Improvise - When you play this character, each opponent loses 1 lore.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "version": "Street Rat",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

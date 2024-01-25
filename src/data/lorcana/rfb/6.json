@@ -1,29 +1,29 @@
 {
-    "artist": "Kendall Hale",
-    "ink": "Amber",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Dopey",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 6,
-    "keywords": [],
-    "flavor_text": "He's a real gem.",
-    "text": "Odd One Out: When this character is banished, your other Seven Dwarfs characters get +2 {s} until the start of your next turn.",
-    "classifications": [
-        "Storyborn",
-        "Ally",
-        "Seven Dwarfs"
-    ],
-    "version": "Always Playful",
-    "willpower": 2,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Kendall Hale",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Dopey",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 6,
+  "keywords": [],
+  "flavor_text": "He's a real gem.",
+  "text": "Odd One Out: When this character is banished, your other Seven Dwarfs characters get +2 {s} until the start of your next turn.",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Seven Dwarfs"
+  ],
+  "version": "Always Playful",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

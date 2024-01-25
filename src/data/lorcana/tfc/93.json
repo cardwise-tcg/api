@@ -1,31 +1,31 @@
 {
-    "artist": "Caner Soylu",
-    "ink": "Emerald",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Tinker Bell",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 93,
-    "keywords": [
-        "Evasive"
-    ],
-    "flavor_text": "\"There's all manner of tasty treats in the world - ya just gotta know where to look.\"",
-    "text": "Evasive (Only characters with Evasive can challenge this character.) \n\nPixie Dust - When you play this character, chosen character gains Evasive this turn.",
-    "classifications": [
-        "Storyborn",
-        "Ally",
-        "Fairy"
-    ],
-    "version": "Most Helpful",
-    "willpower": 3,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Caner Soylu",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Tinker Bell",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 93,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"There's all manner of tasty treats in the world - ya just gotta know where to look.\"",
+  "text": "Evasive (Only characters with Evasive can challenge this character.) \n\nPixie Dust - When you play this character, chosen character gains Evasive this turn.",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Fairy"
+  ],
+  "version": "Most Helpful",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

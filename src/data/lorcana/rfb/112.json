@@ -1,28 +1,28 @@
 {
-    "artist": "Giulia Riva",
-    "ink": "Ruby",
-    "ink_cost": 7,
-    "inkable": true,
-    "name": "Lumiere",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 112,
-    "keywords": [],
-    "flavor_text": "When things heat up, no one can hold a candle to him.",
-    "text": "Mouse Catcher: When you play this character, each opponent chooses and discards either 2 cards or 1 action card.",
-    "classifications": [
-        "Dreamborn",
-        "Ally"
-    ],
-    "version": "Hotheaded Candelabra",
-    "willpower": 7,
-    "strength": 7,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Giulia Riva",
+  "ink": "Ruby",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Lumiere",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 112,
+  "keywords": [],
+  "flavor_text": "When things heat up, no one can hold a candle to him.",
+  "text": "Mouse Catcher: When you play this character, each opponent chooses and discards either 2 cards or 1 action card.",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "version": "Hotheaded Candelabra",
+  "willpower": 7,
+  "strength": 7,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

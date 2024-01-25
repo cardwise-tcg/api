@@ -1,28 +1,28 @@
 {
-    "artist": "Jochem Van Gool",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Jasper",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 81,
-    "keywords": [],
-    "flavor_text": "\"Now, look here, Horace, I warned you about thinkin'.\"",
-    "text": "Puppynapping - Whenever this character quests, chosen opposing character can't quest during their next turn.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Common Crook",
-    "willpower": 4,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Jochem Van Gool",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Jasper",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 81,
+  "keywords": [],
+  "flavor_text": "\"Now, look here, Horace, I warned you about thinkin'.\"",
+  "text": "Puppynapping - Whenever this character quests, chosen opposing character can't quest during their next turn.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Common Crook",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

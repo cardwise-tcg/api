@@ -1,31 +1,31 @@
 {
-    "artist": "Roger P?rez",
-    "ink": "Sapphire",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Basil",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 140,
-    "keywords": [
-        "Support"
-    ],
-    "flavor_text": "\"There is no question: something is afoot in the Great Illuminary\"",
-    "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Detective"
-    ],
-    "version": "Perceptive Investigator",
-    "willpower": 4,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Roger P?rez",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Basil",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 140,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "\"There is no question: something is afoot in the Great Illuminary\"",
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Detective"
+  ],
+  "version": "Perceptive Investigator",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

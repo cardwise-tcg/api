@@ -1,29 +1,29 @@
 {
-    "artist": "Rose la Barbera / Leonardo Giammichele",
-    "ink": "Sapphire",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Duke Weaselton",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 146,
-    "keywords": [
-        "Ward"
-    ],
-    "flavor_text": "\"It's Wee-sel-ton.\"",
-    "text": "Ward (Opponents can't choose this character except to challenge.)",
-    "classifications": [
-        "Storyborn"
-    ],
-    "version": "Small-Time Crook",
-    "willpower": 2,
-    "strength": 1,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Rose la Barbera / Leonardo Giammichele",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Duke Weaselton",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 146,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "\"It's Wee-sel-ton.\"",
+  "text": "Ward (Opponents can't choose this character except to challenge.)",
+  "classifications": [
+    "Storyborn"
+  ],
+  "version": "Small-Time Crook",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

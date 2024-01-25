@@ -1,31 +1,31 @@
 {
-    "artist": "Matt Chapman",
-    "ink": "Emerald",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Genie",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 77,
-    "keywords": [
-        "Evasive",
-        "Shift"
-    ],
-    "flavor_text": "\"You can wish for nearly anything! Do you want the short version, or should I give you the whole song and dance?\"",
-    "text": "Shift 6 (You may pay 6 \"ink\" to play this on top of one of your characters named Genie.) \n\nEvasive (Only characters with Evasive can challenge this character.) \n\nPhenomenal Cosmic Power! - Whenever this character quests, you may play an action with cost 5 or less for free.",
-    "classifications": [
-        "Dreamborn",
-        "Ally"
-    ],
-    "version": "The Ever Impressive",
-    "willpower": 3,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Matt Chapman",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Genie",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 77,
+  "keywords": [
+    "Evasive",
+    "Shift"
+  ],
+  "flavor_text": "\"You can wish for nearly anything! Do you want the short version, or should I give you the whole song and dance?\"",
+  "text": "Shift 6 (You may pay 6 \"ink\" to play this on top of one of your characters named Genie.) \n\nEvasive (Only characters with Evasive can challenge this character.) \n\nPhenomenal Cosmic Power! - Whenever this character quests, you may play an action with cost 5 or less for free.",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "version": "The Ever Impressive",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,20 +1,20 @@
 {
-    "artist": "Matt Chapman",
-    "ink": "Steel",
-    "ink_cost": 1,
-    "inkable": false,
-    "name": "Fire The Cannons!",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Common",
-    "number": 197,
-    "keywords": [],
-    "flavor_text": "Captain Hook: \"Double the powder and shorten the fuse!\" \nMr. Smee: \"Shorten the powder and double the fuse!\"",
-    "text": "Deal 2 damage to chosen character.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Matt Chapman",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Fire The Cannons!",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Common",
+  "number": 197,
+  "keywords": [],
+  "flavor_text": "Captain Hook: \"Double the powder and shorten the fuse!\" \nMr. Smee: \"Shorten the powder and double the fuse!\"",
+  "text": "Deal 2 damage to chosen character.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

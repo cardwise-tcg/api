@@ -1,27 +1,27 @@
 {
-    "artist": "Leonardo Giammichele",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Donald Duck",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 78,
-    "keywords": [],
-    "flavor_text": "Heading toward a rude awakening!",
-    "text": "Startled Awake: Whenever you play an action, this character gets +2 {s} this turn.",
-    "classifications": [
-        "Storyborn"
-    ],
-    "version": "Sleepwalker",
-    "willpower": 5,
-    "strength": 0,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Leonardo Giammichele",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Donald Duck",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 78,
+  "keywords": [],
+  "flavor_text": "Heading toward a rude awakening!",
+  "text": "Startled Awake: Whenever you play an action, this character gets +2 {s} this turn.",
+  "classifications": [
+    "Storyborn"
+  ],
+  "version": "Sleepwalker",
+  "willpower": 5,
+  "strength": 0,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

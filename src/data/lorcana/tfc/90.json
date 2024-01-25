@@ -1,28 +1,28 @@
 {
-    "artist": "Javier Salas",
-    "ink": "Emerald",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Mother Gothel",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 90,
-    "keywords": [],
-    "flavor_text": "\"Great. Now I'm the bad guy.\"",
-    "text": "Skip The Drama, Stay With Mama - While this character is exerted, opposing characters can't quest.",
-    "classifications": [
-        "Storyborn",
-        "Villain"
-    ],
-    "version": "Selfish Manipulator",
-    "willpower": 6,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Javier Salas",
+  "ink": "Emerald",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Mother Gothel",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 90,
+  "keywords": [],
+  "flavor_text": "\"Great. Now I'm the bad guy.\"",
+  "text": "Skip The Drama, Stay With Mama - While this character is exerted, opposing characters can't quest.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "version": "Selfish Manipulator",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "Marcel Berg",
-    "ink": "Amethyst",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Jafar",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 44,
-    "keywords": [],
-    "flavor_text": "There's more than one way to bury secrets.",
-    "text": "Hidden Wonders - This character gets +1 {s} for each card in your hand.",
-    "classifications": [
-        "Dreamborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Keeper of Secrets",
-    "willpower": 5,
-    "strength": 0,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Marcel Berg",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Jafar",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 44,
+  "keywords": [],
+  "flavor_text": "There's more than one way to bury secrets.",
+  "text": "Hidden Wonders - This character gets +1 {s} for each card in your hand.",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Keeper of Secrets",
+  "willpower": 5,
+  "strength": 0,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

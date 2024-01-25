@@ -1,20 +1,20 @@
 {
-    "artist": "Lissette Carrera",
-    "ink": "Sapphire",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Falling Down The Rabbit Hole",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Rare",
-    "number": 162,
-    "keywords": [],
-    "flavor_text": "Down, down, down she went, floating in a swirl of ink. How curious!",
-    "text": "Each player choose one of their characters and puts them into their inkwell facedown and excreted.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Lissette Carrera",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Falling Down The Rabbit Hole",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Rare",
+  "number": 162,
+  "keywords": [],
+  "flavor_text": "Down, down, down she went, floating in a swirl of ink. How curious!",
+  "text": "Each player choose one of their characters and puts them into their inkwell facedown and excreted.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

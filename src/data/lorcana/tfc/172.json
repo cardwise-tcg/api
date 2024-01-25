@@ -1,29 +1,29 @@
 {
-    "artist": "Cookie",
-    "ink": "Steel",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Beast",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 172,
-    "keywords": [],
-    "flavor_text": "\"She'll never see me as anything . . . but a monster.\"",
-    "text": "Break - When you play this character, you may banish chosen item.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Prince"
-    ],
-    "version": "Hardheaded",
-    "willpower": 4,
-    "strength": 4,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Cookie",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Beast",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 172,
+  "keywords": [],
+  "flavor_text": "\"She'll never see me as anything . . . but a monster.\"",
+  "text": "Break - When you play this character, you may banish chosen item.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "version": "Hardheaded",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

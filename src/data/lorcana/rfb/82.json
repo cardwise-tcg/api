@@ -1,32 +1,32 @@
 {
-    "artist": "E. Meleranci / L. Giammichele",
-    "ink": "Emerald",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Flynn Rider",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 82,
-    "keywords": [
-        "Evasive",
-        "Shift"
-    ],
-    "flavor_text": "\"I love a good fan club, but they could at least try to get the nose right!\"",
-    "text": "Shift 2 (You may 2 \"ink\" to play this on top of one of your characters named Flynn Rider.)\nEvasive (Only characters with Evasive can challenge this character.)\nOne Last, Big Score: This character gets -1 {l} for each card in your opponents' hands.",
-    "classifications": [
-        "Floodborn",
-        "Hero",
-        "Prince"
-    ],
-    "version": "His Own Biggest Fan",
-    "willpower": 3,
-    "strength": 2,
-    "lore": 4,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "E. Meleranci / L. Giammichele",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Flynn Rider",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 82,
+  "keywords": [
+    "Evasive",
+    "Shift"
+  ],
+  "flavor_text": "\"I love a good fan club, but they could at least try to get the nose right!\"",
+  "text": "Shift 2 (You may 2 \"ink\" to play this on top of one of your characters named Flynn Rider.)\nEvasive (Only characters with Evasive can challenge this character.)\nOne Last, Big Score: This character gets -1 {l} for each card in your opponents' hands.",
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Prince"
+  ],
+  "version": "His Own Biggest Fan",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 4,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

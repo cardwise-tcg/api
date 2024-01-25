@@ -1,21 +1,21 @@
 {
-    "artist": "Jared Nickerl",
-    "ink": "Ruby",
-    "ink_cost": 7,
-    "inkable": false,
-    "name": "Be Prepared",
-    "types": [
-        "Action",
-        "Song"
-    ],
-    "rarity": "Rare",
-    "number": 128,
-    "keywords": [],
-    "flavor_text": "\"Our teeth and ambitions are bared!\"",
-    "text": "(A character with cost 7 or more can \"exert\" to sing this song for free.)\n\nBanish all Characters.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Jared Nickerl",
+  "ink": "Ruby",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Be Prepared",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "rarity": "Rare",
+  "number": 128,
+  "keywords": [],
+  "flavor_text": "\"Our teeth and ambitions are bared!\"",
+  "text": "(A character with cost 7 or more can \"exert\" to sing this song for free.)\n\nBanish all Characters.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

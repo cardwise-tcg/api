@@ -1,27 +1,27 @@
 {
-    "artist": "Caner Soylu",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Cheshire Cat",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 71,
-    "keywords": [],
-    "flavor_text": "\"You may have noticed that I'm not all there myself.\"",
-    "text": "Lose Something? - When this character is challenged and banished, banish the challenging character.",
-    "classifications": [
-        "Storyborn"
-    ],
-    "version": "Not All There",
-    "willpower": 3,
-    "strength": 0,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Caner Soylu",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Cheshire Cat",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 71,
+  "keywords": [],
+  "flavor_text": "\"You may have noticed that I'm not all there myself.\"",
+  "text": "Lose Something? - When this character is challenged and banished, banish the challenging character.",
+  "classifications": [
+    "Storyborn"
+  ],
+  "version": "Not All There",
+  "willpower": 3,
+  "strength": 0,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

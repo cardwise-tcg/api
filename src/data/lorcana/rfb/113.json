@@ -1,30 +1,30 @@
 {
-    "artist": "Mario Oscar Gabriele",
-    "ink": "Ruby",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Minnie Mouse",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 113,
-    "keywords": [
-        "Evasive"
-    ],
-    "flavor_text": "\"This goes into my top ten most fun things!\"",
-    "text": "Evasive (Only characters with Evasive can challenge this character.)",
-    "classifications": [
-        "Dreamborn",
-        "Hero"
-    ],
-    "version": "Stylish Surfer",
-    "willpower": 3,
-    "strength": 1,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Mario Oscar Gabriele",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Minnie Mouse",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 113,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"This goes into my top ten most fun things!\"",
+  "text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "version": "Stylish Surfer",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

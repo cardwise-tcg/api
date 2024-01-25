@@ -1,31 +1,31 @@
 {
-    "artist": "Lisette Carrera",
-    "ink": "Amber",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Mulan",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 16,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "Everything looks better when you're free to be yourself.",
-    "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Mulan.)\n\nHonor To The Ancestors - Whenever this character quests, you may reveal the top card of your deck. If it's a song card, you may play it for free. Otherwise, put it on the top of your deck.",
-    "classifications": [
-        "Floodborn",
-        "Hero",
-        "Princess"
-    ],
-    "version": "Reflecting",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Lisette Carrera",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Mulan",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 16,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "Everything looks better when you're free to be yourself.",
+  "text": "Shift 2 (You may pay 2 \"ink\" to play this on top of one of your characters named Mulan.)\n\nHonor To The Ancestors - Whenever this character quests, you may reveal the top card of your deck. If it's a song card, you may play it for free. Otherwise, put it on the top of your deck.",
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "version": "Reflecting",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

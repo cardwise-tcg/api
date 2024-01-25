@@ -1,27 +1,27 @@
 {
-    "artist": "Rosa la Barvera",
-    "ink": "Emerald",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Mad Hatter",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 86,
-    "keywords": [],
-    "flavor_text": "Mad Hatter: \"Would you like a little more tea?\" \nAlice: \"I haven't had any yet, so I can't very well take more.\"",
-    "text": "Tea Party - Whenever this character is challenged, you may draw a card.",
-    "classifications": [
-        "Storyborn"
-    ],
-    "version": "Gracious Host",
-    "willpower": 4,
-    "strength": 2,
-    "lore": 3,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Rosa la Barvera",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Mad Hatter",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 86,
+  "keywords": [],
+  "flavor_text": "Mad Hatter: \"Would you like a little more tea?\" \nAlice: \"I haven't had any yet, so I can't very well take more.\"",
+  "text": "Tea Party - Whenever this character is challenged, you may draw a card.",
+  "classifications": [
+    "Storyborn"
+  ],
+  "version": "Gracious Host",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 3,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

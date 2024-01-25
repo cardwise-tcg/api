@@ -1,29 +1,29 @@
 {
-    "artist": "Nicholas Kole",
-    "ink": "Sapphire",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Maleficent",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 150,
-    "keywords": [],
-    "flavor_text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel. . . .\"",
-    "text": "Dragon Fire - When you play this character, you may banish chosen character.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Sinister Visitor",
-    "willpower": 4,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Nicholas Kole",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Maleficent",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 150,
+  "keywords": [],
+  "flavor_text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel. . . .\"",
+  "text": "Dragon Fire - When you play this character, you may banish chosen character.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Sinister Visitor",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "artist": "Andrew Trabbold",
-    "ink": "Steel",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Te Ka",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 192,
-    "keywords": [],
-    "flavor_text": "Maui: \"Ever defeat a lava monster?\" \nMoana: \"No, have you?\"",
-    "text": "Seek The Heart - During your turn, whenever this character banishes another character in a challenge, you gain 2 lore.",
-    "classifications": [
-        "Dreamborn",
-        "Villain",
-        "Deity"
-    ],
-    "version": "Heartless",
-    "willpower": 5,
-    "strength": 5,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Andrew Trabbold",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Te Ka",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 192,
+  "keywords": [],
+  "flavor_text": "Maui: \"Ever defeat a lava monster?\" \nMoana: \"No, have you?\"",
+  "text": "Seek The Heart - During your turn, whenever this character banishes another character in a challenge, you gain 2 lore.",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Deity"
+  ],
+  "version": "Heartless",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

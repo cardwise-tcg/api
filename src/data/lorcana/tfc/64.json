@@ -1,21 +1,21 @@
 {
-    "artist": "Amber Kommavongsa",
-    "ink": "Amethyst",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Friends On The Other Side",
-    "types": [
-        "Action",
-        "Song"
-    ],
-    "rarity": "Common",
-    "number": 64,
-    "keywords": [],
-    "flavor_text": "The cards, the cards\nthe cards will tell . . .",
-    "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\n\nDraw 2 Cards",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Amber Kommavongsa",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Friends On The Other Side",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "rarity": "Common",
+  "number": 64,
+  "keywords": [],
+  "flavor_text": "The cards, the cards\nthe cards will tell . . .",
+  "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\n\nDraw 2 Cards",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

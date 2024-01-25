@@ -1,31 +1,31 @@
 {
-    "artist": "Aisha Durmagambetova",
-    "ink": "Emerald",
-    "ink_cost": 5,
-    "inkable": false,
-    "name": "Belle",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 72,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "She slips through the trees as easily as shadow.",
-    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Belle.)\nThorny Arrows: Whenever this character is challenged, the challenging character's player discards all cards in their hand.",
-    "classifications": [
-        "Floodborn",
-        "Hero",
-        "Princess"
-    ],
-    "version": "Hidden Archer",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 3,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Aisha Durmagambetova",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Belle",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 72,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "She slips through the trees as easily as shadow.",
+  "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Belle.)\nThorny Arrows: Whenever this character is challenged, the challenging character's player discards all cards in their hand.",
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "version": "Hidden Archer",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 3,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

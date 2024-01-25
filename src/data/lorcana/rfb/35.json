@@ -1,29 +1,29 @@
 {
-    "artist": "Jake Parker",
-    "ink": "Amethyst",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "Arthur",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 35,
-    "keywords": [],
-    "flavor_text": "\"Hmm.. what spell should I try next?\"",
-    "text": "Student: Whenever this character quests, you may return another chosen character of yours to your hand to gain 2 lore.",
-    "classifications": [
-        "Dreamborn",
-        "Hero",
-        "Sorcerer"
-    ],
-    "version": "Wizard's Apprentice",
-    "willpower": 3,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Jake Parker",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Arthur",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 35,
+  "keywords": [],
+  "flavor_text": "\"Hmm.. what spell should I try next?\"",
+  "text": "Student: Whenever this character quests, you may return another chosen character of yours to your hand to gain 2 lore.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Sorcerer"
+  ],
+  "version": "Wizard's Apprentice",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

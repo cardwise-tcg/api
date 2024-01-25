@@ -1,21 +1,21 @@
 {
-    "artist": "R. la Barbera / L. Giammichele",
-    "ink": "Steel",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "Let The Storm Rage On",
-    "types": [
-        "Action",
-        "Song"
-    ],
-    "rarity": "Common",
-    "number": 199,
-    "keywords": [],
-    "flavor_text": "The cold never bothered me anyway",
-    "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\\nDeal 2 damaged to chosen character. Draw a card.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "R. la Barbera / L. Giammichele",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Let The Storm Rage On",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "rarity": "Common",
+  "number": 199,
+  "keywords": [],
+  "flavor_text": "The cold never bothered me anyway",
+  "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\\nDeal 2 damaged to chosen character. Draw a card.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

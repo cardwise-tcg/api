@@ -1,21 +1,21 @@
 {
-    "artist": "Carlos Ruiz",
-    "ink": "Ruby",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "The Most Diabolical Scheme",
-    "types": [
-        "Action",
-        "Song"
-    ],
-    "rarity": "Uncommon",
-    "number": 131,
-    "keywords": [],
-    "flavor_text": "Now comes the real tour de force\nTricky and wicked, of course",
-    "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\nBanish chosen Villain of your to banish chosen character.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Carlos Ruiz",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "The Most Diabolical Scheme",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "rarity": "Uncommon",
+  "number": 131,
+  "keywords": [],
+  "flavor_text": "Now comes the real tour de force\nTricky and wicked, of course",
+  "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\nBanish chosen Villain of your to banish chosen character.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

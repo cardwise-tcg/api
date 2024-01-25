@@ -1,33 +1,33 @@
 {
-    "artist": "Duyen Ngyen / Jared Nickerl",
-    "ink": "Emerald",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "John Silver",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 82,
-    "keywords": [
-        "Reckless"
-    ],
-    "flavor_text": "\"Don't be too put off by this . . . hunk of hardware.\"",
-    "text": "Pick Your Fights - When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Alien",
-        "Pirate",
-        "Captain"
-    ],
-    "version": "Alien Pirate",
-    "willpower": 5,
-    "strength": 5,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Duyen Ngyen / Jared Nickerl",
+  "ink": "Emerald",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "John Silver",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 82,
+  "keywords": [
+    "Reckless"
+  ],
+  "flavor_text": "\"Don't be too put off by this . . . hunk of hardware.\"",
+  "text": "Pick Your Fights - When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Alien",
+    "Pirate",
+    "Captain"
+  ],
+  "version": "Alien Pirate",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

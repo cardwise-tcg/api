@@ -1,29 +1,29 @@
 {
-    "artist": "Simangaliso Sibaya",
-    "ink": "Amethyst",
-    "ink_cost": 7,
-    "inkable": false,
-    "name": "Ursula",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 59,
-    "keywords": [],
-    "flavor_text": "The first rule of Villainy: If you're going to be evil, you've got to have style.",
-    "text": "It's Too Easy! - When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Power Hungry",
-    "willpower": 8,
-    "strength": 2,
-    "lore": 3,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Simangaliso Sibaya",
+  "ink": "Amethyst",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Ursula",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 59,
+  "keywords": [],
+  "flavor_text": "The first rule of Villainy: If you're going to be evil, you've got to have style.",
+  "text": "It's Too Easy! - When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Power Hungry",
+  "willpower": 8,
+  "strength": 2,
+  "lore": 3,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

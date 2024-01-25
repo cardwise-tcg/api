@@ -1,29 +1,29 @@
 {
-    "artist": "Jenna Gray",
-    "ink": "Steel",
-    "ink_cost": 7,
-    "inkable": true,
-    "name": "Queen Of Hearts",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 192,
-    "keywords": [],
-    "flavor_text": "The forth Rule of Villainy: Do whatever it takes to get ahead.",
-    "text": "Off With Their Heads!: Whenever an opposing character is banished, you may ready this character.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Queen"
-    ],
-    "version": "Capricious Monarch",
-    "willpower": 6,
-    "strength": 5,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Jenna Gray",
+  "ink": "Steel",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Queen Of Hearts",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 192,
+  "keywords": [],
+  "flavor_text": "The forth Rule of Villainy: Do whatever it takes to get ahead.",
+  "text": "Off With Their Heads!: Whenever an opposing character is banished, you may ready this character.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Queen"
+  ],
+  "version": "Capricious Monarch",
+  "willpower": 6,
+  "strength": 5,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

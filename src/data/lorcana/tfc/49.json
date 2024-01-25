@@ -1,29 +1,29 @@
 {
-    "artist": "Valerio Buonfantino",
-    "ink": "Amethyst",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Maleficent",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 49,
-    "keywords": [],
-    "flavor_text": "\"You dare challenge me? Fool, my magic is more powerful than you could possibly imagine!\"",
-    "text": "Cast My Spell! - When you play this character, you may draw a card.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Sorceress",
-    "willpower": 2,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Valerio Buonfantino",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Maleficent",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 49,
+  "keywords": [],
+  "flavor_text": "\"You dare challenge me? Fool, my magic is more powerful than you could possibly imagine!\"",
+  "text": "Cast My Spell! - When you play this character, you may draw a card.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Sorceress",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

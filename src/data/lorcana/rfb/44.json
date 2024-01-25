@@ -1,30 +1,30 @@
 {
-    "artist": "Isaiah Mesq",
-    "ink": "Amethyst",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Jiminy Cricket",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 44,
-    "keywords": [
-        "Evasive"
-    ],
-    "flavor_text": "\"Say, that's pretty swell.\"",
-    "text": "Evasive (Only characters with Evasive can challenge this character.)\nThat Still, Small Voice: When you play this character, if you have a character named Pinocchio in play, you may draw a card.",
-    "classifications": [
-        "Storyborn",
-        "Mentor"
-    ],
-    "version": "Pinocchio's Conscience",
-    "willpower": 2,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Isaiah Mesq",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Jiminy Cricket",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 44,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"Say, that's pretty swell.\"",
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\nThat Still, Small Voice: When you play this character, if you have a character named Pinocchio in play, you may draw a card.",
+  "classifications": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "version": "Pinocchio's Conscience",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

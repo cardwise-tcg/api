@@ -1,32 +1,32 @@
 {
-    "artist": "Matthew Robert Davies",
-    "ink": "Amethyst",
-    "ink_cost": 8,
-    "inkable": false,
-    "name": "Elsa",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 42,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "Ice is stronger than you may think.",
-    "text": "Shift 6 (You may pay 6 \"ink\" to play this on top of one of your characters named Elsa.) \n\nDeep Freeze - When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.",
-    "classifications": [
-        "Floodborn",
-        "Hero",
-        "Queen",
-        "Sorcerer"
-    ],
-    "version": "Spirit of Winter",
-    "willpower": 6,
-    "strength": 4,
-    "lore": 3,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Matthew Robert Davies",
+  "ink": "Amethyst",
+  "ink_cost": 8,
+  "inkable": false,
+  "name": "Elsa",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 42,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "Ice is stronger than you may think.",
+  "text": "Shift 6 (You may pay 6 \"ink\" to play this on top of one of your characters named Elsa.) \n\nDeep Freeze - When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.",
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "version": "Spirit of Winter",
+  "willpower": 6,
+  "strength": 4,
+  "lore": 3,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

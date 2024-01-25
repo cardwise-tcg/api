@@ -1,31 +1,31 @@
 {
-    "artist": "Lauren Walsh",
-    "ink": "Emerald",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Aladdin",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 69,
-    "keywords": [
-        "Ward"
-    ],
-    "flavor_text": "Fabulously wealthy. Practically untouchable. Genuinely inauthentic.",
-    "text": "Ward (Opponents can't choose this character except to challenge.) ",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Prince"
-    ],
-    "version": "Prince Ali",
-    "willpower": 2,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Lauren Walsh",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Aladdin",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 69,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "Fabulously wealthy. Practically untouchable. Genuinely inauthentic.",
+  "text": "Ward (Opponents can't choose this character except to challenge.) ",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "version": "Prince Ali",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,31 +1,31 @@
 {
-    "artist": "Cristian Romero",
-    "ink": "Steel",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Prince Eric",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 187,
-    "keywords": [
-        "Challenger"
-    ],
-    "flavor_text": "\"I lost her once! I'm not gonna lose her again!\"",
-    "text": "Challenger +2 (When challenging, this character get +2 {s}.) ",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Prince"
-    ],
-    "version": "Dashing and Brave",
-    "willpower": 3,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Cristian Romero",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Prince Eric",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 187,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "\"I lost her once! I'm not gonna lose her again!\"",
+  "text": "Challenger +2 (When challenging, this character get +2 {s}.) ",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "version": "Dashing and Brave",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

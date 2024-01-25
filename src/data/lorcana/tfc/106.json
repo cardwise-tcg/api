@@ -1,31 +1,31 @@
 {
-    "artist": "Brian Weisz",
-    "ink": "Ruby",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Captain",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 106,
-    "keywords": [
-        "Ward"
-    ],
-    "flavor_text": "\"Barking signal. It's an alert. Report to the Colonel at once!\"",
-    "text": "Ward (Opponents can't choose this character except to challenge.)\nSqueak: Whenever you play a Floodborn character, each opponent chooses and discards a card.",
-    "classifications": [
-        "Storyborn",
-        "Ally",
-        "Captain"
-    ],
-    "version": "Colonel's Lieutenant",
-    "willpower": 5,
-    "strength": 6,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Brian Weisz",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Captain",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 106,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "\"Barking signal. It's an alert. Report to the Colonel at once!\"",
+  "text": "Ward (Opponents can't choose this character except to challenge.)\nSqueak: Whenever you play a Floodborn character, each opponent chooses and discards a card.",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Captain"
+  ],
+  "version": "Colonel's Lieutenant",
+  "willpower": 5,
+  "strength": 6,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

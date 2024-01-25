@@ -1,31 +1,31 @@
 {
-    "artist": "Valerio Buonfantino",
-    "ink": "Ruby",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Queen Of Hearts",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 119,
-    "keywords": [
-        "Rush"
-    ],
-    "flavor_text": "The glow of lore in the flood caught here eye. \"The spellbook!\" she cried. \"Don't let it get away!\"",
-    "text": "Rush (This character can challenge the turn they're played.)",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Queen"
-    ],
-    "version": "Impulsive Ruler",
-    "willpower": 2,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Valerio Buonfantino",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Queen Of Hearts",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 119,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "The glow of lore in the flood caught here eye. \"The spellbook!\" she cried. \"Don't let it get away!\"",
+  "text": "Rush (This character can challenge the turn they're played.)",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Queen"
+  ],
+  "version": "Impulsive Ruler",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

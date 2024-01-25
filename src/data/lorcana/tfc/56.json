@@ -1,29 +1,29 @@
 {
-    "artist": "Matthew Robert Davies",
-    "ink": "Amethyst",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "The Queen",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 56,
-    "keywords": [],
-    "flavor_text": "Sublime beauty matched with peerless cunning. Is there any question who is fairest?",
-    "text": "I Summon Thee - \"exert\" - Draw a card.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Queen"
-    ],
-    "version": "Wicked and Vain",
-    "willpower": 5,
-    "strength": 4,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Matthew Robert Davies",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "The Queen",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 56,
+  "keywords": [],
+  "flavor_text": "Sublime beauty matched with peerless cunning. Is there any question who is fairest?",
+  "text": "I Summon Thee - \"exert\" - Draw a card.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Queen"
+  ],
+  "version": "Wicked and Vain",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

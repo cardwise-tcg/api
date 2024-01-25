@@ -1,28 +1,28 @@
 {
-    "artist": "Kristina Chouri / Mariana Moreno",
-    "ink": "Emerald",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Pain",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 86,
-    "keywords": [],
-    "flavor_text": "\"Get a move on! I'm a busy god, lots to do-meetings, curses, a little light scheming.\"\n - Hades",
-    "text": "Coming, Your Most Lugubriousness: While this character has 5 {s} or more, he gets +2 {l}.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Underworld Imp",
-    "willpower": 4,
-    "strength": 1,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Kristina Chouri / Mariana Moreno",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Pain",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 86,
+  "keywords": [],
+  "flavor_text": "\"Get a move on! I'm a busy god, lots to do-meetings, curses, a little light scheming.\"\n - Hades",
+  "text": "Coming, Your Most Lugubriousness: While this character has 5 {s} or more, he gets +2 {l}.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Underworld Imp",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

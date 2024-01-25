@@ -1,28 +1,28 @@
 {
-    "artist": "Juan Diego Leon",
-    "ink": "Sapphire",
-    "ink_cost": 7,
-    "inkable": false,
-    "name": "Grand Pabbie",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 148,
-    "keywords": [],
-    "flavor_text": "When he talks, even the sky listens.",
-    "text": "Ancient Insight: Whenever you remove 1 or more damage from one of your characters, gain 2 lore.",
-    "classifications": [
-        "Storyborn",
-        "Mentor"
-    ],
-    "version": "Oldest And Wisest",
-    "willpower": 6,
-    "strength": 3,
-    "lore": 3,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Juan Diego Leon",
+  "ink": "Sapphire",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Grand Pabbie",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 148,
+  "keywords": [],
+  "flavor_text": "When he talks, even the sky listens.",
+  "text": "Ancient Insight: Whenever you remove 1 or more damage from one of your characters, gain 2 lore.",
+  "classifications": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "version": "Oldest And Wisest",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 3,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

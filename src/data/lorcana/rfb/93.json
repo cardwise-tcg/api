@@ -1,29 +1,29 @@
 {
-    "artist": "Leonardo Giammichele",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "The Queen",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 93,
-    "keywords": [],
-    "flavor_text": "\"This is no ordinary apple...\"",
-    "text": "A Perfect Disguise: \"exert\", Choose and discard a character card - Gain lore equal to the discarded character's {l}.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Queen"
-    ],
-    "version": "Disguised Peddler",
-    "willpower": 3,
-    "strength": 2,
-    "lore": 0,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Leonardo Giammichele",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "The Queen",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 93,
+  "keywords": [],
+  "flavor_text": "\"This is no ordinary apple...\"",
+  "text": "A Perfect Disguise: \"exert\", Choose and discard a character card - Gain lore equal to the discarded character's {l}.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Queen"
+  ],
+  "version": "Disguised Peddler",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 0,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

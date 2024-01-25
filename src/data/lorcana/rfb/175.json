@@ -1,27 +1,27 @@
 {
-    "artist": "Adam Bunch",
-    "ink": "Steel",
-    "ink_cost": 4,
-    "inkable": false,
-    "name": "Chief Bogo",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 175,
-    "keywords": [],
-    "flavor_text": "\"We can confirm the ink flood was caused by an explosion. We have it under control–now clear the area.\"",
-    "text": "Insubordination!: Whenever you play a Floodborn character, deal 1 damage to each opposing character.",
-    "classifications": [
-        "Dreamborn"
-    ],
-    "version": "Respected Officer",
-    "willpower": 4,
-    "strength": 2,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Adam Bunch",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Chief Bogo",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 175,
+  "keywords": [],
+  "flavor_text": "\"We can confirm the ink flood was caused by an explosion. We have it under control–now clear the area.\"",
+  "text": "Insubordination!: Whenever you play a Floodborn character, deal 1 damage to each opposing character.",
+  "classifications": [
+    "Dreamborn"
+  ],
+  "version": "Respected Officer",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

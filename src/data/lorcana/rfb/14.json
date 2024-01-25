@@ -1,29 +1,29 @@
 {
-    "artist": "Stefano Zanchi",
-    "ink": "Amber",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Mufasa",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 14,
-    "keywords": [],
-    "flavor_text": "\"I know just the thing. Let me fetch you a pot of tea and some of my fresh cheese crumpets.\"",
-    "text": "The Sun Will Set - When this character is banished, you may reveal the top card of your deck. If it's a character card, you may play that character for free and they enter play exerted. Otherwise, put it on the top of your deck.",
-    "classifications": [
-        "Storyborn",
-        "Mentor",
-        "King"
-    ],
-    "version": "Betrayed Leader",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Stefano Zanchi",
+  "ink": "Amber",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Mufasa",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 14,
+  "keywords": [],
+  "flavor_text": "\"I know just the thing. Let me fetch you a pot of tea and some of my fresh cheese crumpets.\"",
+  "text": "The Sun Will Set - When this character is banished, you may reveal the top card of your deck. If it's a character card, you may play that character for free and they enter play exerted. Otherwise, put it on the top of your deck.",
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "version": "Betrayed Leader",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,32 +1,32 @@
 {
-    "artist": "Filipe Laurentino",
-    "ink": "Sapphire",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Jasmine",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 149,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "She may be young, but she's got the spirit of a true leader",
-    "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Jasmine.) \n\nCaretaker - When you play this character and whenever she quests, you may remove up to 2 damage from each of your characters.",
-    "classifications": [
-        "Floodborn",
-        "Hero",
-        "Princess",
-        "Queen"
-    ],
-    "version": "Queen Of Agrabah",
-    "willpower": 5,
-    "strength": 2,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Filipe Laurentino",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Jasmine",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 149,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "She may be young, but she's got the spirit of a true leader",
+  "text": "Shift 3 (You may pay 3 \"ink\" to play this on top of one of your characters named Jasmine.) \n\nCaretaker - When you play this character and whenever she quests, you may remove up to 2 damage from each of your characters.",
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Princess",
+    "Queen"
+  ],
+  "version": "Queen Of Agrabah",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

@@ -1,31 +1,31 @@
 {
-    "artist": "Jeff Murchie",
-    "ink": "Emerald",
-    "ink_cost": 5,
-    "inkable": false,
-    "name": "Beast",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 70,
-    "keywords": [
-        "Rush"
-    ],
-    "flavor_text": "\"I'll take on all of you if I have to!\"",
-    "text": "Rush (This character can challenge the turn they're played.) \n\nRoar - When you play this character, exert all opposing damaged characters.",
-    "classifications": [
-        "Dreamborn",
-        "Hero",
-        "Prince"
-    ],
-    "version": "Wolfsbane",
-    "willpower": 4,
-    "strength": 4,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Jeff Murchie",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Beast",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 70,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "\"I'll take on all of you if I have to!\"",
+  "text": "Rush (This character can challenge the turn they're played.) \n\nRoar - When you play this character, exert all opposing damaged characters.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Prince"
+  ],
+  "version": "Wolfsbane",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

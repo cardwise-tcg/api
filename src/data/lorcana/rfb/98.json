@@ -1,20 +1,20 @@
 {
-    "artist": "Lauren Levering",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Hypnotize",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Common",
-    "number": 98,
-    "keywords": [],
-    "flavor_text": "\"Look me in the eye when I'm speaking to you.\"",
-    "text": "Each Opponent chooses and discards a card. Draw a card.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Lauren Levering",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Hypnotize",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Common",
+  "number": 98,
+  "keywords": [],
+  "flavor_text": "\"Look me in the eye when I'm speaking to you.\"",
+  "text": "Each Opponent chooses and discards a card. Draw a card.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

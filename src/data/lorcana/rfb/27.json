@@ -1,29 +1,29 @@
 {
-    "artist": "Eva Widerman",
-    "ink": "Amber",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "The Queen",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 27,
-    "keywords": [],
-    "flavor_text": "Don't question her. Don't doubt her. And above all, don't disobey her.",
-    "text": "A Perfect Disguise: \"exert\", Choose and discard a character card - Gain lore equal to the discarded character's {l}.",
-    "classifications": [
-        "Storyborn",
-        "Villain",
-        "Queen"
-    ],
-    "version": "Regal Monarch",
-    "willpower": 2,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Eva Widerman",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "The Queen",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 27,
+  "keywords": [],
+  "flavor_text": "Don't question her. Don't doubt her. And above all, don't disobey her.",
+  "text": "A Perfect Disguise: \"exert\", Choose and discard a character card - Gain lore equal to the discarded character's {l}.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Queen"
+  ],
+  "version": "Regal Monarch",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

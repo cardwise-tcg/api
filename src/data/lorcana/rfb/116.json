@@ -1,28 +1,28 @@
 {
-    "artist": "Koni",
-    "ink": "Ruby",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Mother Gothel",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 116,
-    "keywords": [],
-    "flavor_text": "Her feelings are written all over her face.",
-    "text": "What Have You Done?!: This character enters play with 3 damage.",
-    "classifications": [
-        "Storyborn",
-        "Villain"
-    ],
-    "version": "Withered And Wicked",
-    "willpower": 4,
-    "strength": 3,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Koni",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Mother Gothel",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 116,
+  "keywords": [],
+  "flavor_text": "Her feelings are written all over her face.",
+  "text": "What Have You Done?!: This character enters play with 3 damage.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "version": "Withered And Wicked",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

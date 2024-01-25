@@ -1,31 +1,31 @@
 {
-    "artist": "Kiersten Hale",
-    "ink": "Amethyst",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Blue Fairy",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 36,
-    "keywords": [
-        "Evasive"
-    ],
-    "flavor_text": "\"To make geppetto's wish come true will be entirely up to you.\" -Blue Fairy",
-    "text": "Evasive (Only characters with Evasive can challenge this character.)\nEthereal Glow: Whenever you play a Floodborn character, you may draw a card.",
-    "classifications": [
-        "Storyborn",
-        "Ally",
-        "Fairy"
-    ],
-    "version": "Rewarding Good Deeds",
-    "willpower": 1,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Kiersten Hale",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Blue Fairy",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 36,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"To make geppetto's wish come true will be entirely up to you.\" -Blue Fairy",
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\nEthereal Glow: Whenever you play a Floodborn character, you may draw a card.",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Fairy"
+  ],
+  "version": "Rewarding Good Deeds",
+  "willpower": 1,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

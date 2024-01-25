@@ -1,20 +1,20 @@
 {
-    "artist": "Ellie Horie",
-    "ink": "Emerald",
-    "ink_cost": 3,
-    "inkable": false,
-    "name": "Do It Again!",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Rare",
-    "number": 94,
-    "keywords": [],
-    "flavor_text": "\". . . Then scrub the terrace, sweep the halls and the stairs, clean the chimneys. And of course there's the mending, and the sewing, and the laundry . . .\"\n - Lady Tremaine",
-    "text": "Return an action card from your discard to your hand.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Ellie Horie",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Do It Again!",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Rare",
+  "number": 94,
+  "keywords": [],
+  "flavor_text": "\". . . Then scrub the terrace, sweep the halls and the stairs, clean the chimneys. And of course there's the mending, and the sewing, and the laundry . . .\"\n - Lady Tremaine",
+  "text": "Return an action card from your discard to your hand.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

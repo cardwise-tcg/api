@@ -1,28 +1,28 @@
 {
-    "artist": "Valerio Vuonfantino",
-    "ink": "Ruby",
-    "ink_cost": 5,
-    "inkable": false,
-    "name": "Ratigan",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 121,
-    "keywords": [],
-    "flavor_text": "\"This time, nothing, not even Basil, can stand in my way!\"",
-    "text": "This Is My Kingdom: When you play this character, exert chosen opposing character with 3 {s} or less. Choose one of your characters and read them. They can't quest for the rest of this turn.",
-    "classifications": [
-        "Storyborn",
-        "Villain"
-    ],
-    "version": "Very Large Mouse",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Valerio Vuonfantino",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Ratigan",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 121,
+  "keywords": [],
+  "flavor_text": "\"This time, nothing, not even Basil, can stand in my way!\"",
+  "text": "This Is My Kingdom: When you play this character, exert chosen opposing character with 3 {s} or less. Choose one of your characters and read them. They can't quest for the rest of this turn.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "version": "Very Large Mouse",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,30 +1,30 @@
 {
-    "artist": "Dave Beauchene",
-    "ink": "Amber",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Mickey Mouse",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 12,
-    "keywords": [
-        "Bodyguard"
-    ],
-    "flavor_text": "As long as he's around, newcomers to the Great Illuminary will always get a warm welcome.",
-    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nAll For One - Your other musketeer character get +1 {s}.",
-    "classifications": [
-        "Storyborn",
-        "Hero"
-    ],
-    "version": "True Friend",
-    "willpower": 3,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Dave Beauchene",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Mickey Mouse",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 12,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "flavor_text": "As long as he's around, newcomers to the Great Illuminary will always get a warm welcome.",
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nAll For One - Your other musketeer character get +1 {s}.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "version": "True Friend",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

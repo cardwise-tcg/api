@@ -1,31 +1,31 @@
 {
-    "artist": "Casey Robin",
-    "ink": "Amethyst",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Yzma",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 60,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "\"When I want your opinion, I will give it to you!\"",
-    "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Yzma)\nCruel Irony: When you play this character, shuffle another chosen character card into their player's deck. That player draws 2 cards.",
-    "classifications": [
-        "Floodborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Scary Beyond All Reason",
-    "willpower": 4,
-    "strength": 4,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Casey Robin",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Yzma",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 60,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "\"When I want your opinion, I will give it to you!\"",
+  "text": "Shift 4 (You may pay 4 \"ink\" to play this on top of one of your characters named Yzma)\nCruel Irony: When you play this character, shuffle another chosen character card into their player's deck. That player draws 2 cards.",
+  "classifications": [
+    "Floodborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Scary Beyond All Reason",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

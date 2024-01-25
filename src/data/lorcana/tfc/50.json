@@ -1,28 +1,28 @@
 {
-    "artist": "Kendall Hale / Anh Dang",
-    "ink": "Amethyst",
-    "ink_cost": 6,
-    "inkable": false,
-    "name": "Marshmallow",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 50,
-    "keywords": [],
-    "flavor_text": "\"Hey! We were just talking about you! All good things, all good things.\" \n- Olaf",
-    "text": "Durable - When this character is banished in a challenge, you may return this card to your hand.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Persistent Guardian",
-    "willpower": 5,
-    "strength": 5,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Kendall Hale / Anh Dang",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Marshmallow",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 50,
+  "keywords": [],
+  "flavor_text": "\"Hey! We were just talking about you! All good things, all good things.\" \n- Olaf",
+  "text": "Durable - When this character is banished in a challenge, you may return this card to your hand.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Persistent Guardian",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

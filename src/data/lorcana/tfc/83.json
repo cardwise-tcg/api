@@ -1,29 +1,29 @@
 {
-    "artist": "Milica Celikovic",
-    "ink": "Emerald",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Jumba Jookiba",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 83,
-    "keywords": [],
-    "flavor_text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever . . . make more than one.\"",
-    "text": "Don't Call Me Cute: When you play this character, you may banish chosen item. Its player draws a card.",
-    "classifications": [
-        "Dreamborn",
-        "Alien",
-        "Inventor"
-    ],
-    "version": "Renegade Scientist",
-    "willpower": 5,
-    "strength": 4,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Milica Celikovic",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Jumba Jookiba",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 83,
+  "keywords": [],
+  "flavor_text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever . . . make more than one.\"",
+  "text": "Don't Call Me Cute: When you play this character, you may banish chosen item. Its player draws a card.",
+  "classifications": [
+    "Dreamborn",
+    "Alien",
+    "Inventor"
+  ],
+  "version": "Renegade Scientist",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

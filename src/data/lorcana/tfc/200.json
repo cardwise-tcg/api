@@ -1,20 +1,20 @@
 {
-    "artist": "Simangaliso Sibaya",
-    "ink": "Steel",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Smash",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Uncommon",
-    "number": 200,
-    "keywords": [],
-    "flavor_text": "\"Go away!\"",
-    "text": "Deal 3 damage to chosen character.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Simangaliso Sibaya",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Smash",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Uncommon",
+  "number": 200,
+  "keywords": [],
+  "flavor_text": "\"Go away!\"",
+  "text": "Deal 3 damage to chosen character.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

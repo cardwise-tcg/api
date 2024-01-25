@@ -1,29 +1,29 @@
 {
-    "artist": "Matthew Robert Davies",
-    "ink": "Sapphire",
-    "ink_cost": 7,
-    "inkable": false,
-    "name": "Hades",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 147,
-    "keywords": [],
-    "flavor_text": "\"He's gotta have a weakness, because everybody's got a weakness.\"",
-    "text": "Is There A Downside To This? - When you play this character, you may put chosen opposing character into their player's inkwell facedown.",
-    "classifications": [
-        "Dreamborn",
-        "Villain",
-        "Deity"
-    ],
-    "version": "Infernal Schemer",
-    "willpower": 6,
-    "strength": 3,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Matthew Robert Davies",
+  "ink": "Sapphire",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Hades",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 147,
+  "keywords": [],
+  "flavor_text": "\"He's gotta have a weakness, because everybody's got a weakness.\"",
+  "text": "Is There A Downside To This? - When you play this character, you may put chosen opposing character into their player's inkwell facedown.",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Deity"
+  ],
+  "version": "Infernal Schemer",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

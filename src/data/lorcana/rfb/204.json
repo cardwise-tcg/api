@@ -1,20 +1,20 @@
 {
-    "artist": "Antonia Flechsig",
-    "ink": "Steel",
-    "ink_cost": 3,
-    "inkable": true,
-    "name": "Weight Set",
-    "types": [
-        "Item"
-    ],
-    "rarity": "Rare",
-    "number": 204,
-    "keywords": [],
-    "flavor_text": "Personally endorsed by Hercules himselff!",
-    "text": "Training - Whenever you play a character with 4 {s} or more, you may pay 1 \"ink\" to draw a card.",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Antonia Flechsig",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Weight Set",
+  "types": [
+    "Item"
+  ],
+  "rarity": "Rare",
+  "number": 204,
+  "keywords": [],
+  "flavor_text": "Personally endorsed by Hercules himselff!",
+  "text": "Training - Whenever you play a character with 4 {s} or more, you may pay 1 \"ink\" to draw a card.",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

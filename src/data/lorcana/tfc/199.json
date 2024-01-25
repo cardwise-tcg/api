@@ -1,20 +1,20 @@
 {
-    "artist": "Amber Kommavongsa",
-    "ink": "Steel",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Ransack",
-    "types": [
-        "Action"
-    ],
-    "rarity": "Uncommon",
-    "number": 199,
-    "keywords": [],
-    "flavor_text": "Who has time to read labels?",
-    "text": "Draw 2 cards, then choose and discard 2 cards.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Amber Kommavongsa",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Ransack",
+  "types": [
+    "Action"
+  ],
+  "rarity": "Uncommon",
+  "number": 199,
+  "keywords": [],
+  "flavor_text": "Who has time to read labels?",
+  "text": "Draw 2 cards, then choose and discard 2 cards.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

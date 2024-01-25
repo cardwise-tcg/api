@@ -1,22 +1,22 @@
 {
-    "artist": "Gaku Kumatori",
-    "ink": "Steel",
-    "ink_cost": 2,
-    "inkable": false,
-    "name": "Mouse Armor",
-    "types": [
-        "Item"
-    ],
-    "rarity": "Uncommon",
-    "number": 203,
-    "keywords": [
-        "Resist"
-    ],
-    "flavor_text": "Built by the tiniest of hands for the bravest of hearts.",
-    "text": "Protection - \"exert\": Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Gaku Kumatori",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Mouse Armor",
+  "types": [
+    "Item"
+  ],
+  "rarity": "Uncommon",
+  "number": 203,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "Built by the tiniest of hands for the bravest of hearts.",
+  "text": "Protection - \"exert\": Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

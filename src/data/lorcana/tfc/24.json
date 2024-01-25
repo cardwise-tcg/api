@@ -1,28 +1,28 @@
 {
-    "artist": "Juan Diego Leon",
-    "ink": "Amber",
-    "ink_cost": 1,
-    "inkable": true,
-    "name": "Timon",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 24,
-    "keywords": [],
-    "flavor_text": "\"There's all manner of tasty treats in the world - ya just gotta know where to look.\"",
-    "text": "Tastes Like Chicken - When you play this character, you may remove up to 1 damage from chosen character.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Grub Rustler",
-    "willpower": 2,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Juan Diego Leon",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Timon",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 24,
+  "keywords": [],
+  "flavor_text": "\"There's all manner of tasty treats in the world - ya just gotta know where to look.\"",
+  "text": "Tastes Like Chicken - When you play this character, you may remove up to 1 damage from chosen character.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Grub Rustler",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

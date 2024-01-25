@@ -1,28 +1,28 @@
 {
-    "artist": "Lisette Carrera",
-    "ink": "Amber",
-    "ink_cost": 5,
-    "inkable": true,
-    "name": "Eudora",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 7,
-    "keywords": [],
-    "flavor_text": "Love holds everything together.",
-    "text": "True Form: While being challenged, this character gets +2 {s}.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Accomplished Seamstress",
-    "willpower": 9,
-    "strength": 1,
-    "lore": 2,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Lisette Carrera",
+  "ink": "Amber",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Eudora",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 7,
+  "keywords": [],
+  "flavor_text": "Love holds everything together.",
+  "text": "True Form: While being challenged, this character gets +2 {s}.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Accomplished Seamstress",
+  "willpower": 9,
+  "strength": 1,
+  "lore": 2,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

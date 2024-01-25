@@ -1,29 +1,29 @@
 {
-    "artist": "Hadjie Joos",
-    "ink": "Sapphire",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "The Nokk",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 160,
-    "keywords": [
-        "Ward"
-    ],
-    "flavor_text": "As elusive as water.",
-    "text": "Ward (Opponents can't choose this character except to challenge.)",
-    "classifications": [
-        "Storyborn"
-    ],
-    "version": "Water Spirit",
-    "willpower": 3,
-    "strength": 4,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Hadjie Joos",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "The Nokk",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 160,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "As elusive as water.",
+  "text": "Ward (Opponents can't choose this character except to challenge.)",
+  "classifications": [
+    "Storyborn"
+  ],
+  "version": "Water Spirit",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

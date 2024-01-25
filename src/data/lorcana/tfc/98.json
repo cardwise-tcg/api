@@ -1,21 +1,21 @@
 {
-    "artist": "Giulia Riva",
-    "ink": "Emerald",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Sudden Chill",
-    "types": [
-        "Action",
-        "Song"
-    ],
-    "rarity": "Common",
-    "number": 98,
-    "keywords": [],
-    "flavor_text": "Cruella De Vil, Cruella De Vil, If she doesn't scare you, no evil thing will",
-    "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\n\nEach opponent chooses and discards a card.",
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Giulia Riva",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Sudden Chill",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "rarity": "Common",
+  "number": 98,
+  "keywords": [],
+  "flavor_text": "Cruella De Vil, Cruella De Vil, If she doesn't scare you, no evil thing will",
+  "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\n\nEach opponent chooses and discards a card.",
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

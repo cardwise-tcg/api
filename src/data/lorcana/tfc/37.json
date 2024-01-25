@@ -1,31 +1,31 @@
 {
-    "artist": "Isaiah Mesq",
-    "ink": "Amethyst",
-    "ink_cost": 7,
-    "inkable": false,
-    "name": "Dr. Facilier",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 37,
-    "keywords": [
-        "Shift"
-    ],
-    "flavor_text": "He's a real gem.",
-    "text": "Shift 5 (You may pay 5 \"ink\" to play this on top of one of your characters named Dr. Facilier.) \n\nInto The Shadows - Whenever one of your other characters is banished in a challenge, you may return that card to your hand.",
-    "classifications": [
-        "Floodborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Agent Provocateur",
-    "willpower": 5,
-    "strength": 4,
-    "lore": 3,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Isaiah Mesq",
+  "ink": "Amethyst",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Dr. Facilier",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 37,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "He's a real gem.",
+  "text": "Shift 5 (You may pay 5 \"ink\" to play this on top of one of your characters named Dr. Facilier.) \n\nInto The Shadows - Whenever one of your other characters is banished in a challenge, you may return that card to your hand.",
+  "classifications": [
+    "Floodborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Agent Provocateur",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 3,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

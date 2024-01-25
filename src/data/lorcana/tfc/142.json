@@ -1,29 +1,29 @@
 {
-    "artist": "Alice Pisoni",
-    "ink": "Sapphire",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Belle",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Legendary",
-    "number": 142,
-    "keywords": [],
-    "flavor_text": "\"Far-off places, daring sword fights, magic spells, a prince in disguise . . .\"",
-    "text": "Read A Book - During your turn, you may put an additional card from your hand into your inkwell facedown.\n\nMy Favorite Part! - While you have 10 or more cards in your inkwell, this character gets +4 {l}.",
-    "classifications": [
-        "Storyborn",
-        "Hero",
-        "Princess"
-    ],
-    "version": "Strange but special",
-    "willpower": 4,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Alice Pisoni",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Belle",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Legendary",
+  "number": 142,
+  "keywords": [],
+  "flavor_text": "\"Far-off places, daring sword fights, magic spells, a prince in disguise . . .\"",
+  "text": "Read A Book - During your turn, you may put an additional card from your hand into your inkwell facedown.\n\nMy Favorite Part! - While you have 10 or more cards in your inkwell, this character gets +4 {l}.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "version": "Strange but special",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

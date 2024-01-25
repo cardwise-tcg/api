@@ -1,31 +1,31 @@
 {
-    "artist": "Jake Parker",
-    "ink": "Amethyst",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Jafar",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Common",
-    "number": 45,
-    "keywords": [
-        "Challenger"
-    ],
-    "flavor_text": "\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\"",
-    "text": "Challenger +3 (When challenging, this character gets +3 {s}.) ",
-    "classifications": [
-        "Dreamborn",
-        "Villain",
-        "Sorcerer"
-    ],
-    "version": "Wicked Sorcerer",
-    "willpower": 5,
-    "strength": 2,
-    "lore": 1,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Jake Parker",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Jafar",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Common",
+  "number": 45,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\"",
+  "text": "Challenger +3 (When challenging, this character gets +3 {s}.) ",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "version": "Wicked Sorcerer",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 1,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

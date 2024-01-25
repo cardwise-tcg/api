@@ -1,30 +1,30 @@
 {
-    "artist": "John Loren",
-    "ink": "Sapphire",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Robin Hood",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Super Rare",
-    "number": 157,
-    "keywords": [
-        "Evasive"
-    ],
-    "flavor_text": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
-    "text": "\nFEED THE POOR: When you play this character, if an opponent has more cards in their hand than you, draw a card.\n\nGood Shot - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
-    "classifications": [
-        "Storyborn",
-        "Hero"
-    ],
-    "version": "Unrivaled Archer",
-    "willpower": 4,
-    "strength": 4,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "John Loren",
+  "ink": "Sapphire",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Robin Hood",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Super Rare",
+  "number": 157,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
+  "text": "\nFEED THE POOR: When you play this character, if an opponent has more cards in their hand than you, draw a card.\n\nGood Shot - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "version": "Unrivaled Archer",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }

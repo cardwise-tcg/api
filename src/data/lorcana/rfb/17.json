@@ -1,28 +1,28 @@
 {
-    "artist": "Filipe Laurentino",
-    "ink": "Amber",
-    "ink_cost": 2,
-    "inkable": true,
-    "name": "Nana",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 17,
-    "keywords": [],
-    "flavor_text": "Children are a dog's best friend.",
-    "text": "Nursemaid - Whenever you play a Floodborn character, you may remove all damage from chosen character.",
-    "classifications": [
-        "Storyborn",
-        "Ally"
-    ],
-    "version": "Darling Family Pet",
-    "willpower": 3,
-    "strength": 1,
-    "lore": 1,
-    "set": {
-        "key": "rfb",
-        "name": "Rise Of The Floodborn",
-        "number": 2
-    }
+  "artist": "Filipe Laurentino",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Nana",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Uncommon",
+  "number": 17,
+  "keywords": [],
+  "flavor_text": "Children are a dog's best friend.",
+  "text": "Nursemaid - Whenever you play a Floodborn character, you may remove all damage from chosen character.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "version": "Darling Family Pet",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "set": {
+    "key": "rfb",
+    "name": "Rise Of The Floodborn",
+    "number": 2
+  }
 }

@@ -1,31 +1,31 @@
 {
-    "artist": "Jochem Van Gool",
-    "ink": "Steel",
-    "ink_cost": 6,
-    "inkable": true,
-    "name": "Mickey Mouse",
-    "types": [
-        "Character"
-    ],
-    "rarity": "Rare",
-    "number": 186,
-    "keywords": [
-        "Bodyguard"
-    ],
-    "flavor_text": "\"Come on in- there's lots to explore.\"",
-    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nAll For One - Your other musketeer character get +1 {s}.",
-    "classifications": [
-        "Dreamborn",
-        "Hero",
-        "Musketeer"
-    ],
-    "version": "Musketeer",
-    "willpower": 7,
-    "strength": 2,
-    "lore": 2,
-    "set": {
-        "key": "tfc",
-        "name": "The First Chapter",
-        "number": 1
-    }
+  "artist": "Jochem Van Gool",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Mickey Mouse",
+  "types": [
+    "Character"
+  ],
+  "rarity": "Rare",
+  "number": 186,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "flavor_text": "\"Come on in- there's lots to explore.\"",
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nAll For One - Your other musketeer character get +1 {s}.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Musketeer"
+  ],
+  "version": "Musketeer",
+  "willpower": 7,
+  "strength": 2,
+  "lore": 2,
+  "set": {
+    "key": "tfc",
+    "name": "The First Chapter",
+    "number": 1
+  }
 }
