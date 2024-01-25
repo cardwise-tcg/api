@@ -1,22 +1,36 @@
 import Koa from 'koa';
 import Router from 'koa-router';
 import Lorcana from './lorcana/Lorcana';
-import {ValidationError} from './utilities/ValidationError';
+import {default as LorcanaCards} from './lorcana/endpoints/Cards';
+import {ValidationError} from "./errors/ValidationError";
 
 const port = 3000;
 const app = new Koa;
 const router = new Router;
 
-router.get('/lorcana', async (ctx) => {
+router.use(['/lorcana'], async (ctx, next) => {
+    ctx.state.lorcana = new Lorcana;
+    await next();
+});
+
+router.get('/lorcana/cards', async ctx => {
     try {
-        ctx.body = (new Lorcana(ctx.request.query))
-            .applyFilters()
+
+        ctx.body = (new LorcanaCards(ctx.state.lorcana.getData().cards, ctx.query))
+            .filter()
             .toJSON();
-    } catch (error) {
-        if (error instanceof ValidationError) {
-            ctx.body = error.toJSON();
+
+    } catch (e) {
+        if (e instanceof ValidationError) {
+            ctx.status = 400;
+            ctx.body = e.toJSON();
         }
+        throw e;
     }
+});
+
+router.get('/lorcana/sets', async ctx => {
+    ctx.body = "Sets";
 });
 
 app.use(router.routes());

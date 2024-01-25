@@ -1,18 +1,12 @@
-import {ParsedUrlQuery} from "querystring";
-
 export default abstract class TradingCardGame {
-    protected query: ParsedUrlQuery;
-
-    protected constructor(query: ParsedUrlQuery) {
-        this.query = query;
-
-        this.validate();
+    constructor() {
         this.load();
     }
 
+    /**
+     * Loads the data for the game.
+     *
+     * @return {void}
+     */
     abstract load(): void;
-
-    abstract validate(): void;
-
-    abstract toJSON(): string;
 }
