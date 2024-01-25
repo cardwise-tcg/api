@@ -13,7 +13,7 @@
     "flavor_text": "\". . . Then scrub the terrace, sweep the halls and the stairs, clean the chimneys. And of course there's the mending, and the sewing, and the laundry . . .\"\n - Lady Tremaine",
     "text": "Return an action card from your discard to your hand.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

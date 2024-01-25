@@ -14,7 +14,7 @@
     "flavor_text": "\"There is no question: something is afoot in the Great Illuminary\"",
     "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.) \n\nLook at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

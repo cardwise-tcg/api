@@ -14,7 +14,7 @@
     "flavor_text": "It's time to see what I can do \nTo test the limits and break through",
     "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nPut chosen character into their player's inkwell facedown and exerted.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

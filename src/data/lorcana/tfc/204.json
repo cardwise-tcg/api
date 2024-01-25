@@ -13,7 +13,7 @@
     "flavor_text": "\"You don't have to say 'pew pew' when you use it, but it doesn't hurt.\" \n-Lilo, galactic hero",
     "text": "Quick Shot - \"exert\", 2 \"ink\": Deal 1 damage to chosen character.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

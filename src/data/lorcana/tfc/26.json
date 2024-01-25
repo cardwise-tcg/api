@@ -14,7 +14,7 @@
     "flavor_text": "\"This has gone far enough. I'm in charge here.\"",
     "text": "Chosen character gets -2 {s} this turn.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

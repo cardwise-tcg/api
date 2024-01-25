@@ -14,7 +14,7 @@
     "flavor_text": "\"You are more than what you have become.\"\n- Mufasa",
     "text": "Each opponent chooses and discards 2 cards.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

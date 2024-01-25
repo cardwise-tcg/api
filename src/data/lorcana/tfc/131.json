@@ -13,7 +13,7 @@
     "flavor_text": "Pretty words can move a crowd, but so can ugly ones.",
     "text": "Ready chosen character. They can't quest for the rest of this turn.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

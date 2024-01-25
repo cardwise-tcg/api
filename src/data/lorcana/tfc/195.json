@@ -14,7 +14,7 @@
     "flavor_text": "Shining, shimmering, splendid . . .",
     "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nEach player discards their hand and draws 7 cards.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

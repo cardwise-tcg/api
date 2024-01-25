@@ -15,7 +15,7 @@
     "flavor_text": "\"It's only fitting that the finest hunter get the foulest beast!\" \n-Gaston",
     "text": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

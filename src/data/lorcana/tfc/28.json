@@ -13,7 +13,7 @@
     "flavor_text": "\"Don't freak out!\"\n-Rapunzel",
     "text": "Remove up to 2 damage from chosen character.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

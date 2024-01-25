@@ -13,7 +13,7 @@
     "flavor_text": "Lanterns fill the sky on one special night, beacons of hope and love.",
     "text": "Birthday Lights - \"exert\" - You play 1 \"ink\" less for the next character you play this turn.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

@@ -16,7 +16,7 @@
     "flavor_text": "When he talks, even the sky listens.",
     "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\nPlay a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played)",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

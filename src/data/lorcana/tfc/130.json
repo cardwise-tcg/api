@@ -13,7 +13,7 @@
     "flavor_text": "Rare is the hero who can withstand a dragon's wrath.",
     "text": "Banish chosen character",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

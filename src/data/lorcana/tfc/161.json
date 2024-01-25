@@ -13,7 +13,7 @@
     "flavor_text": "\"Knowledge, wisdom-there's the real power!\" \n-Merlin",
     "text": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

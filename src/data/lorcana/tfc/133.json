@@ -13,7 +13,7 @@
     "flavor_text": "\"Stay right there! I mean, you don't have a choice, I guess. But still! Don't move!\" \n-Rapunzel",
     "text": "Each opponent loses 1 lore.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

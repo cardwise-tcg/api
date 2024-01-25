@@ -14,7 +14,7 @@
     "flavor_text": "One way or another\nSomething will go wrong, I swear",
     "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\n\nReturn chosen character to their player's hand.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

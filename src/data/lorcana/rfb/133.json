@@ -16,7 +16,7 @@
     "flavor_text": "Pacho: \"Put your whole back into it!\" \nKuzco: \"This is my whole back!\"",
     "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\nChosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

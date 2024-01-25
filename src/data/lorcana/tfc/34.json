@@ -13,7 +13,7 @@
     "flavor_text": "\"Singing is a lovely pastime . . . if you've got the voice for it.\"  - Ursula",
     "text": "Now, Sing! - Whenever you play a song, you may pay 1 \"ink\" to draw a card.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

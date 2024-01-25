@@ -13,7 +13,7 @@
     "flavor_text": "Sometimes you've got to take what you can get.",
     "text": "Slash - \"exert\" - Chosen character gets +1 {s} this turn. If a character named Aladdin is chosen, he get +2 {s} instead.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

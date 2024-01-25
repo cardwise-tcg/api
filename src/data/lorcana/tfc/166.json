@@ -13,7 +13,7 @@
     "flavor_text": "The coconut is a versatile gift from the gods, used to make nearly everything-including baskets to carry more coconuts.",
     "text": "Consider The Coconut - Whenever you play a character, you may remove up to 2 damage from chosen character.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

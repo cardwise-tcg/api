@@ -14,7 +14,7 @@
     "flavor_text": "What a wonderful phrase!",
     "text": "(A character with cost 4 or more can \"exert\" to sing this song for free.)\n\nRemove up to 3 damage from each of your characters.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

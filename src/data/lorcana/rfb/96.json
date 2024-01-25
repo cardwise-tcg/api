@@ -14,7 +14,7 @@
     "flavor_text": "It'll do magic, believe it or not",
     "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\nReturn chosen character of your to your hand to play another character with the same cost or less for free.",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

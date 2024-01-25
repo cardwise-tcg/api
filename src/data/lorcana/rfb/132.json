@@ -13,7 +13,7 @@
     "flavor_text": "\"No one can have a higher opinion of your than I have, and I think you're a slimy, contemptible sewer rat!\"\n - Basil",
     "text": "Chosen damaged character gets +3 {s} this turn.",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

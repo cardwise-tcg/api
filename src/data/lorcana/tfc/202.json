@@ -13,7 +13,7 @@
     "flavor_text": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
     "text": "Clang! - Banish this item - Chosen character can't challenge during their next turn.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

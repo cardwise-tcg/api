@@ -14,7 +14,7 @@
     "flavor_text": "What would I give\nIf I could live out of these waters?",
     "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\n\nReturn a character card from your discard to your hand.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

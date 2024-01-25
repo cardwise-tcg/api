@@ -14,7 +14,7 @@
     "flavor_text": "Pacho: \"Put your whole back into it!\" \nKuzco: \"This is my whole back!\"",
     "text": "(A character with cost X or more can \"exert\" to sing this song for free.)\r \r Banish chosen character with 5 {s} or more.",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

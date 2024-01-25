@@ -14,7 +14,7 @@
     "flavor_text": "\"Get a move on! I'm a busy god, lots to do-meetings, curses, a little light scheming.\"\n - Hades",
     "text": "{A character with cost X or more can \"exert\" to sing this song for free.)\n\nUp to 2 chosen characters get -1 {s} this turn. Draw a card.",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

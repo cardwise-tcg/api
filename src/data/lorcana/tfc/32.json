@@ -13,7 +13,7 @@
     "flavor_text": "Enjoy the finest of human hairstyles!",
     "text": "Straighten Hair: \"exert\" - Remove up to 1 damage from chosen character.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

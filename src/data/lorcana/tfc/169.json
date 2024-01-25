@@ -13,7 +13,7 @@
     "flavor_text": "\"Once upon a time, a single drop of sunlight fell from the heavens. . . .\" \n-Flynn Rider",
     "text": "Healing Pollen - Banish this item - Remove up to 3 damage from chosen character.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

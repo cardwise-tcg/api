@@ -13,7 +13,7 @@
     "flavor_text": "No one throws a tantrum like a beast.",
     "text": "Banish chosen item.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

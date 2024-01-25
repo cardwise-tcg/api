@@ -13,7 +13,7 @@
     "flavor_text": "Pacha: \"You want to survive the jungle? Start thinking like you belong here.\"\nKuzco: \"No problem... Grrr, look at me, I'm a jaguar.\"",
     "text": "Gain 1 lore for each damaged character opponents have in play.",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

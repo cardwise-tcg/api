@@ -13,7 +13,7 @@
     "flavor_text": "Illumineers seek the power of knowledge - but must be aware of the price.",
     "text": "Knowledge: \"exert\", 1 \"ink\" - Gain 1 lore.",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

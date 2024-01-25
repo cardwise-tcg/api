@@ -16,7 +16,7 @@
     "flavor_text": "Sometime subtlety is required. This is not one of those times.",
     "text": "Chosen character gains Challenger +2 and Resist +2 this turn. (They get +2 {s} while challenging. Damage dealt to them is reduced by 2.)",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

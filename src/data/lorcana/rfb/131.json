@@ -14,7 +14,7 @@
     "flavor_text": "Now comes the real tour de force\nTricky and wicked, of course",
     "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\nBanish chosen Villain of your to banish chosen character.",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

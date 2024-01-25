@@ -14,7 +14,7 @@
     "flavor_text": "Gotta eat to live, gotta steal to eat- \nTell you all about it when I got the time",
     "text": "(A character with cost 2 or more can \"exert\" to sing this song for free.)\n\nPut the top card of your deck into your inkwell facedown and exerted.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

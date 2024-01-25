@@ -14,7 +14,7 @@
     "flavor_text": "The cards, the cards\nthe cards will tell . . .",
     "text": "(A character with cost 3 or more can \"exert\" to sing this song for free.)\n\nDraw 2 Cards",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

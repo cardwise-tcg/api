@@ -15,7 +15,7 @@
     "flavor_text": "\"Surprise!\"",
     "text": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

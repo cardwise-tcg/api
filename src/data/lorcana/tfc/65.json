@@ -14,7 +14,7 @@
     "flavor_text": "When will my reflection show\nWho I am inside?",
     "text": "(A character with cost 1 or more can \"exert\" to sing this song for free.)\n\nLook at the top 3 cards of your deck. Put them back on the top of your deck in any order.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

@@ -13,7 +13,7 @@
     "flavor_text": "\"One taste of the poisoned apple, and the victim's eyes will close forever....\" \n-The Queen",
     "text": "Take A Bite . . . - 1 \"ink\", Banish this item - Exert chosen character. If a princess character is chosen, banish her instead.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

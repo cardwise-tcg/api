@@ -14,7 +14,7 @@
     "flavor_text": "\"Our teeth and ambitions are bared!\"",
     "text": "(A character with cost 7 or more can \"exert\" to sing this song for free.)\n\nBanish all Characters.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }

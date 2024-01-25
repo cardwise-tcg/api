@@ -15,7 +15,7 @@
     "flavor_text": "One shot can change everything.",
     "text": "Arm Yourself: 1 \"ink\", Banish this item - Chosen character gains Challenger +3 this turn. (They get +3 {s} while challenging.)",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

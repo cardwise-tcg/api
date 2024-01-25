@@ -13,7 +13,7 @@
     "flavor_text": "\"I'm afraid that you've gone and upset me.\"\n - Ratigan",
     "text": "Banish chosen damaged character.",
     "set": {
-        "key": "RFB",
+        "key": "rfb",
         "name": "Rise Of The Floodborn",
         "number": 2
     }

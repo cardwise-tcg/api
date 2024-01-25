@@ -14,7 +14,7 @@
     "flavor_text": "We don't like\nWhat we don't understand\nIn fact, it scares us",
     "text": "(A character with cost 5 or more can \"exert\" to sing this song for free.)\n\nDeal 2 damage to each opposing character.",
     "set": {
-        "key": "TFC",
+        "key": "tfc",
         "name": "The First Chapter",
         "number": 1
     }
