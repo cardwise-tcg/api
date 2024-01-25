@@ -29,6 +29,8 @@ Filters are passed as query parameters, directly in the url. All parameters are 
 | `ink`     | [`Ink \| Ink[]`](https://github.com/cardwise-tcg/api/blob/main/src/http/lorcana/types/Card.ts) |Ink color(s)                |
 | `set_key` | `string \| string[]`                                                                           |  One or more `set_key`s     |
 
+
+
 ###### Response
 
 <details>
@@ -75,13 +77,13 @@ Filters are passed as query parameters, directly in the url. All parameters are 
 Searching for `Stitch - Abomination` that is also a `Ruby` card:
 
 ```
-https://api.cardwise.itodorova.dev/lorcana?name=Stitch%20-%20Abomination&ink=Ruby
+https://api.cardwise.itodorova.dev/lorcana/cards?name=Stitch%20-%20Abomination&ink=Ruby
 ```
 
 All cards from the second set `Rise of the Floodborn`:
 
 ```
-https://api.cardwise.itodorova.dev/lorcana?set_key=rfb
+https://api.cardwise.itodorova.dev/lorcana/cards?set_key=rfb
 ```
 
 ###### Images
