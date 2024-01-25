@@ -5,6 +5,7 @@ import {ValidationError} from '../utilities/ValidationError';
 import {Card} from "./types/Card";
 import {CharacterCard} from "./types/CharacterCard";
 import {filterByString, filterByStringArray} from '../utilities/filters';
+import {Collection} from './types/Collection';
 
 export default class Lorcana extends TradingCardGame {
 
@@ -24,7 +25,7 @@ export default class Lorcana extends TradingCardGame {
             throw new ValidationError('Lorcana data not found.');
         }
 
-        let data = JSON.parse(fs.readFileSync(`src/http/lorcana/all.json`, 'utf8')) as {};
+        const data = JSON.parse(fs.readFileSync(`src/http/lorcana/all.json`, 'utf8')) as Collection;
 
         this.all = data['cards'];
 

@@ -5,7 +5,7 @@ const LORCANA_DATA_INPUT_DIR = `${process.cwd()}/src/data/lorcana`;
 const LORCANA_DATA_OUTPUT_DIR = `${process.cwd()}/src/http/lorcana`;
 
 (async () => {
-    let data = {sets: [], cards: []};
+    const data = {sets: [], cards: []};
 
     for await(const set of LorcanaConfig.sets) {
         console.info(`Processing set: ${set}...`);
