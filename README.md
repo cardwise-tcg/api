@@ -72,6 +72,7 @@ Filters are passed as query parameters, directly in the url. All parameters are 
 }
 ```
 </details>
+
 ###### Examples
 
 Searching for `Stitch - Abomination` that is also a `Ruby` card:
