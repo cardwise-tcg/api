@@ -55,5 +55,6 @@ For those unfamiliar with git (or github), I will soon prepare a simple guide on
 
 1. Clone the repository
 2. Run `yarn install` to install all dependencies
-3. Run `yarn compile` to compile Lorcana's data
+3. Run `yarn compile --with-lorcana` to compile Lorcana's data
 4. Run `yarn dev` to start the server
+
