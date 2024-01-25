@@ -1,4 +1,5 @@
 import Koa from 'koa';
+import cors from '@koa/cors';
 import Router from 'koa-router';
 import Lorcana from './lorcana/Lorcana';
 import {default as LorcanaCards} from './lorcana/endpoints/Cards';
@@ -7,6 +8,8 @@ import {ValidationError} from "./errors/ValidationError";
 const port = 3000;
 const app = new Koa;
 const router = new Router;
+
+app.use(cors());
 
 router.use(['/lorcana'], async (ctx, next) => {
     ctx.state.lorcana = new Lorcana;
