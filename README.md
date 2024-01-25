@@ -34,41 +34,41 @@ Filters are passed as query parameters, directly in the url. All parameters are 
 ###### Response
 
 <details>
-  <summary>`{cards: Card[] | CharacterCard[]}`</summary>
+  <summary><b>{ "cards": Card[] | CharacterCard[] }</b>></summary>
 
 ```json
 {
-"cards": [
-  {
-    "artist": "Kendall Hale",
-    "ink": "Amber",
-    "ink_cost": 4,
-    "inkable": true,
-    "name": "Bashful",
-    "types": [
-      "Character"
-    ],
-    "rarity": "Uncommon",
-    "number": 1,
-    "keywords": [],
-    "flavor_text": "Life is sweeter with friends.",
-    "text": "Oh, Gosh!: This character can't quest unless you have another Seven Dwarfs character in play.",
-    "classifications": [
-      "Storyborn",
-      "Ally",
-      "Seven Dwarfs"
-    ],
-    "version": "Hopeless Romantic",
-    "willpower": 5,
-    "strength": 2,
-    "lore": 3,
-    "set": {
-      "key": "rfb",
-      "name": "Rise Of The Floodborn",
-      "number": 2
-    }
-  }
-]
+    "cards": [
+      {
+        "artist": "Kendall Hale",
+        "ink": "Amber",
+        "ink_cost": 4,
+        "inkable": true,
+        "name": "Bashful",
+        "types": [
+          "Character"
+        ],
+        "rarity": "Uncommon",
+        "number": 1,
+        "keywords": [],
+        "flavor_text": "Life is sweeter with friends.",
+        "text": "Oh, Gosh!: This character can't quest unless you have another Seven Dwarfs character in play.",
+        "classifications": [
+          "Storyborn",
+          "Ally",
+          "Seven Dwarfs"
+        ],
+        "version": "Hopeless Romantic",
+        "willpower": 5,
+        "strength": 2,
+        "lore": 3,
+        "set": {
+          "key": "rfb",
+          "name": "Rise Of The Floodborn",
+          "number": 2
+        }
+      }
+    ]
 }
 ```
 </details>
