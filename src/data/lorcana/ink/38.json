@@ -1,0 +1,28 @@
+{
+  "artist": "Koni",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Genie",
+  "rarity": "Super Rare",
+  "number": 38,
+  "keywords": [],
+  "flavor_text": "\"Right here, direct from the lamp, right here for your very much wish fulfillment.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Supportive Friend",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 1,
+  "text": "Three Wishes - Whenever this character quests, you may shuffle this card into your deck to draw 3 cards."
+}

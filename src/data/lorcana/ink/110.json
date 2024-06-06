@@ -1,0 +1,27 @@
+{
+  "artist": "Marcel Berg",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Jim Hawkins",
+  "rarity": "Common",
+  "number": 110,
+  "keywords": [],
+  "flavor_text": "If you want a bigger reward, you've got to take bigger risks.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Thrill Seeker",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 1
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Veronica Di Lorenzo, Livio Cacciatore",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Jafar",
+  "rarity": "Uncommon",
+  "number": 41,
+  "keywords": [],
+  "flavor_text": "\"I will rule as far as the eye can see.\"",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Lamp thief",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2,
+  "text": "I Am Your Master Now - When you play this character, look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."
+}

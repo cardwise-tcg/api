@@ -1,0 +1,27 @@
+{
+  "artist": "Valerio Buonfantino",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Robin Hood",
+  "rarity": "Common",
+  "number": 189,
+  "keywords": [],
+  "flavor_text": "\"You call this an ambush? Tsk, tsk. It's barely a bushwhack.\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Beloved Outlaw",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1
+}

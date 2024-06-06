@@ -1,0 +1,27 @@
+{
+  "artist": "Hedvig H?ggman-Sund",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Treasure Guardian",
+  "rarity": "Rare",
+  "number": 58,
+  "keywords": [],
+  "flavor_text": "\"Only one may enter here.\"",
+  "classifications": [
+    "Storyborn"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Protector of the Cave",
+  "willpower": 6,
+  "strength": 6,
+  "lore": 2,
+  "text": "Who Disturbs MY Slumber? - This character can't challenge or quest unless it is at a location."
+}

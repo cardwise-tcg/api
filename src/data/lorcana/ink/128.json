@@ -1,0 +1,21 @@
+{
+  "artist": "Lisanne Koeteeuw",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Divebomb",
+  "rarity": "Uncommon",
+  "number": 128,
+  "keywords": [
+    "Reckless"
+  ],
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Banish one of your characters with Reckless to banish chosen character with less {p} than that character."
+}

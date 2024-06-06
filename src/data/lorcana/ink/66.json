@@ -1,0 +1,19 @@
+{
+  "artist": "Jimmy Lo",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Forbidden Mountain - Maleficent's Castle",
+  "rarity": "Common",
+  "number": 66,
+  "keywords": [],
+  "flavor_text": "An eerie quiet surrounds the castle - but beware of the dangerous occupant within.",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  }
+}

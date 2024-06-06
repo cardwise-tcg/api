@@ -1,0 +1,28 @@
+{
+  "artist": "Defne T?z?m, Livio Cacciatore",
+  "ink": "Amber",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Perdita",
+  "rarity": "Legendary",
+  "number": 15,
+  "keywords": [],
+  "flavor_text": "Her pups will follow her anywhere.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Devoted Mother",
+  "willpower": 6,
+  "strength": 1,
+  "lore": 2,
+  "text": "Come Along, Children - When you play this character and whenever she quests, you may play a character with cost 2 or less from your discard for free."
+}

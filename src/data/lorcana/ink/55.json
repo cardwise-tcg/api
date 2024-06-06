@@ -1,0 +1,29 @@
+{
+  "artist": "Jared Nickerl, Alice Pisoni",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Stratos",
+  "rarity": "Rare",
+  "number": 55,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"Blow Zeus away!\"",
+  "classifications": [
+    "Storyborn",
+    "Titan"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Tornado Titan",
+  "willpower": 4,
+  "strength": 4,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\n\nCyclone - {e}: Gain lore equal to the number of Titan characters you have in play."
+}

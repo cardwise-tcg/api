@@ -1,0 +1,30 @@
+{
+  "artist": "Shannon Hallstein",
+  "ink": "Amber",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Nani",
+  "rarity": "Uncommon",
+  "number": 12,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "flavor_text": "\"Let me handle this, Lilo.\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Protective Sister",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 2,
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+}

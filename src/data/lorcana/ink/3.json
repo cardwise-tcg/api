@@ -1,0 +1,28 @@
+{
+  "artist": "Evana Kisa, Jochem van Gool",
+  "ink": "Amber",
+  "ink_cost": 10,
+  "inkable": false,
+  "name": "Chernabog",
+  "rarity": "Super Rare",
+  "number": 3,
+  "keywords": [],
+  "flavor_text": "Darkness calls to minions everywhere",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Evildoer",
+  "willpower": 9,
+  "strength": 9,
+  "lore": 3,
+  "text": "The Power Of Evil - For each character card in your discard, you pay 1{i} less to play this character.\n\nSummon The Spirits - When you play this character, shuffle all character cards from your discard into your deck."
+}

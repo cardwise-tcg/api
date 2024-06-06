@@ -1,0 +1,20 @@
+{
+  "artist": "Kamil Murzyn",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Heart of Te Fiti",
+  "rarity": "Rare",
+  "number": 164,
+  "keywords": [],
+  "flavor_text": "It takes a pure heart to calm the raging storm within.",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Create Life - {e}, 2{i}: Put the top card of your deck into your inkwell facedown and exerted."
+}

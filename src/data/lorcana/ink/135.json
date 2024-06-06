@@ -1,0 +1,21 @@
+{
+  "artist": "Nicolas Ky",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Jolly Roger - Hook's Ship",
+  "rarity": "Uncommon",
+  "number": 135,
+  "keywords": [
+    "Rush"
+  ],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Look Alive, You Swabs! - Characters gain Rush while here. (They can challenge the turn they're played.)\n\nAll Hands On Deck! - Your Pirate characters may move here for free."
+}

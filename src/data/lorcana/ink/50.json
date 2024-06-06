@@ -1,0 +1,29 @@
+{
+  "artist": "Giulia Riva",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Magica De Spell",
+  "rarity": "Uncommon",
+  "number": 50,
+  "keywords": [],
+  "flavor_text": "\"Do you know what I call this? A good start!\"",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Thieving Sorceress",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "text": "Telekinesis - {e}: Return chosen item with cost equal to or less than this character's {p} to its player's hand."
+}

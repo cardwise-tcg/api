@@ -1,0 +1,28 @@
+{
+  "artist": "Jake Parker",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Kit Cloudkicker",
+  "rarity": "Uncommon",
+  "number": 77,
+  "keywords": [],
+  "flavor_text": "\"It's been fun, guys, but I got to be going. Yahoooo!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Tough Guy",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Skysurfing - When you play this character, you may return chosen opposing character with 2{p} or less to their player's hand."
+}

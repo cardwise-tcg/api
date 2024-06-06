@@ -1,0 +1,22 @@
+{
+  "artist": "Jeremy Adams",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Maui's Place of Exile - Hidden Island",
+  "rarity": "Rare",
+  "number": 202,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "Nothing but boulders and sand - easy to miss.",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Isolated - Characters gain Resist +1 while here. (Damage dealt to them is reduced by 1.)"
+}

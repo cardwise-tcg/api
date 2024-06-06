@@ -1,0 +1,21 @@
+{
+  "artist": "Isabella Ceravolo",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "And Then Along Came Zeus",
+  "rarity": "Rare",
+  "number": 195,
+  "keywords": [],
+  "flavor_text": "He hurled his thunderbolt - He zapped\nLocked those suckers in a vault - They're trapped\nAnd on his own stopped chaos in its tracks",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "(A character with cost 4 or more can {e} to sing this song for free.)\n\nDeal 5 damage to chosen character or location."
+}

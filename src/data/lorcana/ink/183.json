@@ -1,0 +1,28 @@
+{
+  "artist": "Grace Tran",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Minnie Mouse",
+  "rarity": "Common",
+  "number": 183,
+  "keywords": [],
+  "flavor_text": "She'll never cave under pressure.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Funky Spelunker",
+  "willpower": 3,
+  "strength": 0,
+  "lore": 1,
+  "text": "Journey - While this character is at a location, she gets +2{p}."
+}

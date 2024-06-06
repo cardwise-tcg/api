@@ -1,0 +1,30 @@
+{
+  "artist": "Brian Kesinger",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Jetsam",
+  "rarity": "Common",
+  "number": 76,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "\"There must be powerful lore here, very powerful.\"",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Riffraff",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2,
+  "text": "Ward (Opponents can't choose this character except to challenge.)\n\nEerie Pair - Your characters named Flotsam gain Ward."
+}

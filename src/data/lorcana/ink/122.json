@@ -1,0 +1,30 @@
+{
+  "artist": "Carmine Pucci",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Scroop",
+  "rarity": "Uncommon",
+  "number": 122,
+  "keywords": [],
+  "flavor_text": "Always keep him in front of you. And downwind, if possible.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Alien",
+    "Pirate"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Backstabber",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 2,
+  "text": "Brute - While this character has damage, he gets +3{p}."
+}

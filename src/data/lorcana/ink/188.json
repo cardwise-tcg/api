@@ -1,0 +1,29 @@
+{
+  "artist": "Kuya Jaypi",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Razoul",
+  "rarity": "Common",
+  "number": 188,
+  "keywords": [],
+  "flavor_text": "\"There's no princess here to save you this time, street rat.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Captain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Palace Guard",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Looky Here - While this character has no damage, he gets +2{p}."
+}

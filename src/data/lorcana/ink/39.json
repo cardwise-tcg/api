@@ -1,0 +1,28 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Hydros",
+  "rarity": "Uncommon",
+  "number": 39,
+  "keywords": [],
+  "flavor_text": "\"Freeze Zeus!\"",
+  "classifications": [
+    "Storyborn",
+    "Titan"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Ice Titan",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2,
+  "text": "Blizzard - {e}: Exert chosen character."
+}

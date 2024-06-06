@@ -1,0 +1,20 @@
+{
+  "artist": "Gabriel Angelo",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Scrooge's Top Hat",
+  "rarity": "Uncommon",
+  "number": 166,
+  "keywords": [],
+  "flavor_text": "Just the thing to top off another brilliant deal.",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Business Expertise - {e}: You pay 1{i} less for the next item you play this turn."
+}

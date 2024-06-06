@@ -1,0 +1,28 @@
+{
+  "artist": "Ellie Harie",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Patch",
+  "rarity": "Common",
+  "number": 14,
+  "keywords": [],
+  "flavor_text": "Just like Thunderbolt, he'll stand up to any bad guy.",
+  "classifications": [
+    "Storyborn",
+    "Puppy"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Intimidating Pup",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1,
+  "text": "Bark - {e}: Chosen character gets -2{p} until the start of your next turn."
+}

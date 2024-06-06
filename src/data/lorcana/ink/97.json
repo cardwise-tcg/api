@@ -1,0 +1,20 @@
+{
+  "artist": "Jenna Gray",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Airfoil",
+  "rarity": "Common",
+  "number": 97,
+  "keywords": [],
+  "flavor_text": "Discovered in the lost Sea Duck, it looked good as new.",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "I Got To Be Going - {e}: If you've played 2 or more actions this turn, draw a card."
+}

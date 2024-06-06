@@ -1,0 +1,20 @@
+{
+  "artist": "Andreas Rocha",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Kuzco's Palace - Home of the Emperor",
+  "rarity": "Uncommon",
+  "number": 102,
+  "keywords": [],
+  "flavor_text": "\"Sure it's a little small, but also it DOESN'T HAVE A POOL!\" -Kuzco",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "City Walls - Whenever a character is challenged and banished while here, banish the challenging character."
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Julie Vu",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Wendy Darling",
+  "rarity": "Super Rare",
+  "number": 158,
+  "keywords": [
+    "Support",
+    "Ward"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Authority on Peter Pan",
+  "willpower": 1,
+  "strength": 3,
+  "lore": 2,
+  "text": "Ward (Opponents can't choose this character except to challenge.)\n\nSupport (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)"
+}

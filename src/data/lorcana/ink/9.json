@@ -1,0 +1,30 @@
+{
+  "artist": "Erika Wiseman",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Minnie Mouse",
+  "rarity": "Rare",
+  "number": 9,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "flavor_text": "Her musical talents are off the charts!",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Musical Artist",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Singer 3 (This character counts as cost 3 to sing songs.)\n\nEntourage - Whenever you play a character with Bodyguard, you may remove up to 2 damage from chosen character."
+}
