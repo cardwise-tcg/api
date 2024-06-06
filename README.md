@@ -129,3 +129,4 @@ without having to download/install anything at all.
 3. Run `yarn compile --with-lorcana` to compile Lorcana's data
 4. Run `yarn dev` to start the server
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=53147db54511&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
