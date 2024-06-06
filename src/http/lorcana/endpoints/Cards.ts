@@ -21,7 +21,7 @@ export default class Cards extends TradingCardGameEndpoint {
      *
      * @private
      */
-    private filtered: Card[] | CharacterCard[] | LocationCard[];
+    private _filtered: Card[] | CharacterCard[] | LocationCard[];
 
     /**
      * @inheritDoc
@@ -34,11 +34,16 @@ export default class Cards extends TradingCardGameEndpoint {
         this.all = data;
     }
 
+
+    getFiltered(): Card[] | CharacterCard[] | LocationCard[] {
+        return this._filtered;
+    }
+
     /**
      * @inheritDoc
      */
     toJSON = (): string => JSON.stringify({
-        cards: this.filtered,
+        cards: this.getFiltered(),
     });
 
     /**
@@ -49,7 +54,7 @@ export default class Cards extends TradingCardGameEndpoint {
     filter(): Cards {
         const cardCollection = new CardCollection(this.all);
 
-        const {name, ink, set_key} = this.query;
+        const {name, ink, set_key, type} = this.query;
 
         if (name) {
             cardCollection.filterByName(name);
@@ -63,7 +68,11 @@ export default class Cards extends TradingCardGameEndpoint {
             cardCollection.filterBySetKey(set_key);
         }
 
-        this.filtered = cardCollection.getCards();
+        if (type) {
+            cardCollection.filterByType(type);
+        }
+
+        this._filtered = cardCollection.getCards();
 
         return this;
     }
@@ -108,7 +117,7 @@ export default class Cards extends TradingCardGameEndpoint {
             });
         }
 
-        if(set_key && !Array.isArray(set_key) && typeof set_key !== 'string') {
+        if (set_key && !Array.isArray(set_key) && typeof set_key !== 'string') {
             errors.push({
                 field: 'set_key',
                 message: 'set_key must be a string or array of strings'

@@ -73,6 +73,23 @@ export default class CardCollection {
     }
 
     /**
+     * Filters the cards by type.
+     *
+     * @param type
+     *
+     * @returns {CardCollection}
+     */
+    filterByType(type: string | string[]): CardCollection {
+        this.cards = this.cards.filter((card: Card & (CharacterCard | LocationCard)) => {
+            if (!Array.isArray(type))
+                return filterByString(card.types, type as CardTypes);
+            return filterByStringArray(card.types, type as CardTypes[]);
+        });
+
+        return this;
+    }
+
+    /**
      * Returns the cards.
      *
      * @returns {Card[] | CharacterCard[] | LocationCard[]}
