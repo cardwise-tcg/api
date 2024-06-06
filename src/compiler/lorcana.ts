@@ -11,7 +11,7 @@ export const compile = (async () => {
     for await(const set of LorcanaConfig.sets) {
         console.info(`Processing set: ${set}...`);
 
-        const json = (await import(`${LORCANA_DATA_INPUT_DIR}/${set}.json`)) as string;
+        const json = JSON.parse(fs.readFileSync(`${LORCANA_DATA_INPUT_DIR}/${set}.json`, 'utf8'));
         data.sets.push(json);
 
         const cards = (fs.readdirSync(`${LORCANA_DATA_INPUT_DIR}/${set}`));
@@ -19,7 +19,7 @@ export const compile = (async () => {
         for await (const card of cards) {
             console.info(`Processing card: ${card}...`);
 
-            const json = (await import(`${LORCANA_DATA_INPUT_DIR}/${set}/${card}`)) as string;
+            const json = JSON.parse(fs.readFileSync(`${LORCANA_DATA_INPUT_DIR}/${set}/${card}`, 'utf8'));
             data.cards.push(json);
         }
     }
