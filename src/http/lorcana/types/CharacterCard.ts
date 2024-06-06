@@ -1,10 +1,10 @@
 import {Card} from './Card';
 
 export type CharacterCard = {
+    type: 'Character';
     classifications: string[];
     lore: number,
     strength: number;
-    type: 'Character';
     version: string;
     willpower: number;
 } & Card;

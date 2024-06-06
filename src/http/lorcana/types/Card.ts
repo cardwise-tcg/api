@@ -23,7 +23,8 @@ export enum CardTypes {
     character = 'Character',
     item = 'Item',
     action = 'Action',
-    song = 'Song'
+    song = 'Song',
+    location = 'Location',
 }
 
 
