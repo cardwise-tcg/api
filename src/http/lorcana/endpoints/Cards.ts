@@ -4,6 +4,7 @@ import {Card, Ink} from '../types/Card';
 import {CharacterCard} from '../types/CharacterCard';
 import CardCollection from '../collections/CardCollection';
 import {ValidationError, ValidationErrorType} from '../../errors/ValidationError';
+import {LocationCard} from "../types/LocationCard";
 
 
 export default class Cards extends TradingCardGameEndpoint {
@@ -13,14 +14,14 @@ export default class Cards extends TradingCardGameEndpoint {
      *
      * @private
      */
-    private readonly all: Card[] | CharacterCard[];
+    private readonly all: Card[] | CharacterCard[] | LocationCard[];
 
     /**
      * Filtered cards data.
      *
      * @private
      */
-    private filtered: Card[] | CharacterCard[];
+    private filtered: Card[] | CharacterCard[] | LocationCard[];
 
     /**
      * @inheritDoc
@@ -28,7 +29,7 @@ export default class Cards extends TradingCardGameEndpoint {
      * @param data
      * @param query
      */
-    constructor(data: Card[] | CharacterCard[], query: ParsedUrlQuery) {
+    constructor(data: Card[] | CharacterCard[] | LocationCard[], query: ParsedUrlQuery) {
         super(query);
         this.all = data;
     }
