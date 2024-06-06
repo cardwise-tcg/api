@@ -1,0 +1,27 @@
+{
+  "artist": "Rianti Hidayat",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Pluto",
+  "rarity": "Common",
+  "number": 152,
+  "keywords": [],
+  "flavor_text": "Pluto's job was to keep Gustav's attention so Minnie could get to the cave.",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Mickey's Clever Friend",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1
+}

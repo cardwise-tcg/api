@@ -1,0 +1,28 @@
+{
+  "artist": "Brian Kensinger",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Flotsam",
+  "rarity": "Common",
+  "number": 72,
+  "keywords": [],
+  "flavor_text": "\"Ursula needs lore to complete her plan. . . .\"",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Riffraff",
+  "willpower": 2,
+  "strength": 5,
+  "lore": 1,
+  "text": "Eerie Pair - Your characters named Jetsam get +3{p}."
+}

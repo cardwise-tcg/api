@@ -1,0 +1,28 @@
+{
+  "artist": "Roger P?rez",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Billy Bones",
+  "rarity": "Common",
+  "number": 104,
+  "keywords": [],
+  "flavor_text": "\"He's after me chest, that fiendish cyborg and his band of cutthroats.\"",
+  "classifications": [
+    "Storyborn",
+    "Alien",
+    "Pirate"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Keeper of the Map",
+  "willpower": 5,
+  "strength": 6,
+  "lore": 1
+}

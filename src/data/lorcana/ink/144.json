@@ -1,0 +1,29 @@
+{
+  "artist": "Mario Oscar Gabriele",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Gyro Gearloose",
+  "rarity": "Rare",
+  "number": 144,
+  "keywords": [],
+  "flavor_text": "\"Maybe the bulb tech will be less evil this time . . .\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Inventor"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Gadget Whiz",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 1,
+  "text": "Now Try To Keep Up - {e}: Put an item card from your discard on the top of your deck."
+}

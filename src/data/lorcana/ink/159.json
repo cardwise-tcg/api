@@ -1,0 +1,19 @@
+{
+  "artist": "Giuseppe de Maio",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Distract",
+  "rarity": "Common",
+  "number": 159,
+  "keywords": [],
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Chosen character gets -2{p} this turn. Draw a card."
+}

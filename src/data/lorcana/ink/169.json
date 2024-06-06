@@ -1,0 +1,19 @@
+{
+  "artist": "Alex Accorsi",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "McDuck Manor - Scrooge's Mansion",
+  "rarity": "Common",
+  "number": 169,
+  "keywords": [],
+  "flavor_text": "\"It's only the coolest home in Lorcana!\"\n-Webby Vanderquack",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  }
+}

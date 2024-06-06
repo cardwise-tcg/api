@@ -1,0 +1,21 @@
+{
+  "artist": "Michela Cacciatore",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "I've Got A Dream",
+  "rarity": "Uncommon",
+  "number": 129,
+  "keywords": [],
+  "flavor_text": "Tor would like to quit and be a florist\nGunther does interior design",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "(A character with cost 2 or more can {e} to sing this song for free.)\n\nReady chosen character of yours at a location. They can't quest for the rest of this turn. Gain lore equal to that location's {l}."
+}

@@ -1,0 +1,19 @@
+{
+  "artist": "Ryan Moeck",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "De Vil Manor - Cruella's Estate",
+  "rarity": "Common",
+  "number": 100,
+  "keywords": [],
+  "flavor_text": "\"They say the ol' place is haunted, or bewitched, or some such fiddle-faddle.\"\n-Colonel",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  }
+}

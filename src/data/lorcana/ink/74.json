@@ -1,0 +1,29 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Helga Sinclair",
+  "rarity": "Super Rare",
+  "number": 74,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Femme Fatale",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 2,
+  "text": "Shift 3 (You may pay 3{i} to play this on top of one of your characters named Helga Sinclair.)\n\nThis Changes Everything - Whenever this character quests, you may deal 3 damage to chosen damaged character."
+}

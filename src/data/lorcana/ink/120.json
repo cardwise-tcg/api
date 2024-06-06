@@ -1,0 +1,30 @@
+{
+  "artist": "Simone Buonfantino",
+  "ink": "Ruby",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Peter Pan",
+  "rarity": "Rare",
+  "number": 120,
+  "keywords": [
+    "Evasive",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Pirate's Bane",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 2,
+  "text": "Shift 4 (You may pay 4{i} to play this on top of one of your characters named Peter Pan.)\n\nEvasive (Only characters with Evasive can challenge this character.)\n\nYou're Next! - Whenever he challenges a Pirate character, this character takes no damage from the challenge."
+}

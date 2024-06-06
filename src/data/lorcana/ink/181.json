@@ -1,0 +1,28 @@
+{
+  "artist": "Louis Jones",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Mickey Mouse",
+  "rarity": "Common",
+  "number": 181,
+  "keywords": [],
+  "flavor_text": "Mickey knew just where to start searching for the Sorcerer's Hat, but he didn't expect it to be guarded.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Stalwart Explorer",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Let's Take A Look - This character gets +1{p} for each location you have in play."
+}

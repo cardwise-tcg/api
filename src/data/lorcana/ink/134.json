@@ -1,0 +1,19 @@
+{
+  "artist": "Andreas Rocha",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Agrabah - Marketplace",
+  "rarity": "Common",
+  "number": 134,
+  "keywords": [],
+  "flavor_text": "\"Welcome to Agrabah, city of mystery, of enchantment, and the finest merchandise this side of the river.\"\n-Merchant",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  }
+}

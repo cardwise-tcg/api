@@ -1,0 +1,21 @@
+{
+  "artist": "Koni",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "The Boss Is On A Roll",
+  "rarity": "Rare",
+  "number": 63,
+  "keywords": [],
+  "flavor_text": "Go ahead! Make your choice!",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "(A character with cost 3 or more can {e} to sing this song for free.)\n\nLook at the top 5 cards of your deck. Put any number of them on the top of the bottom of your deck in any order. Gain 1 lore."
+}

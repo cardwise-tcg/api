@@ -1,0 +1,28 @@
+{
+  "artist": "C?cile Carre, Anna Stosik",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Gramma Tala",
+  "rarity": "Common",
+  "number": 142,
+  "keywords": [],
+  "flavor_text": "Listen with your whole heart, and the ancestors will guide you.",
+  "classifications": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Keeper of Ancient Stories",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "There Was Only Ocean - When you play this character, look at the top 2 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order."
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Louis Jones",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Webby Vanderquack",
+  "rarity": "Common",
+  "number": 127,
+  "keywords": [],
+  "flavor_text": "\"Finding lore is a lot easier when you have a grappling hook!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Enthusiastic Duck",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1
+}

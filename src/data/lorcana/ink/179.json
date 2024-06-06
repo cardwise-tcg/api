@@ -1,0 +1,30 @@
+{
+  "artist": "Jacob McAlister",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Little John",
+  "rarity": "Uncommon",
+  "number": 179,
+  "keywords": [
+    "Bodyguard",
+    "Evasive"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Robin's Pal",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nDisguised - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)"
+}

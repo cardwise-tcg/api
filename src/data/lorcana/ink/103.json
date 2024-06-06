@@ -1,0 +1,31 @@
+{
+  "artist": "Javi Salas",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Ariel",
+  "rarity": "Super Rare",
+  "number": 103,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "Shipwrecks are great places to find lore - and hide from sharks!",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Adventurous Collector",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\n\nInspiring Voice - Whenever you play a song, chosen character of yours gains Evasive until the start of your next turn."
+}

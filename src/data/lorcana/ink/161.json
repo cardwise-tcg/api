@@ -1,0 +1,20 @@
+{
+  "artist": "Anna Rud, Anna Stosik",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "How Far I'll Go",
+  "rarity": "Uncommon",
+  "number": 161,
+  "keywords": [],
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "(A character with cost 4 or more can {e} to sing this song for free.)\n\nLook at the top 2 cards of your deck. Put one into your hand and the other into your inkwell facedown and exerted."
+}

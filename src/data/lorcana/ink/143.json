@@ -1,0 +1,30 @@
+{
+  "artist": "Jennifer Park, Ellie Harie",
+  "ink": "Sapphire",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Gramma Tala",
+  "rarity": "Legendary",
+  "number": 143,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "She will always be with you, no matter how far your journey takes you.",
+  "classifications": [
+    "Floodborn",
+    "Mentor"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Spirit of the Ocean",
+  "willpower": 8,
+  "strength": 4,
+  "lore": 2,
+  "text": "Shift 5 (You may pay 5{i} to play this on top of one of your characters named Gramma Tala.)\n\nDo You Know Who You Are? - Whenever a card is put into your inkwell, gain 1 lore."
+}

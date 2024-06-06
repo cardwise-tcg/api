@@ -1,0 +1,20 @@
+{
+  "artist": "Nicola Saviori",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Rise Of The Titans",
+  "rarity": "Uncommon",
+  "number": 198,
+  "keywords": [],
+  "flavor_text": "\"Oh, we're in trouble, big trouble!\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Banish chosen location or item."
+}

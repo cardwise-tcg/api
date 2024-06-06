@@ -1,0 +1,28 @@
+{
+  "artist": "Adam Ford",
+  "ink": "Emerald",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Starkey",
+  "rarity": "Uncommon",
+  "number": 88,
+  "keywords": [],
+  "flavor_text": "Point him in the right direction, and he'll do the rest",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Devious Pirate",
+  "willpower": 6,
+  "strength": 6,
+  "lore": 3
+}

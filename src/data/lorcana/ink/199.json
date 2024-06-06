@@ -1,0 +1,21 @@
+{
+  "artist": "Jeremy Adams",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Captain Hook's Rapier",
+  "rarity": "Uncommon",
+  "number": 199,
+  "keywords": [
+    "Challenger"
+  ],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Get Those Scurvy Brats! - During your turn, whenever one of your characters banishes another character in a challenge, you may pay 1{i} to draw a  card.\n\nLet's Have At It! - Your characters named Captain Hook gain Challenger +1. (They get +1{p} while challenging.)"
+}

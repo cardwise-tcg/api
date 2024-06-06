@@ -1,0 +1,19 @@
+{
+  "artist": "Etienne Savoie",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Motunui - Island Paradise",
+  "rarity": "Uncommon",
+  "number": 170,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Reincarnation - Whenever a character is banished while here, you may put that card into your inkwell facedown and exerted."
+}

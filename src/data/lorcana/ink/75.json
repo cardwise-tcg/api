@@ -1,0 +1,28 @@
+{
+  "artist": "Kasia Brzezinska",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Helga Sinclair",
+  "rarity": "Rare",
+  "number": 75,
+  "keywords": [],
+  "flavor_text": "\"You said we were in this together!\"",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Vengeful Partner",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 1,
+  "text": "Nothing Personal - When this character is challenged and banished, banish the challenging character."
+}

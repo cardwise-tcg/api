@@ -1,0 +1,20 @@
+{
+  "artist": "Gabriel Angelo",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Map of Treasure Planet",
+  "rarity": "Rare",
+  "number": 201,
+  "keywords": [],
+  "flavor_text": "\"Gentlemen, this must be kept under lock and key.\"\n-Captain Amelia",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Key To The Portal - {e}: You pay 1{i} less for the next location you play this turn.\n\nShow The Way - You pay 1{i} less to move your characters to a location."
+}

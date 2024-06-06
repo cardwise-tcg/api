@@ -1,0 +1,29 @@
+{
+  "artist": "Mike Parker",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Lyle Tiberius Rourke",
+  "rarity": "Super Rare",
+  "number": 78,
+  "keywords": [
+    "Reckless"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Cunning Mercenary",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Well, Now You Know - When you play this character, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)\n\nThanks For Volunteering - Whenever one of your other characters is banished, each opponent loses 1 lore."
+}

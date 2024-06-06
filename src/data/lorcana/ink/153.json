@@ -1,0 +1,28 @@
+{
+  "artist": "Hadjie Joos",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Rufus",
+  "rarity": "Common",
+  "number": 153,
+  "keywords": [],
+  "flavor_text": "\"Faith is a bluebird you see from afar.\"",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Orphanage Cat",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 1,
+  "text": "Too Old To Be Chasing Mice - When this character is banished, you may put this card into your inkwell facedown and exerted."
+}

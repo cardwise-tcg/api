@@ -1,0 +1,30 @@
+{
+  "artist": "Federico M. Cugliari",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Huey",
+  "rarity": "Rare",
+  "number": 145,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "\"This looks like part of a larger crystal!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Savvy Nephew",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)\n\nThree Nephews - Whenever this character quests, if you have characters named Dewey and Louie in play, you may draw 3 cards."
+}

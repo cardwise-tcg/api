@@ -1,0 +1,30 @@
+{
+  "artist": "Dave Alvarez, Alice Pisoni",
+  "ink": "Amber",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Pluto",
+  "rarity": "Rare",
+  "number": 17,
+  "keywords": [
+    "Bodyguard",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Determined Defender",
+  "willpower": 8,
+  "strength": 3,
+  "lore": 2,
+  "text": "Shift 5 (You may pay 5{i} to play this on top of one of your characters named Pluto.)\n\nBodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nGuard Dog - At the start of your turn, remove up to 3 damage from this character."
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Anna Rud, Livio Cacciatore",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "The Queen",
+  "rarity": "Common",
+  "number": 57,
+  "keywords": [],
+  "flavor_text": "\"A cobweb's strand to hold her fast\nAn eagle's eye to see her well\nSands of time to steal her past\nThus I cast my magic spell!\"",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Hateful Rival",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 1
+}

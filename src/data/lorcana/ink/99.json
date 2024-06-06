@@ -1,0 +1,20 @@
+{
+  "artist": "Billy Wimblett",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Starlight Vial",
+  "rarity": "Rare",
+  "number": 99,
+  "keywords": [],
+  "flavor_text": "In the wrong hands, this vial of magic could be disastrous.",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Efficient Energy - {e}: You pay 2{i} less for the next action you play this turn.\n\nTrap - 2{i}, Banish this item: Draw 2 cards, then choose and discard a card."
+}
