@@ -1,4 +1,5 @@
 # API
+[![Tests](https://github.com/cardwise-tcg/api/actions/workflows/test.yml/badge.svg)](https://github.com/cardwise-tcg/api/actions/workflows/test.yml)
 
 API & other tools that make the [cardwise app and website](https://cardwise.itodorova.dev/) work. ^_^
 
