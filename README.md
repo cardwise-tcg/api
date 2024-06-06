@@ -24,11 +24,12 @@ API & other tools that make the [cardwise app and website](https://cardwise.itod
 
 Filters are passed as query parameters, directly in the url. All parameters are optional and can be combined.
 
-| Name      | Type                                                                                           | Description                 |
-|-----------|------------------------------------------------------------------------------------------------|-----------------------------|
-| `name`    | `string \| string[]`                                                                           |Card name, matches `%name%` |
-| `ink`     | [`Ink \| Ink[]`](https://github.com/cardwise-tcg/api/blob/main/src/http/lorcana/types/Card.ts) |Ink color(s)                |
-| `set_key` | `string \| string[]`                                                                           |  One or more `set_key`s     |
+| Name      | Type                                                                                            | Description                            |
+|-----------|-------------------------------------------------------------------------------------------------|----------------------------------------|
+| `name`    | `string \| string[]`                                                                            | Card name, matches `%name%`            |
+| `ink`     | [`Ink \| Ink[]`](https://github.com/cardwise-tcg/api/blob/main/src/http/lorcana/types/Card.ts)  | Ink color(s)                           |
+| `set_key` | `string \| string[]`                                                                            | One or more `set_key`s                 |
+| `type`    | [`CardTypes`](https://github.com/cardwise-tcg/api/blob/main/src/http/lorcana/types/Card.ts#L22) | Card type: Location, Character, etc... |
 
 
 
