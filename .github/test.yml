@@ -1,0 +1,21 @@
+name: Tests
+'on':
+  push:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+  test:
+    name: 'Node.js v20'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 20
+      - uses: actions/checkout@v2
+        run: npm install
+      - name: Run All Node.js Tests
+        run: npm run test
