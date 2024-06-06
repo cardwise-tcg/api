@@ -1,1 +1,30 @@
-{"artist":"Jennifer Gheoduzzi, Livio Cacciatore","ink":"Sapphire","ink_cost":4,"inkable":true,"name":"The Queen","rarity":"Uncommon","number":156,"keywords":[],"flavor_text":"She has only one question, and she'd better like the answer.","classifications":["Storyborn","Villain","Queen","Sorcerer"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Mirror Seeker","willpower":5,"strength":2,"lore":1,"text":"Calculating And Vain - Whenever this character quests, you may look at the top 3 cards of your deck and put them back in any order."}
+{
+  "artist": "Jennifer Gheoduzzi, Livio Cacciatore",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "The Queen",
+  "rarity": "Uncommon",
+  "number": 156,
+  "keywords": [],
+  "flavor_text": "She has only one question, and she'd better like the answer.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Mirror Seeker",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 1,
+  "text": "Calculating And Vain - Whenever this character quests, you may look at the top 3 cards of your deck and put them back in any order."
+}

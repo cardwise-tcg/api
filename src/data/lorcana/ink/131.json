@@ -1,1 +1,20 @@
-{"artist":"Alex Shin","ink":"Ruby","ink_cost":1,"inkable":true,"name":"Voyage","rarity":"Common","number":131,"keywords":[],"flavor_text":"\"We were voyagers! Why'd we stop?\" -Moana","types":["Action"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"Move up to 2 characters of yours to the same location for free."}
+{
+  "artist": "Alex Shin",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Voyage",
+  "rarity": "Common",
+  "number": 131,
+  "keywords": [],
+  "flavor_text": "\"We were voyagers! Why'd we stop?\" -Moana",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Move up to 2 characters of yours to the same location for free."
+}

@@ -1,1 +1,28 @@
-{"artist":"Rogie Custodio, Erin Shin","ink":"Sapphire","ink_cost":3,"inkable":false,"name":"Mama Odie","rarity":"Rare","number":151,"keywords":[],"flavor_text":"\"You dig a little deeper, you'll find everything you need.\"","classifications":["Storyborn","Mentor"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Mystical Maven","willpower":3,"strength":1,"lore":1,"text":"This Going To Be Good - Whenever you play a song, you may put the top card of your deck into your inkwell facedown and exerted."}
+{
+  "artist": "Rogie Custodio, Erin Shin",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Mama Odie",
+  "rarity": "Rare",
+  "number": 151,
+  "keywords": [],
+  "flavor_text": "\"You dig a little deeper, you'll find everything you need.\"",
+  "classifications": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Mystical Maven",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "This Going To Be Good - Whenever you play a song, you may put the top card of your deck into your inkwell facedown and exerted."
+}

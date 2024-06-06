@@ -1,1 +1,27 @@
-{"artist":"Giuseppe di Maio","ink":"Steel","ink_cost":3,"inkable":true,"name":"Gustav the Giant","rarity":"Rare","number":173,"keywords":[],"classifications":["Dreamborn","Villain"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Terror of the Kingdom","willpower":6,"strength":6,"lore":1,"text":"All Tied Up - This character enters play exerted and can't ready at the start of your turn.\n\nBreak Free - During your turn, whenever one of your other characters banished another character in a challenge, you may ready this character."}
+{
+  "artist": "Giuseppe di Maio",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Gustav the Giant",
+  "rarity": "Rare",
+  "number": 173,
+  "keywords": [],
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Terror of the Kingdom",
+  "willpower": 6,
+  "strength": 6,
+  "lore": 1,
+  "text": "All Tied Up - This character enters play exerted and can't ready at the start of your turn.\n\nBreak Free - During your turn, whenever one of your other characters banished another character in a challenge, you may ready this character."
+}

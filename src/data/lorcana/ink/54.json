@@ -1,1 +1,31 @@
-{"artist":"Otto Paredes","ink":"Amethyst","ink_cost":1,"inkable":true,"name":"Rafiki","rarity":"Rare","number":54,"keywords":["Challenger"],"flavor_text":"Mind the stick!","classifications":["Dreamborn","Mentor","Sorcerer"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Mystical Fighter","willpower":2,"strength":0,"lore":1,"text":"Challenger +3 (While challenging, this character gets +3{p}.)\n\nAncient Skills - Whenever he challenges a Hyena character, this character takes no damage from the challenge."}
+{
+  "artist": "Otto Paredes",
+  "ink": "Amethyst",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Rafiki",
+  "rarity": "Rare",
+  "number": 54,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "Mind the stick!",
+  "classifications": [
+    "Dreamborn",
+    "Mentor",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Mystical Fighter",
+  "willpower": 2,
+  "strength": 0,
+  "lore": 1,
+  "text": "Challenger +3 (While challenging, this character gets +3{p}.)\n\nAncient Skills - Whenever he challenges a Hyena character, this character takes no damage from the challenge."
+}

@@ -1,1 +1,28 @@
-{"artist":"Kenneth Anderson","ink":"Sapphire","ink_cost":7,"inkable":true,"name":"King Louie","rarity":"Common","number":146,"keywords":[],"flavor_text":"\"Hold up, cuz. Why not sit back and enjoy some sweet beats?\"","classifications":["Storyborn","Ally","King"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Bandleader","willpower":7,"strength":7,"lore":3}
+{
+  "artist": "Kenneth Anderson",
+  "ink": "Sapphire",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "King Louie",
+  "rarity": "Common",
+  "number": 146,
+  "keywords": [],
+  "flavor_text": "\"Hold up, cuz. Why not sit back and enjoy some sweet beats?\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "King"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Bandleader",
+  "willpower": 7,
+  "strength": 7,
+  "lore": 3
+}

@@ -1,1 +1,27 @@
-{"artist":"Randy Bishop","ink":"Steel","ink_cost":1,"inkable":true,"name":"Aladdin","rarity":"Common","number":172,"keywords":[],"flavor_text":"\"How about we cut to the part where I make a quick escape and you yell after me? No? Can't say I didn't give you a chance.\"","classifications":["Storyborn","Hero"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Resolute Swordsman","willpower":3,"strength":1,"lore":1}
+{
+  "artist": "Randy Bishop",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Aladdin",
+  "rarity": "Common",
+  "number": 172,
+  "keywords": [],
+  "flavor_text": "\"How about we cut to the part where I make a quick escape and you yell after me? No? Can't say I didn't give you a chance.\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Resolute Swordsman",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1
+}

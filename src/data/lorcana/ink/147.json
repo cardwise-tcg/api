@@ -1,1 +1,30 @@
-{"artist":"Roger Perez","ink":"Sapphire","ink_cost":6,"inkable":true,"name":"Kit Cloudkicker","rarity":"Uncommon","number":147,"keywords":["Shift","Ward"],"classifications":["Floodborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Navigator","willpower":5,"strength":2,"lore":3,"text":"Shift 3 (You may pay 3{i} to play this on top of one of your characters named Kit Cloudkicker.)\n\nWard (Opponents can't choose this character except to challenge.)"}
+{
+  "artist": "Roger Perez",
+  "ink": "Sapphire",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Kit Cloudkicker",
+  "rarity": "Uncommon",
+  "number": 147,
+  "keywords": [
+    "Shift",
+    "Ward"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Navigator",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 3,
+  "text": "Shift 3 (You may pay 3{i} to play this on top of one of your characters named Kit Cloudkicker.)\n\nWard (Opponents can't choose this character except to challenge.)"
+}

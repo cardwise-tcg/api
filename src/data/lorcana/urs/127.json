@@ -1,1 +1,29 @@
-{"artist":"Sandra Rios","ink":"Ruby","ink_cost":3,"inkable":true,"name":"Tuk Tuk","rarity":"Rare","number":127,"keywords":["Evasive"],"classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Livley Partner","willpower":3,"strength":2,"lore":1,"text":"Evasive (Only characters with Evasive can challenge this character.)\nOn a Roll: When you play this character, you may move him and one of your other characters to the same location for free. The other characters get +2{s} this turn."}
+{
+  "artist": "Sandra Rios",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Tuk Tuk",
+  "rarity": "Rare",
+  "number": 127,
+  "keywords": [
+    "Evasive"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Livley Partner",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\nOn a Roll: When you play this character, you may move him and one of your other characters to the same location for free. The other characters get +2{s} this turn."
+}

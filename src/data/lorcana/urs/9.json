@@ -1,1 +1,28 @@
-{"artist":"Hedvig Haggman-Sund","ink":"Amber","ink_cost":3,"inkable":true,"name":"Felix Madrigal","rarity":"Uncommon","number":9,"keywords":[],"flavor_text":"Who needs a gift when you're having this much fun?","classifications":["Storyborn","Ally","Madrigal"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Fun-Loving Family Man","willpower":4,"strength":2,"lore":2}
+{
+  "artist": "Hedvig Haggman-Sund",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Felix Madrigal",
+  "rarity": "Uncommon",
+  "number": 9,
+  "keywords": [],
+  "flavor_text": "Who needs a gift when you're having this much fun?",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Fun-Loving Family Man",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 2
+}

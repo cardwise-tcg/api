@@ -1,1 +1,22 @@
-{"artist":"Yari Lute","ink":"Steel","ink_cost":2,"inkable":true,"name":"Imperial Bow","rarity":"Uncommon","number":201,"keywords":["Challenger","Evasive"],"types":["Item"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Within Range: {e}, 1{i} - Chosen Hero character gains Challenger +2 and Evasive this turn. (They get +2{s} while challenging . They can challenge characters with Evasive.)"}
+{
+  "artist": "Yari Lute",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Imperial Bow",
+  "rarity": "Uncommon",
+  "number": 201,
+  "keywords": [
+    "Challenger",
+    "Evasive"
+  ],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Within Range: {e}, 1{i} - Chosen Hero character gains Challenger +2 and Evasive this turn. (They get +2{s} while challenging . They can challenge characters with Evasive.)"
+}

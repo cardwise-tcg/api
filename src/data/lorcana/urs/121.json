@@ -1,1 +1,29 @@
-{"artist":"Peter Brockhammer","ink":"Ruby","ink_cost":3,"inkable":true,"name":"Raya","rarity":"Super Rare","number":121,"keywords":[],"flavor_text":"\"You're gonna fight an entire army?\"","classifications":["Storyborn","Hero","Princess"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Fierce Protector","willpower":3,"strength":3,"lore":1,"text":"Don't Cross Me: Whenever this character challenges another character, gain 1 lore for each other damaged character you have in play."}
+{
+  "artist": "Peter Brockhammer",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Raya",
+  "rarity": "Super Rare",
+  "number": 121,
+  "keywords": [],
+  "flavor_text": "\"You're gonna fight an entire army?\"",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Fierce Protector",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Don't Cross Me: Whenever this character challenges another character, gain 1 lore for each other damaged character you have in play."
+}

@@ -1,1 +1,19 @@
-{"artist":"Olivier Desiree","ink":"Amethyst","ink_cost":2,"inkable":true,"name":"Mystical Rose","rarity":"Rare","number":64,"keywords":[],"types":["Item"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Dispel the Entanglement - Banish this item: Chosen character named Beast gets +2{l} this turn. If you have a character named Belle in play, Move up to 3 damage counters from chosen character to chosen opposing character."}
+{
+  "artist": "Olivier Desiree",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Mystical Rose",
+  "rarity": "Rare",
+  "number": 64,
+  "keywords": [],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Dispel the Entanglement - Banish this item: Chosen character named Beast gets +2{l} this turn. If you have a character named Belle in play, Move up to 3 damage counters from chosen character to chosen opposing character."
+}

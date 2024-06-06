@@ -1,1 +1,27 @@
-{"artist":"James C Mulligan","ink":"Sapphire","ink_cost":4,"inkable":true,"name":"Transformed Chef","rarity":"Common","number":157,"keywords":[],"flavor_text":"\"A good, hot meal will set you right as rain.\"\n - Mrs. Potts","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Castle Stove","willpower":3,"strength":3,"text":"A Culinary Masterpiece: When you play this character, remove up to 2 damage from chosen character."}
+{
+  "artist": "James C Mulligan",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Transformed Chef",
+  "rarity": "Common",
+  "number": 157,
+  "keywords": [],
+  "flavor_text": "\"A good, hot meal will set you right as rain.\"\n - Mrs. Potts",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Castle Stove",
+  "willpower": 3,
+  "strength": 3,
+  "text": "A Culinary Masterpiece: When you play this character, remove up to 2 damage from chosen character."
+}

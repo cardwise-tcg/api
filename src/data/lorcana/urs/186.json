@@ -1,1 +1,29 @@
-{"artist":"Otto Paredes","ink":"Steel","ink_cost":6,"inkable":true,"name":"Magic Broom","rarity":"Super Rare","number":186,"keywords":["Resist"],"classifications":["Dreamborn","Broom"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Brigade Commander","willpower":6,"strength":2,"lore":2,"text":"Resist +1 (Damage dealt to this character is reduced by 1.)\nArmy of Brooms: This character gets +2{s} for each other character named Magic Broom you have in play"}
+{
+  "artist": "Otto Paredes",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Magic Broom",
+  "rarity": "Super Rare",
+  "number": 186,
+  "keywords": [
+    "Resist"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Broom"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Brigade Commander",
+  "willpower": 6,
+  "strength": 2,
+  "lore": 2,
+  "text": "Resist +1 (Damage dealt to this character is reduced by 1.)\nArmy of Brooms: This character gets +2{s} for each other character named Magic Broom you have in play"
+}

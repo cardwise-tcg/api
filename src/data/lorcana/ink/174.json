@@ -1,1 +1,29 @@
-{"artist":"Brian Kesinger","ink":"Steel","ink_cost":6,"inkable":true,"name":"Hades","rarity":"Rare","number":174,"keywords":[],"flavor_text":"\"Brothers! Titans! Look at you in your squalid prison. Who put you down there?\"","classifications":["Storyborn","Villain","Deity"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Hotheaded Ruler","willpower":5,"strength":5,"lore":2,"text":"Call The Titans - {e}: Ready your Titan characters."}
+{
+  "artist": "Brian Kesinger",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Hades",
+  "rarity": "Rare",
+  "number": 174,
+  "keywords": [],
+  "flavor_text": "\"Brothers! Titans! Look at you in your squalid prison. Who put you down there?\"",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Hotheaded Ruler",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2,
+  "text": "Call The Titans - {e}: Ready your Titan characters."
+}

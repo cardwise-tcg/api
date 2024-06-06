@@ -1,1 +1,29 @@
-{"artist":"Mike Me","ink":"Ruby","ink_cost":2,"inkable":true,"name":"Flynn Rider","rarity":"Super Rare","number":106,"keywords":[],"flavor_text":"\"You guys look busy-I'll just keep an eye on this lore for you.\"","classifications":["Storyborn","Hero","Prince"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Frenemy","willpower":2,"strength":2,"lore":1,"text":"Narrow Advantage: At the start of your turn, if you have a character in play with more {s} than each opposing character, gain 3 lore."}
+{
+  "artist": "Mike Me",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Flynn Rider",
+  "rarity": "Super Rare",
+  "number": 106,
+  "keywords": [],
+  "flavor_text": "\"You guys look busy-I'll just keep an eye on this lore for you.\"",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Frenemy",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Narrow Advantage: At the start of your turn, if you have a character in play with more {s} than each opposing character, gain 3 lore."
+}

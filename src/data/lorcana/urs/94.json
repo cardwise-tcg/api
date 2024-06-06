@@ -1,1 +1,19 @@
-{"artist":"Elodie Mondoloni","ink":"Emerald","ink_cost":2,"inkable":false,"name":"Make the Potion","rarity":"Common","number":94,"keywords":[],"types":["Action"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Choose one:\n- Banish chosen item.\n- Deal 2 damage to chosen damaged character"}
+{
+  "artist": "Elodie Mondoloni",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Make the Potion",
+  "rarity": "Common",
+  "number": 94,
+  "keywords": [],
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Choose one:\n- Banish chosen item.\n- Deal 2 damage to chosen damaged character"
+}

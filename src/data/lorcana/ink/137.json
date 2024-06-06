@@ -1,1 +1,30 @@
-{"artist":"Richelle Canto","ink":"Sapphire","ink_cost":5,"inkable":true,"name":"Audrey Ramirez","rarity":"Rare","number":137,"keywords":["Ward"],"flavor_text":"\"How'd you break this thing, anyway?\"","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"The Engineer","willpower":5,"strength":2,"lore":2,"text":"Ward (Opponents can't choose this character except to challenge.)\n\nSpare Parts - Whenever this character quests, ready one of your items."}
+{
+  "artist": "Richelle Canto",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Audrey Ramirez",
+  "rarity": "Rare",
+  "number": 137,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "\"How'd you break this thing, anyway?\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "The Engineer",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 2,
+  "text": "Ward (Opponents can't choose this character except to challenge.)\n\nSpare Parts - Whenever this character quests, ready one of your items."
+}

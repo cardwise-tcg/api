@@ -1,1 +1,28 @@
-{"artist":"Sandara Tang","ink":"Steel","ink_cost":4,"inkable":true,"name":"Rajah","rarity":"Rare","number":192,"keywords":[],"flavor_text":"As regal as his namesake and just as powerful","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Royal Protector","willpower":4,"strength":3,"lore":2,"text":"Steady Gaze: While you have no cards in your hand, characters with cost 4 or less can't  challenge this character."}
+{
+  "artist": "Sandara Tang",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Rajah",
+  "rarity": "Rare",
+  "number": 192,
+  "keywords": [],
+  "flavor_text": "As regal as his namesake and just as powerful",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Royal Protector",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "text": "Steady Gaze: While you have no cards in your hand, characters with cost 4 or less can't  challenge this character."
+}

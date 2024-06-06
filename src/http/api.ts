@@ -18,7 +18,6 @@ router.use(['/lorcana'], async (ctx, next) => {
 
 router.get('/lorcana/cards', async ctx => {
     try {
-
         ctx.body = (new LorcanaCards(ctx.state.lorcana.getData().cards, ctx.query))
             .filter()
             .toJSON();

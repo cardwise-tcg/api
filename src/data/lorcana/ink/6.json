@@ -1,1 +1,28 @@
-{"artist":"Nicoletta Baldari","ink":"Amber","ink_cost":1,"inkable":true,"name":"Kida","rarity":"Common","number":6,"keywords":[],"flavor_text":"Welcome to the Inklands.","classifications":["Storyborn","Hero","Princess"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Atlantean","willpower":2,"strength":2,"lore":1}
+{
+  "artist": "Nicoletta Baldari",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Kida",
+  "rarity": "Common",
+  "number": 6,
+  "keywords": [],
+  "flavor_text": "Welcome to the Inklands.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Atlantean",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1
+}

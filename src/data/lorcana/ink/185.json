@@ -1,1 +1,28 @@
-{"artist":"Evana Kisa, Livio Cacciatore","ink":"Steel","ink_cost":7,"inkable":true,"name":"Mufasa","rarity":"Rare","number":185,"keywords":[],"flavor_text":"Even his name makes enemies quiver in fear.","classifications":["Storyborn","Mentor","King"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Champion of the Pride Lands","willpower":10,"strength":3,"lore":3}
+{
+  "artist": "Evana Kisa, Livio Cacciatore",
+  "ink": "Steel",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Mufasa",
+  "rarity": "Rare",
+  "number": 185,
+  "keywords": [],
+  "flavor_text": "Even his name makes enemies quiver in fear.",
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Champion of the Pride Lands",
+  "willpower": 10,
+  "strength": 3,
+  "lore": 3
+}

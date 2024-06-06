@@ -1,1 +1,27 @@
-{"artist":"Brian Weisz","ink":"Steel","ink_cost":3,"inkable":true,"name":"Nala","rarity":"Uncommon","number":186,"keywords":[],"flavor_text":"\"Pinned ya again.\"","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Fierce Friend","willpower":4,"strength":2,"lore":2}
+{
+  "artist": "Brian Weisz",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Nala",
+  "rarity": "Uncommon",
+  "number": 186,
+  "keywords": [],
+  "flavor_text": "\"Pinned ya again.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Fierce Friend",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 2
+}

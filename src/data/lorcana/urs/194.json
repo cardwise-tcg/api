@@ -1,1 +1,30 @@
-{"artist":"Michela Cacciatore / Giulia Priori","ink":"Steel","ink_cost":4,"inkable":true,"name":"Yao","rarity":"Common","number":194,"keywords":["Challenger"],"flavor_text":"\"I'm gonna hit you so hard, it'll make your ancestors dizzy.\"","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Imperial Soldier","willpower":5,"strength":2,"lore":1,"text":"Challenger +2 (While challenging, this character gets +2{s})"}
+{
+  "artist": "Michela Cacciatore / Giulia Priori",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Yao",
+  "rarity": "Common",
+  "number": 194,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "\"I'm gonna hit you so hard, it'll make your ancestors dizzy.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Imperial Soldier",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 1,
+  "text": "Challenger +2 (While challenging, this character gets +2{s})"
+}

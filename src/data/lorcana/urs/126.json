@@ -1,1 +1,30 @@
-{"artist":"Mike Parker","ink":"Ruby","ink_cost":4,"inkable":false,"name":"Tong","rarity":"Common","number":126,"keywords":["Reckless"],"flavor_text":"\"I too wish to join the fellowship of Druun butt-kickery.\"","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Survivor","willpower":6,"strength":3,"lore":0,"text":"Reckless (This character can't quest and must attack each turn if able.)"}
+{
+  "artist": "Mike Parker",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Tong",
+  "rarity": "Common",
+  "number": 126,
+  "keywords": [
+    "Reckless"
+  ],
+  "flavor_text": "\"I too wish to join the fellowship of Druun butt-kickery.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Survivor",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 0,
+  "text": "Reckless (This character can't quest and must attack each turn if able.)"
+}

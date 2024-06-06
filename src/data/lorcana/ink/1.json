@@ -1,1 +1,29 @@
-{"artist":"Cam Kendell","ink":"Amber","ink_cost":3,"inkable":false,"name":"Baloo","rarity":"Rare","number":1,"keywords":["Bodyguard"],"classifications":["Dreamborn","Hero"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"von Bruinwald XIII","willpower":3,"strength":0,"lore":1,"text":"Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nLet's Make Like A Tree - When this character is banished, gain 2 lore."}
+{
+  "artist": "Cam Kendell",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Baloo",
+  "rarity": "Rare",
+  "number": 1,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "von Bruinwald XIII",
+  "willpower": 3,
+  "strength": 0,
+  "lore": 1,
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nLet's Make Like A Tree - When this character is banished, gain 2 lore."
+}

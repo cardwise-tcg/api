@@ -1,1 +1,31 @@
-{"artist":"Adam Fenton","ink":"Amber","ink_cost":5,"inkable":true,"name":"Kida","rarity":"Legendary","number":7,"keywords":["Shift"],"flavor_text":"\"She has been chosen.\" - King Kashekim Nedakh","classifications":["Floodborn","Hero","Princess"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Protector of Atlantis","willpower":5,"strength":3,"lore":2,"text":"Shift 3 (You may pay 3{i} to play this on top of one of your characters named Kida.)\n\nPerhaps We Can Save Our Future - When you play this character, all characters get -3{s} until the start of your next turn."}
+{
+  "artist": "Adam Fenton",
+  "ink": "Amber",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Kida",
+  "rarity": "Legendary",
+  "number": 7,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "\"She has been chosen.\" - King Kashekim Nedakh",
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Protector of Atlantis",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 2,
+  "text": "Shift 3 (You may pay 3{i} to play this on top of one of your characters named Kida.)\n\nPerhaps We Can Save Our Future - When you play this character, all characters get -3{s} until the start of your next turn."
+}

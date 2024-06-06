@@ -1,1 +1,30 @@
-{"artist":"Brian Kesinger","ink":"Sapphire","ink_cost":1,"inkable":true,"name":"Olaf","rarity":"Common","number":150,"keywords":["Support"],"flavor_text":"\"Isn't this Kristoff's hat? If he went this way, he'll be caught in that storm!\"","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Trusting Companion","willpower":2,"strength":1,"lore":1,"text":"Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)"}
+{
+  "artist": "Brian Kesinger",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Olaf",
+  "rarity": "Common",
+  "number": 150,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "\"Isn't this Kristoff's hat? If he went this way, he'll be caught in that storm!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Trusting Companion",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)"
+}

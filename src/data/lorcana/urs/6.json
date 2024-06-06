@@ -1,1 +1,27 @@
-{"artist":"Stefano Zanchi","ink":"Amber","ink_cost":1,"inkable":true,"name":"Daisy Duck","rarity":"Uncommon","number":6,"keywords":[],"flavor_text":"Sweet Daisy, the fairest duck I ever met\nEach flaxen lock a rush of flowing gold\nHer bill the color of summer sunset\nExquisite plumes, a wonder to behold","classifications":["Dreamborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Lovely Lady","willpower":3,"strength":1,"lore":1}
+{
+  "artist": "Stefano Zanchi",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Daisy Duck",
+  "rarity": "Uncommon",
+  "number": 6,
+  "keywords": [],
+  "flavor_text": "Sweet Daisy, the fairest duck I ever met\nEach flaxen lock a rush of flowing gold\nHer bill the color of summer sunset\nExquisite plumes, a wonder to behold",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Lovely Lady",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1
+}

@@ -1,1 +1,28 @@
-{"artist":"Massimiliano Narciso","ink":"Ruby","ink_cost":2,"inkable":true,"name":"Milo Thatch","rarity":"Common","number":115,"keywords":[],"flavor_text":"\"My grandpa never told me about this place!\"","classifications":["Storyborn","Hero"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Spirited Scholar","willpower":2,"strength":2,"lore":1,"text":"I'm Your Man! - While this character is at a location, he gets +2{p}."}
+{
+  "artist": "Massimiliano Narciso",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Milo Thatch",
+  "rarity": "Common",
+  "number": 115,
+  "keywords": [],
+  "flavor_text": "\"My grandpa never told me about this place!\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Spirited Scholar",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "I'm Your Man! - While this character is at a location, he gets +2{p}."
+}

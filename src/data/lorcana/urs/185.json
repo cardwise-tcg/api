@@ -1,1 +1,30 @@
-{"artist":"Alibeth Zermeno","ink":"Steel","ink_cost":2,"inkable":true,"name":"Magic Broom","rarity":"Common","number":185,"keywords":["Evasive"],"flavor_text":"It spends its days keeping the treasured glimmers in the Hall of Lorcana sparkling clean.","classifications":["Dreamborn","Broom"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Aerial Cleaner","willpower":3,"strength":2,"lore":1,"text":"Winged for a Day: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)"}
+{
+  "artist": "Alibeth Zermeno",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Magic Broom",
+  "rarity": "Common",
+  "number": 185,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "It spends its days keeping the treasured glimmers in the Hall of Lorcana sparkling clean.",
+  "classifications": [
+    "Dreamborn",
+    "Broom"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Aerial Cleaner",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Winged for a Day: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)"
+}

@@ -1,1 +1,30 @@
-{"artist":"Justin Runfola","ink":"Ruby","ink_cost":4,"inkable":true,"name":"Goofy","rarity":"Rare","number":107,"keywords":["Rush"],"flavor_text":"Never underestimate the power of a Goof.","classifications":["Storyborn","Hero"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Super Goof","willpower":4,"strength":2,"lore":1,"text":"Rush (This character can challenge the turn they're played.)\nSuper Peanut Powers: Whenever this character challenges another character, gain 2 lore."}
+{
+  "artist": "Justin Runfola",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Goofy",
+  "rarity": "Rare",
+  "number": 107,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "Never underestimate the power of a Goof.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Super Goof",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Rush (This character can challenge the turn they're played.)\nSuper Peanut Powers: Whenever this character challenges another character, gain 2 lore."
+}

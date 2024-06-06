@@ -1,1 +1,29 @@
-{"artist":"Brianna Garcia","ink":"Amber","ink_cost":3,"inkable":true,"name":"Queen of Hearts","rarity":"Uncommon","number":20,"keywords":[],"flavor_text":"The more of the Inklands she claims, the more she wants.","classifications":["Dreamborn","Villain","Queen"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Wonderland Empress","willpower":3,"strength":3,"lore":1,"text":"All Ways Here Are My Ways - Whenever this character quests, your other Villain characters get +1{l} this turn."}
+{
+  "artist": "Brianna Garcia",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Queen of Hearts",
+  "rarity": "Uncommon",
+  "number": 20,
+  "keywords": [],
+  "flavor_text": "The more of the Inklands she claims, the more she wants.",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Queen"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Wonderland Empress",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "All Ways Here Are My Ways - Whenever this character quests, your other Villain characters get +1{l} this turn."
+}

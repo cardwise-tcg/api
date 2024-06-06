@@ -1,1 +1,33 @@
-{"artist":"Kumatori Gaku","ink":"Steel","ink_cost":3,"inkable":true,"name":"John Silver","rarity":"Rare","number":176,"keywords":["Resist"],"flavor_text":"\"I was never much good at games. Always hated to lose.\"","classifications":["Dreamborn","Villain","Alien","Pirate","Captain"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Greedy Treasure Seeker","willpower":3,"strength":3,"lore":1,"text":"Chart Your Own Course - For each location you have in play, this character gains Resist +1 and gets +1{l}. (Damage dealt to them is reduced by 1.)"}
+{
+  "artist": "Kumatori Gaku",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "John Silver",
+  "rarity": "Rare",
+  "number": 176,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "\"I was never much good at games. Always hated to lose.\"",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Alien",
+    "Pirate",
+    "Captain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Greedy Treasure Seeker",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Chart Your Own Course - For each location you have in play, this character gains Resist +1 and gets +1{l}. (Damage dealt to them is reduced by 1.)"
+}

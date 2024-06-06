@@ -1,1 +1,28 @@
-{"artist":"Giulia Riva","ink":"Amethyst","ink_cost":6,"inkable":false,"name":"Magic Broom","rarity":"Uncommon","number":44,"keywords":[],"flavor_text":"Super-smooth tidiness.","classifications":["Dreamborn","Broom"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Dancing Duster","willpower":3,"strength":3,"lore":1,"text":"Power Clean - When you play this character, if you have a Sorcerer character in play, you may exert chosen opposing character. They can't ready at the start of their next turn."}
+{
+  "artist": "Giulia Riva",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Magic Broom",
+  "rarity": "Uncommon",
+  "number": 44,
+  "keywords": [],
+  "flavor_text": "Super-smooth tidiness.",
+  "classifications": [
+    "Dreamborn",
+    "Broom"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Dancing Duster",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Power Clean - When you play this character, if you have a Sorcerer character in play, you may exert chosen opposing character. They can't ready at the start of their next turn."
+}

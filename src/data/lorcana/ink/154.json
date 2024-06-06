@@ -1,1 +1,30 @@
-{"artist":"Grace Tran","ink":"Sapphire","ink_cost":5,"inkable":false,"name":"Scrooge McDuck","rarity":"Super Rare","number":154,"keywords":["Evasive"],"flavor_text":"He can make money anywhere.","classifications":["Storyborn","Hero"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Richest Duck in the World","willpower":5,"strength":3,"lore":1,"text":"I'm Going Home! - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)\n\nI Didn't Get Rich By Being Stupid - During your turn, whenever this character banishes another character in a challenge, you may play an item for free."}
+{
+  "artist": "Grace Tran",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Scrooge McDuck",
+  "rarity": "Super Rare",
+  "number": 154,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "He can make money anywhere.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Richest Duck in the World",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 1,
+  "text": "I'm Going Home! - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)\n\nI Didn't Get Rich By Being Stupid - During your turn, whenever this character banishes another character in a challenge, you may play an item for free."
+}

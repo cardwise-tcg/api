@@ -1,1 +1,27 @@
-{"artist":"Jochem van Gool","ink":"Ruby","ink_cost":6,"inkable":false,"name":"Hydra","rarity":"Legendary","number":108,"keywords":[],"flavor_text":"More heads are better than one.","classifications":["Storyborn"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Deadly Serpent","willpower":5,"strength":6,"lore":2,"text":"Watch The Teeth - Whenever this character is dealt damage, deal that much damage to chosen opposing character."}
+{
+  "artist": "Jochem van Gool",
+  "ink": "Ruby",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Hydra",
+  "rarity": "Legendary",
+  "number": 108,
+  "keywords": [],
+  "flavor_text": "More heads are better than one.",
+  "classifications": [
+    "Storyborn"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Deadly Serpent",
+  "willpower": 5,
+  "strength": 6,
+  "lore": 2,
+  "text": "Watch The Teeth - Whenever this character is dealt damage, deal that much damage to chosen opposing character."
+}

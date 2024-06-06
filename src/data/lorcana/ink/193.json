@@ -1,1 +1,29 @@
-{"artist":"Mariana Moreno","ink":"Steel","ink_cost":5,"inkable":true,"name":"Simba","rarity":"Uncommon","number":193,"keywords":[],"flavor_text":"With dangers multiplying all around, the pride needs its guardian.","classifications":["Storyborn","Hero","King"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Rightful King","willpower":6,"strength":4,"lore":1,"text":"Triumphant Stance - During your turn, whenever this character banishes another character in a challenge, chosen opposing character can't challenge during their next turn."}
+{
+  "artist": "Mariana Moreno",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Simba",
+  "rarity": "Uncommon",
+  "number": 193,
+  "keywords": [],
+  "flavor_text": "With dangers multiplying all around, the pride needs its guardian.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "King"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Rightful King",
+  "willpower": 6,
+  "strength": 4,
+  "lore": 1,
+  "text": "Triumphant Stance - During your turn, whenever this character banishes another character in a challenge, chosen opposing character can't challenge during their next turn."
+}

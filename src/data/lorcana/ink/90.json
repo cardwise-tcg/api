@@ -1,1 +1,28 @@
-{"artist":"Lisanne Koeteeuw","ink":"Emerald","ink_cost":2,"inkable":true,"name":"Ursula","rarity":"Uncommon","number":90,"keywords":[],"classifications":["Storyborn","Villain","Sorcerer"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Deceiver","willpower":3,"strength":1,"lore":1,"text":"You'll Never Even Miss It - When you play this character, chosen opponent reveals their hand and discards a song card of your choice."}
+{
+  "artist": "Lisanne Koeteeuw",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Ursula",
+  "rarity": "Uncommon",
+  "number": 90,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Deceiver",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "You'll Never Even Miss It - When you play this character, chosen opponent reveals their hand and discards a song card of your choice."
+}

@@ -1,1 +1,29 @@
-{"artist":"Stefano Spagnuolo","ink":"Steel","ink_cost":4,"inkable":true,"name":"Philoctetes","rarity":"Rare","number":190,"keywords":["Challenger"],"classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"No-Nonsense Instructor","willpower":3,"strength":2,"lore":2,"text":"You Gotta Stay Focused: Your Hero characters gain Challenger +1 (They get +1{s} while challenging)\nShameless Promoter: Whenever you play a Hero character, gain 1 lore."}
+{
+  "artist": "Stefano Spagnuolo",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Philoctetes",
+  "rarity": "Rare",
+  "number": 190,
+  "keywords": [
+    "Challenger"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "No-Nonsense Instructor",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 2,
+  "text": "You Gotta Stay Focused: Your Hero characters gain Challenger +1 (They get +1{s} while challenging)\nShameless Promoter: Whenever you play a Hero character, gain 1 lore."
+}

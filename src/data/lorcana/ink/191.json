@@ -1,1 +1,28 @@
-{"artist":"Alice Pisoni","ink":"Steel","ink_cost":4,"inkable":false,"name":"Sheriff of Nottingham","rarity":"Super Rare","number":191,"keywords":[],"flavor_text":"The thirteenth Rule of Villainy: Take everything you can, but do it with a smile.","classifications":["Dreamborn","Villain"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Corrupt Official","willpower":4,"strength":2,"lore":1,"text":"Taxes Should Hurt - Whenever you discard a card, you may deal 1 damage to chosen opposing character."}
+{
+  "artist": "Alice Pisoni",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Sheriff of Nottingham",
+  "rarity": "Super Rare",
+  "number": 191,
+  "keywords": [],
+  "flavor_text": "The thirteenth Rule of Villainy: Take everything you can, but do it with a smile.",
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Corrupt Official",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Taxes Should Hurt - Whenever you discard a card, you may deal 1 damage to chosen opposing character."
+}

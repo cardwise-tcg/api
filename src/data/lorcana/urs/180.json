@@ -1,1 +1,31 @@
-{"artist":"Leonardo Giammichele","ink":"Steel","ink_cost":6,"inkable":true,"name":"Hercules","rarity":"Rare","number":180,"keywords":["Bodyguard","Resist"],"classifications":["Storyborn","Hero","Prince"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Beloved Hero","willpower":5,"strength":6,"lore":2,"text":"Bodyguard (This character may enter play exerted. An opposing character who challenges on of your characters must chose one with Bodyguard if able.)\nResist +1 (Damage dealt to this character is reduced by 1)"}
+{
+  "artist": "Leonardo Giammichele",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Hercules",
+  "rarity": "Rare",
+  "number": 180,
+  "keywords": [
+    "Bodyguard",
+    "Resist"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Beloved Hero",
+  "willpower": 5,
+  "strength": 6,
+  "lore": 2,
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges on of your characters must chose one with Bodyguard if able.)\nResist +1 (Damage dealt to this character is reduced by 1)"
+}

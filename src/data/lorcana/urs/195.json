@@ -1,1 +1,20 @@
-{"artist":"Justin Gerard","ink":"Steel","ink_cost":4,"inkable":false,"name":"Avalance","rarity":"Uncommon","number":195,"keywords":[],"flavor_text":"A little snow never hurt anyone. A big rock however","types":["Action"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Deal 1 damage to each opposing character. You may banish chosen location."}
+{
+  "artist": "Justin Gerard",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Avalance",
+  "rarity": "Uncommon",
+  "number": 195,
+  "keywords": [],
+  "flavor_text": "A little snow never hurt anyone. A big rock however",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Deal 1 damage to each opposing character. You may banish chosen location."
+}

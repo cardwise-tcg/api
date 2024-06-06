@@ -1,1 +1,27 @@
-{"artist":"Hedvig H?ggman-Sund","ink":"Amethyst","ink_cost":4,"inkable":true,"name":"The Firebird","rarity":"Common","number":56,"keywords":[],"flavor_text":"It rages through the forest,\nWings spread wide with flame\nSpring sings its ancient chorus\nAnd green renews its claim","classifications":["Dreamborn","Villain"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Force of Destruction","willpower":2,"strength":6,"lore":1}
+{
+  "artist": "Hedvig H?ggman-Sund",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "The Firebird",
+  "rarity": "Common",
+  "number": 56,
+  "keywords": [],
+  "flavor_text": "It rages through the forest,\nWings spread wide with flame\nSpring sings its ancient chorus\nAnd green renews its claim",
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Force of Destruction",
+  "willpower": 2,
+  "strength": 6,
+  "lore": 1
+}

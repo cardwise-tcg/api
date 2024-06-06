@@ -1,1 +1,20 @@
-{"artist":"Luigi Aim?","ink":"Steel","ink_cost":3,"inkable":false,"name":"RLS Legacy's Cannon","rarity":"Rare","number":202,"keywords":[],"flavor_text":"\"So help me, I'll use the ship's cannons to blast ya all to the kingdom come!\"\n -John Silver","types":["Item"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"BA-BOOM!: {e}, 2{i}, Discard a card - Deal 2 damage to chosen character or location."}
+{
+  "artist": "Luigi Aim?",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "RLS Legacy's Cannon",
+  "rarity": "Rare",
+  "number": 202,
+  "keywords": [],
+  "flavor_text": "\"So help me, I'll use the ship's cannons to blast ya all to the kingdom come!\"\n -John Silver",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "BA-BOOM!: {e}, 2{i}, Discard a card - Deal 2 damage to chosen character or location."
+}

@@ -1,1 +1,30 @@
-{"artist":"Kasia Brzezinska","ink":"Steel","ink_cost":3,"inkable":true,"name":"Helga Sinclair","rarity":"Common","number":175,"keywords":["Challenger"],"flavor_text":"\"That was an order, not a suggestion. Let's Go!\"","classifications":["Storyborn","Villain"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Right-Hand Woman","willpower":4,"strength":2,"lore":1,"text":"Challenger +2 (While challenging, this character gets +2{s}.)"}
+{
+  "artist": "Kasia Brzezinska",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Helga Sinclair",
+  "rarity": "Common",
+  "number": 175,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "\"That was an order, not a suggestion. Let's Go!\"",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Right-Hand Woman",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Challenger +2 (While challenging, this character gets +2{s}.)"
+}

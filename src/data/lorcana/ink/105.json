@@ -1,1 +1,31 @@
-{"artist":"Simone Buonfantino","ink":"Ruby","ink_cost":5,"inkable":true,"name":"Captain Hook","rarity":"Rare","number":105,"keywords":["Evasive"],"classifications":["Dreamborn","Villain","Pirate","Captain"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Master Swordsman","willpower":4,"strength":5,"lore":1,"text":"Nemesis - During your turn, whenever this character banishes another character in a challenge, ready this character. He can't quest for the rest of this turn.\n\nMan-To-Man - Characters named Peter Pan lose Evasive and can't gain Evasive."}
+{
+  "artist": "Simone Buonfantino",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Captain Hook",
+  "rarity": "Rare",
+  "number": 105,
+  "keywords": [
+    "Evasive"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Pirate",
+    "Captain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Master Swordsman",
+  "willpower": 4,
+  "strength": 5,
+  "lore": 1,
+  "text": "Nemesis - During your turn, whenever this character banishes another character in a challenge, ready this character. He can't quest for the rest of this turn.\n\nMan-To-Man - Characters named Peter Pan lose Evasive and can't gain Evasive."
+}

@@ -1,1 +1,29 @@
-{"artist":"Dylan Bonner","ink":"Steel","ink_cost":3,"inkable":true,"name":"Ariel","rarity":"Common","number":174,"keywords":[],"flavor_text":"Everything she's ever wanted is almost in reach","classifications":["Storyborn","Hero","Princess"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Determined Mermaid","willpower":4,"strength":2,"lore":1,"text":"I Want More: Whenever you play a song, you may draw a card, then choose and discard a card."}
+{
+  "artist": "Dylan Bonner",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Ariel",
+  "rarity": "Common",
+  "number": 174,
+  "keywords": [],
+  "flavor_text": "Everything she's ever wanted is almost in reach",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Determined Mermaid",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "I Want More: Whenever you play a song, you may draw a card, then choose and discard a card."
+}

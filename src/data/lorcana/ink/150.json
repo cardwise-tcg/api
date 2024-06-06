@@ -1,1 +1,28 @@
-{"artist":"Jenna Gray","ink":"Sapphire","ink_cost":5,"inkable":true,"name":"Maid Marian","rarity":"Common","number":150,"keywords":[],"flavor_text":"She makes every space more beautiful.","classifications":["Storyborn","Princess"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Delightful Dreamer","willpower":4,"strength":4,"lore":2,"text":"Highborn Lady - When you play this character, chosen character gets -2{p} this turn."}
+{
+  "artist": "Jenna Gray",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Maid Marian",
+  "rarity": "Common",
+  "number": 150,
+  "keywords": [],
+  "flavor_text": "She makes every space more beautiful.",
+  "classifications": [
+    "Storyborn",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Delightful Dreamer",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 2,
+  "text": "Highborn Lady - When you play this character, chosen character gets -2{p} this turn."
+}

@@ -1,1 +1,21 @@
-{"artist":"Peter Brockhammer","ink":"Ruby","ink_cost":3,"inkable":true,"name":"Maui's Fish Hook","rarity":"Rare","number":132,"keywords":["Evasive"],"types":["Item"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"It's Maui Time! - If you have a character named Maui in play, you may use this item's Shapeshift ability for free.\n\nShapeshift - {e}, 2{i}: Choose one:\n- Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)\n- Chosen character gets +3{p} this turn."}
+{
+  "artist": "Peter Brockhammer",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Maui's Fish Hook",
+  "rarity": "Rare",
+  "number": 132,
+  "keywords": [
+    "Evasive"
+  ],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "It's Maui Time! - If you have a character named Maui in play, you may use this item's Shapeshift ability for free.\n\nShapeshift - {e}, 2{i}: Choose one:\n- Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)\n- Chosen character gets +3{p} this turn."
+}

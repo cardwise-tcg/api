@@ -1,1 +1,20 @@
-{"artist":"Roberto Gatto","ink":"Ruby","ink_cost":3,"inkable":false,"name":"The Plank","rarity":"Common","number":133,"keywords":[],"flavor_text":"It's a once-in-a-lifetime view.","types":["Item"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Walk!: 2{i}, Banish this item - Choose one:\n• Banish chosen Hero character.\n• Ready chosen Villain character. They can't quest for the rest of this turn."}
+{
+  "artist": "Roberto Gatto",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "The Plank",
+  "rarity": "Common",
+  "number": 133,
+  "keywords": [],
+  "flavor_text": "It's a once-in-a-lifetime view.",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Walk!: 2{i}, Banish this item - Choose one:\n• Banish chosen Hero character.\n• Ready chosen Villain character. They can't quest for the rest of this turn."
+}

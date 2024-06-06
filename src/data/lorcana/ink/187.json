@@ -1,1 +1,28 @@
-{"artist":"Eva Widermann","ink":"Steel","ink_cost":5,"inkable":true,"name":"Pyros","rarity":"Rare","number":187,"keywords":[],"flavor_text":"\"Melt Zeus!\"","classifications":["Storyborn","Titan"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Lava Titan","willpower":4,"strength":5,"lore":1,"text":"Eruption - During your turn, whenever this character banishes another character in a challenge, you may ready chosen character."}
+{
+  "artist": "Eva Widermann",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Pyros",
+  "rarity": "Rare",
+  "number": 187,
+  "keywords": [],
+  "flavor_text": "\"Melt Zeus!\"",
+  "classifications": [
+    "Storyborn",
+    "Titan"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Lava Titan",
+  "willpower": 4,
+  "strength": 5,
+  "lore": 1,
+  "text": "Eruption - During your turn, whenever this character banishes another character in a challenge, you may ready chosen character."
+}

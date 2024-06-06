@@ -1,1 +1,22 @@
-{"artist":"Eri Welli / Sam Burley","ink":"Amethyst","ink_cost":3,"inkable":false,"name":"Ursula's Lair","rarity":"Rare","number":68,"keywords":[],"types":["Location"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Eye of the Storm","lore":1,"move_cost":2,"text":"Slippery Halls - Whenever a character is banished in a challenge while here, you may return them to your hand.\nSeat of Power - Characters named Ursula get +1{l} while here."}
+{
+  "artist": "Eri Welli / Sam Burley",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Ursula's Lair",
+  "rarity": "Rare",
+  "number": 68,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Eye of the Storm",
+  "lore": 1,
+  "move_cost": 2,
+  "text": "Slippery Halls - Whenever a character is banished in a challenge while here, you may return them to your hand.\nSeat of Power - Characters named Ursula get +1{l} while here."
+}
