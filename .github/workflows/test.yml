@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 20
-      - uses: actions/checkout@v2
+      - name: Install Dependencies
         run: npm install
       - name: Run All Node.js Tests
         run: npm run test
