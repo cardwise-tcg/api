@@ -1,1 +1,32 @@
-{"artist":"Grace Tran","ink":"Emerald","ink_cost":5,"inkable":true,"name":"Stitch","rarity":"Rare","number":89,"keywords":["Evasive","Ward"],"flavor_text":"For such a flashy dresser, he sure is hard to spot.","classifications":["Dreamborn","Hero","Alien"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Covert Agent","willpower":3,"strength":3,"lore":2,"text":"Evasive (Only characters with Evasive can challenge this character.)\n\nHide - While this character is at a location, he gains Ward. (Opponents can't choose them except to challenge.)"}
+{
+  "artist": "Grace Tran",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Stitch",
+  "rarity": "Rare",
+  "number": 89,
+  "keywords": [
+    "Evasive",
+    "Ward"
+  ],
+  "flavor_text": "For such a flashy dresser, he sure is hard to spot.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Alien"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Covert Agent",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\n\nHide - While this character is at a location, he gains Ward. (Opponents can't choose them except to challenge.)"
+}

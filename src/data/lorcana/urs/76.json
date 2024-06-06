@@ -1,1 +1,31 @@
-{"artist":"Raquel Villanueva","ink":"Emerald","ink_cost":3,"inkable":true,"name":"Hera","rarity":"Rare","number":76,"keywords":["Evasive","Ward"],"classifications":["Storyborn","Queen","Deity"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Queen of the Gods","willpower":3,"strength":1,"lore":2,"text":"Ward (Opponents can't choose this character except to challenge.)\nProtective Goddess - Your characters named Zeus gain Ward.\nYou're a True Hero - Your characters named Hercules gain Evasive. (Only characters with Evasive can challenge them.)"}
+{
+  "artist": "Raquel Villanueva",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Hera",
+  "rarity": "Rare",
+  "number": 76,
+  "keywords": [
+    "Evasive",
+    "Ward"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Queen",
+    "Deity"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Queen of the Gods",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 2,
+  "text": "Ward (Opponents can't choose this character except to challenge.)\nProtective Goddess - Your characters named Zeus gain Ward.\nYou're a True Hero - Your characters named Hercules gain Evasive. (Only characters with Evasive can challenge them.)"
+}

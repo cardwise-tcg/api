@@ -1,1 +1,30 @@
-{"artist":"Valentin Palombo","ink":"Sapphire","ink_cost":1,"inkable":true,"name":"Kit Cloudkicker","rarity":"Common","number":148,"keywords":["Ward"],"flavor_text":"Thrilled to have his airfoil back, he launched into the Inklands.","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Spunky Bear Cub","willpower":1,"strength":0,"lore":1,"text":"Ward (Opponents can't choose this character except to challenge.)"}
+{
+  "artist": "Valentin Palombo",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Kit Cloudkicker",
+  "rarity": "Common",
+  "number": 148,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "Thrilled to have his airfoil back, he launched into the Inklands.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Spunky Bear Cub",
+  "willpower": 1,
+  "strength": 0,
+  "lore": 1,
+  "text": "Ward (Opponents can't choose this character except to challenge.)"
+}

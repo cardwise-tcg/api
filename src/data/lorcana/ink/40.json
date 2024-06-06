@@ -1,1 +1,30 @@
-{"artist":"Giulia Riva","ink":"Amethyst","ink_cost":3,"inkable":true,"name":"Iago","rarity":"Common","number":40,"keywords":["Evasive"],"flavor_text":"\"Your majesty certainly has a way with dumb animals.\"\n-Jafar","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Pretty Polly","willpower":2,"strength":3,"lore":1,"text":"Evasive (Only characters with Evasive can challenge this character.)"}
+{
+  "artist": "Giulia Riva",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Iago",
+  "rarity": "Common",
+  "number": 40,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"Your majesty certainly has a way with dumb animals.\"\n-Jafar",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Pretty Polly",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 1,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)"
+}

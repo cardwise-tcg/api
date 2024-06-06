@@ -1,1 +1,28 @@
-{"artist":"Carlos Luzzi","ink":"Emerald","ink_cost":2,"inkable":false,"name":"Pete","rarity":"Super Rare","number":85,"keywords":[],"classifications":["Dreamborn","Villain","Musketeer"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Born to Cheat","willpower":3,"strength":2,"lore":1,"text":"I Clobber You! - Whenever this character quests while he has 5{s} or more, return chosen character with 2{s} or less to their player's hand."}
+{
+  "artist": "Carlos Luzzi",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Pete",
+  "rarity": "Super Rare",
+  "number": 85,
+  "keywords": [],
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Musketeer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Born to Cheat",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "I Clobber You! - Whenever this character quests while he has 5{s} or more, return chosen character with 2{s} or less to their player's hand."
+}

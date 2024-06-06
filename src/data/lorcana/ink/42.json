@@ -1,1 +1,31 @@
-{"artist":"Nicola Saviori","ink":"Amethyst","ink_cost":7,"inkable":true,"name":"Jafar","rarity":"Legendary","number":42,"keywords":["Evasive","Shift"],"classifications":["Floodborn","Villain","Sorcerer"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Striking Illusionist","willpower":5,"strength":4,"lore":1,"text":"Shift 5 (You may pay 5{i} to play this on top of one of your characters named Jafar.)\n\nEvasive (Only characters with Evasive can challenge this character.)\n\nPower Beyond Measure - During your turn, while this character is exerted, whenever you draw a card, gain 1 lore."}
+{
+  "artist": "Nicola Saviori",
+  "ink": "Amethyst",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Jafar",
+  "rarity": "Legendary",
+  "number": 42,
+  "keywords": [
+    "Evasive",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Striking Illusionist",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 1,
+  "text": "Shift 5 (You may pay 5{i} to play this on top of one of your characters named Jafar.)\n\nEvasive (Only characters with Evasive can challenge this character.)\n\nPower Beyond Measure - During your turn, while this character is exerted, whenever you draw a card, gain 1 lore."
+}

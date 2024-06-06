@@ -1,1 +1,27 @@
-{"artist":"Justin Runfola","ink":"Ruby","ink_cost":6,"inkable":true,"name":"Nessus","rarity":"Uncommon","number":118,"keywords":[],"flavor_text":"He sent the eels away when they came with the sea witch's offer. He didn't need her help making trouble.","classifications":["Storyborn","Villain"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"River guardian","willpower":5,"strength":7,"lore":2}
+{
+  "artist": "Justin Runfola",
+  "ink": "Ruby",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Nessus",
+  "rarity": "Uncommon",
+  "number": 118,
+  "keywords": [],
+  "flavor_text": "He sent the eels away when they came with the sea witch's offer. He didn't need her help making trouble.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "River guardian",
+  "willpower": 5,
+  "strength": 7,
+  "lore": 2
+}

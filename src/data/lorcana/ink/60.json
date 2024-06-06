@@ -1,1 +1,20 @@
-{"artist":"Dylan Bonner","ink":"Amethyst","ink_cost":1,"inkable":true,"name":"Bestow A Gift","rarity":"Common","number":60,"keywords":[],"flavor_text":"\"From magic ink I call this gift.\nFly my minion, thy wings be swift!\"\n-Maleficent","types":["Action"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"Move 1 damage counter from chosen character to chosen opposing character."}
+{
+  "artist": "Dylan Bonner",
+  "ink": "Amethyst",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Bestow A Gift",
+  "rarity": "Common",
+  "number": 60,
+  "keywords": [],
+  "flavor_text": "\"From magic ink I call this gift.\nFly my minion, thy wings be swift!\"\n-Maleficent",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Move 1 damage counter from chosen character to chosen opposing character."
+}

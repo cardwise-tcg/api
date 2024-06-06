@@ -1,1 +1,21 @@
-{"artist":"Rachel Elese","ink":"Sapphire","ink_cost":2,"inkable":true,"name":"Seldom All They Seem","rarity":"Common","number":164,"keywords":[],"flavor_text":"I know you\nI walked with you once upon a dream","types":["Action","Song"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"(A character with cost 2 or more can {e} to sing this song for free.)\nChosen character gets -3 {s} this turn."}
+{
+  "artist": "Rachel Elese",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Seldom All They Seem",
+  "rarity": "Common",
+  "number": 164,
+  "keywords": [],
+  "flavor_text": "I know you\nI walked with you once upon a dream",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "(A character with cost 2 or more can {e} to sing this song for free.)\nChosen character gets -3 {s} this turn."
+}

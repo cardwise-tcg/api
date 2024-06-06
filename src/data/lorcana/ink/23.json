@@ -1,1 +1,27 @@
-{"artist":"Aubrey Archer","ink":"Amber","ink_cost":2,"inkable":true,"name":"Wendy Darling","rarity":"Uncommon","number":23,"keywords":[],"flavor_text":"With Tink's upgrades in place, Wendy took them to the skies to find the missing mermaid.","classifications":["Dreamborn","Hero"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Talented Sailor","willpower":3,"strength":1,"lore":2}
+{
+  "artist": "Aubrey Archer",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Wendy Darling",
+  "rarity": "Uncommon",
+  "number": 23,
+  "keywords": [],
+  "flavor_text": "With Tink's upgrades in place, Wendy took them to the skies to find the missing mermaid.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Talented Sailor",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 2
+}

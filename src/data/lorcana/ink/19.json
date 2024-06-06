@@ -1,1 +1,28 @@
-{"artist":"Grace Tran","ink":"Amber","ink_cost":3,"inkable":true,"name":"Pongo","rarity":"Super Rare","number":19,"keywords":[],"flavor_text":"\"We'll find our way. I know we will!\"","classifications":["Storyborn","Hero"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Determined Father","willpower":2,"strength":3,"lore":1,"text":"Twilight Bark - Once per turn, you may pay 2{i} to reveal the top card of your deck. If it's a character card, put it into your hand. Otherwise, Put it on the bottom of your deck."}
+{
+  "artist": "Grace Tran",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Pongo",
+  "rarity": "Super Rare",
+  "number": 19,
+  "keywords": [],
+  "flavor_text": "\"We'll find our way. I know we will!\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Determined Father",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 1,
+  "text": "Twilight Bark - Once per turn, you may pay 2{i} to reveal the top card of your deck. If it's a character card, put it into your hand. Otherwise, Put it on the bottom of your deck."
+}

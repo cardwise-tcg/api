@@ -1,1 +1,29 @@
-{"artist":"Maria Dresden","ink":"Sapphire","ink_cost":2,"inkable":true,"name":"Anna","rarity":"Common","number":137,"keywords":[],"flavor_text":"After talking to Olaf, Anna marched into the unexpected storm to save Kristoff.","classifications":["Dreamborn","Hero","Queen"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Braving the Storm","willpower":4,"strength":1,"lore":1,"text":"I Was Born Ready: If you have another Hero character in play, this character gets +1{l}."}
+{
+  "artist": "Maria Dresden",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Anna",
+  "rarity": "Common",
+  "number": 137,
+  "keywords": [],
+  "flavor_text": "After talking to Olaf, Anna marched into the unexpected storm to save Kristoff.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Queen"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Braving the Storm",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 1,
+  "text": "I Was Born Ready: If you have another Hero character in play, this character gets +1{l}."
+}

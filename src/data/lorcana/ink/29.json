@@ -1,1 +1,20 @@
-{"artist":"Michael \"Cookie\" Niewadomy","ink":"Amber","ink_cost":2,"inkable":true,"name":"Cleansing Rainwater","rarity":"Common","number":29,"keywords":[],"flavor_text":"Rainwater lands as stone melts and dragons fly again.","types":["Item"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"Ancient Power - Banish this item: Remove up to 2 damage from each of your characters."}
+{
+  "artist": "Michael \"Cookie\" Niewadomy",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Cleansing Rainwater",
+  "rarity": "Common",
+  "number": 29,
+  "keywords": [],
+  "flavor_text": "Rainwater lands as stone melts and dragons fly again.",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Ancient Power - Banish this item: Remove up to 2 damage from each of your characters."
+}

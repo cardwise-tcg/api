@@ -1,1 +1,30 @@
-{"artist":"Federico M. Cugliari","ink":"Sapphire","ink_cost":4,"inkable":true,"name":"Louie","rarity":"Common","number":149,"keywords":["Support"],"flavor_text":"\"Found the last one!\"","classifications":["Dreamborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Chill Nephew","willpower":4,"strength":3,"lore":2,"text":"Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)"}
+{
+  "artist": "Federico M. Cugliari",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Louie",
+  "rarity": "Common",
+  "number": 149,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "\"Found the last one!\"",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Chill Nephew",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)"
+}

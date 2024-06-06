@@ -1,1 +1,30 @@
-{"artist":"Aubrey Archer","ink":"Ruby","ink_cost":3,"inkable":true,"name":"Peter Pan","rarity":"Common","number":119,"keywords":["Rush"],"flavor_text":"With Peter, plans often meant diving headlong into danger.","classifications":["Storyborn","Hero"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Never Land Hero","willpower":3,"strength":1,"lore":2,"text":"Rush (This character can challenge the turn they're played.)\n\nOver Here, Tink - While you have a character named Tinker Bell in play, this character gets +2{p}."}
+{
+  "artist": "Aubrey Archer",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Peter Pan",
+  "rarity": "Common",
+  "number": 119,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "With Peter, plans often meant diving headlong into danger.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Never Land Hero",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 2,
+  "text": "Rush (This character can challenge the turn they're played.)\n\nOver Here, Tink - While you have a character named Tinker Bell in play, this character gets +2{p}."
+}

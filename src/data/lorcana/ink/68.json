@@ -1,1 +1,22 @@
-{"artist":"Wietse Treurniet","ink":"Amethyst","ink_cost":3,"inkable":true,"name":"The Sorcerer's Tower","rarity":"Uncommon","number":68,"keywords":[],"flavor_text":"Everything you need to make some magic.","types":["Location"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Wondrous Workspace","move_cost":2,"text":"Broom Closet - Your characters named Magic Broom may move here for free.\n\nMagical Power - Characters get +1{l} while here."}
+{
+  "artist": "Wietse Treurniet",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "The Sorcerer's Tower",
+  "rarity": "Uncommon",
+  "number": 68,
+  "keywords": [],
+  "flavor_text": "Everything you need to make some magic.",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Wondrous Workspace",
+  "move_cost": 2,
+  "text": "Broom Closet - Your characters named Magic Broom may move here for free.\n\nMagical Power - Characters get +1{l} while here."
+}

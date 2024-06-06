@@ -1,1 +1,21 @@
-{"artist":"Luis Huerta","ink":"Amethyst","ink_cost":1,"inkable":true,"name":"It Calls Me","rarity":"Uncommon","number":61,"keywords":[],"flavor_text":"I am everything I've learned and more","types":["Action","Song"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"(A character with cost 1 or more can {e} to sing this song for free.)\n\nDraw a card. Then, choose up to 3 cards from chosen opponent's discard and shuffle them into their deck."}
+{
+  "artist": "Luis Huerta",
+  "ink": "Amethyst",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "It Calls Me",
+  "rarity": "Uncommon",
+  "number": 61,
+  "keywords": [],
+  "flavor_text": "I am everything I've learned and more",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "(A character with cost 1 or more can {e} to sing this song for free.)\n\nDraw a card. Then, choose up to 3 cards from chosen opponent's discard and shuffle them into their deck."
+}

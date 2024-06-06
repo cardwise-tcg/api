@@ -1,1 +1,24 @@
-{"artist":"Wietse Treurniet","ink":"Ruby","ink_cost":4,"inkable":false,"name":"RLS Legacy","rarity":"Rare","number":136,"keywords":["Evasive"],"types":["Location"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Solar Galleon","lore":2,"move_cost":3,"text":"This Is Our Ship - Characters gain Evasive while here. (Only characters with Evasive can challenge them.)\n\nHeave Together Now - If you have a character here, you pay 2{i} less to move a character of yours here."}
+{
+  "artist": "Wietse Treurniet",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "RLS Legacy",
+  "rarity": "Rare",
+  "number": 136,
+  "keywords": [
+    "Evasive"
+  ],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Solar Galleon",
+  "lore": 2,
+  "move_cost": 3,
+  "text": "This Is Our Ship - Characters gain Evasive while here. (Only characters with Evasive can challenge them.)\n\nHeave Together Now - If you have a character here, you pay 2{i} less to move a character of yours here."
+}

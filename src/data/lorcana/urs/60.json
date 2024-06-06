@@ -1,1 +1,21 @@
-{"artist":"Denny Minonne","ink":"Amethyst","ink_cost":2,"inkable":true,"name":"Poor Unfortunate Souls","rarity":"Common","number":60,"keywords":[],"flavor_text":"In pain, in need","types":["Action","Song"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"(A character with cost 2 or more can {e} to sing this song for free.)\nReturn chosen character, Item, or location with cost 2 or less to their player's hand."}
+{
+  "artist": "Denny Minonne",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Poor Unfortunate Souls",
+  "rarity": "Common",
+  "number": 60,
+  "keywords": [],
+  "flavor_text": "In pain, in need",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "(A character with cost 2 or more can {e} to sing this song for free.)\nReturn chosen character, Item, or location with cost 2 or less to their player's hand."
+}

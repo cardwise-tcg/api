@@ -1,1 +1,28 @@
-{"artist":"Ellia Horie","ink":"Amethyst","ink_cost":3,"inkable":true,"name":"Antonio Madrigal","rarity":"Uncommon","number":35,"keywords":[],"flavor_text":"\"Once upon a time, there was a casita in the mountains with a very special family. . . .\"","classifications":["Storyborn","Ally","Madrigal"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Animal Expert","willpower":4,"strength":3,"lore":1}
+{
+  "artist": "Ellia Horie",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Antonio Madrigal",
+  "rarity": "Uncommon",
+  "number": 35,
+  "keywords": [],
+  "flavor_text": "\"Once upon a time, there was a casita in the mountains with a very special family. . . .\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Animal Expert",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1
+}

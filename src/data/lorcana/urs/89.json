@@ -1,1 +1,28 @@
-{"artist":"Jon Densk / Hayley Evans","ink":"Emerald","ink_cost":1,"inkable":true,"name":"The Fates","rarity":"Common","number":89,"keywords":[],"flavor_text":"\"We know everything.\"\n-Lachesis","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Only One Eye","willpower":1,"strength":2,"lore":1,"text":"All Will Be Seen - When you play this character, look at the top card of each opponent's deck."}
+{
+  "artist": "Jon Densk / Hayley Evans",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "The Fates",
+  "rarity": "Common",
+  "number": 89,
+  "keywords": [],
+  "flavor_text": "\"We know everything.\"\n-Lachesis",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Only One Eye",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 1,
+  "text": "All Will Be Seen - When you play this character, look at the top card of each opponent's deck."
+}

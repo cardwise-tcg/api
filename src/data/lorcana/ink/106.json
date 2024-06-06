@@ -1,1 +1,29 @@
-{"artist":"Rudy Hill","ink":"Ruby","ink_cost":2,"inkable":false,"name":"Della Duck","rarity":"Common","number":106,"keywords":["Reckless"],"flavor_text":"\"I survived the moon. How tough could the flooded Inklands be?\"","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Unstoppable Mom","willpower":3,"strength":3,"text":"Reckless (This character can't quest and must challenge each turn if able.)"}
+{
+  "artist": "Rudy Hill",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Della Duck",
+  "rarity": "Common",
+  "number": 106,
+  "keywords": [
+    "Reckless"
+  ],
+  "flavor_text": "\"I survived the moon. How tough could the flooded Inklands be?\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Unstoppable Mom",
+  "willpower": 3,
+  "strength": 3,
+  "text": "Reckless (This character can't quest and must challenge each turn if able.)"
+}

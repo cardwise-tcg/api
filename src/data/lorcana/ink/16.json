@@ -1,1 +1,30 @@
-{"artist":"Grace Tran","ink":"Amber","ink_cost":2,"inkable":true,"name":"Piglet","rarity":"Super Rare","number":16,"keywords":[],"flavor_text":"\"Ahoy! There's lore out there, and I'm g-gonna find it!\"","classifications":["Dreamborn","Hero","Pirate","Captain"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Pooh Pirate Captain","willpower":2,"strength":2,"lore":1,"text":"And I'm The Captain! - While you have 2 or more other characters in play, this character gets +2{l}."}
+{
+  "artist": "Grace Tran",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Piglet",
+  "rarity": "Super Rare",
+  "number": 16,
+  "keywords": [],
+  "flavor_text": "\"Ahoy! There's lore out there, and I'm g-gonna find it!\"",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Pirate",
+    "Captain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Pooh Pirate Captain",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "And I'm The Captain! - While you have 2 or more other characters in play, this character gets +2{l}."
+}

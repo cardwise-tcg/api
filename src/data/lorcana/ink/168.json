@@ -1,1 +1,22 @@
-{"artist":"Alex Shin","ink":"Sapphire","ink_cost":1,"inkable":true,"name":"Belle's House","rarity":"Rare","number":168,"keywords":[],"flavor_text":"Some of the most important tools in Lorcana are crafted here.","types":["Location"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Maurice's Workshop","move_cost":2,"text":"Laboratory - If you have a character here, you pay 1{i} less to play items."}
+{
+  "artist": "Alex Shin",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Belle's House",
+  "rarity": "Rare",
+  "number": 168,
+  "keywords": [],
+  "flavor_text": "Some of the most important tools in Lorcana are crafted here.",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Maurice's Workshop",
+  "move_cost": 2,
+  "text": "Laboratory - If you have a character here, you pay 1{i} less to play items."
+}

@@ -1,1 +1,30 @@
-{"artist":"Linh Dang","ink":"Amber","ink_cost":3,"inkable":true,"name":"Prince Eric","rarity":"Common","number":21,"keywords":["Bodyguard"],"classifications":["Dreamborn","Hero","Prince"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Seafaring Prince","willpower":3,"strength":3,"lore":1,"text":"Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"}
+{
+  "artist": "Linh Dang",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Prince Eric",
+  "rarity": "Common",
+  "number": 21,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Seafaring Prince",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+}

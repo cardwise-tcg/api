@@ -1,1 +1,29 @@
-{"artist":"Angelina Ricardo","ink":"Amethyst","ink_cost":3,"inkable":true,"name":"Belle","rarity":"Common","number":37,"keywords":[],"flavor_text":"No matter what she tried, Belle couldn't completely heal Beast's wound.","classifications":["Dreamborn","Hero","Princess"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Untrained Mystic","willpower":3,"strength":3,"lore":1,"text":"Here Now, Don't Do That - When you play this character, move up to 1 damage counter from chosen character to chosen opposing character."}
+{
+  "artist": "Angelina Ricardo",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Belle",
+  "rarity": "Common",
+  "number": 37,
+  "keywords": [],
+  "flavor_text": "No matter what she tried, Belle couldn't completely heal Beast's wound.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Untrained Mystic",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Here Now, Don't Do That - When you play this character, move up to 1 damage counter from chosen character to chosen opposing character."
+}

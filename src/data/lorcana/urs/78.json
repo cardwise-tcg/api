@@ -1,1 +1,28 @@
-{"artist":"Alice Pisoni","ink":"Emerald","ink_cost":5,"inkable":false,"name":"Jasmine","rarity":"Rare","number":78,"keywords":[],"classifications":["Dreamborn","Hero","Princess"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Desert Warrior","willpower":3,"strength":3,"lore":2,"text":"Cunning Maneuver - When you play this character and whenever she's challenged, each opponent chooses and discards a card."}
+{
+  "artist": "Alice Pisoni",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Jasmine",
+  "rarity": "Rare",
+  "number": 78,
+  "keywords": [],
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Desert Warrior",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "text": "Cunning Maneuver - When you play this character and whenever she's challenged, each opponent chooses and discards a card."
+}

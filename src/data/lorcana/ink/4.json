@@ -1,1 +1,28 @@
-{"artist":"Kapik","ink":"Amber","ink_cost":2,"inkable":true,"name":"Dalmatian Puppy","rarity":"Common","number":4,"keywords":[],"flavor_text":"First they steal your heart. Then they steal your chair.","classifications":["Storyborn","Puppy"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Tail Wagger","willpower":3,"strength":2,"lore":1,"text":"Where Did They All Come From? - You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."}
+{
+  "artist": "Kapik",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Dalmatian Puppy",
+  "rarity": "Common",
+  "number": 4,
+  "keywords": [],
+  "flavor_text": "First they steal your heart. Then they steal your chair.",
+  "classifications": [
+    "Storyborn",
+    "Puppy"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Tail Wagger",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Where Did They All Come From? - You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+}

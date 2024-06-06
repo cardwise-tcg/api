@@ -1,1 +1,29 @@
-{"artist":"Filipe Laurentino","ink":"Amber","ink_cost":4,"inkable":true,"name":"Mickey Mouse","rarity":"Uncommon","number":15,"keywords":["Support"],"classifications":["Storyborn","Hero"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Leader of the Band","willpower":5,"strength":2,"lore":1,"text":"Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)\nStrike Up the Music - When you play this character, chosen character gains Support this turn."}
+{
+  "artist": "Filipe Laurentino",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Mickey Mouse",
+  "rarity": "Uncommon",
+  "number": 15,
+  "keywords": [
+    "Support"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Leader of the Band",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 1,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)\nStrike Up the Music - When you play this character, chosen character gains Support this turn."
+}

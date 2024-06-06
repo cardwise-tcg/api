@@ -1,1 +1,20 @@
-{"artist":"Agnes Christianson","ink":"Amber","ink_cost":5,"inkable":false,"name":"99 Puppies","rarity":"Uncommon","number":24,"keywords":[],"flavor_text":"\"Two, four, six, plus three is nine, plus two is 11 . . .\"\n-Roger","types":["Action"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"Whenever one of your characters quests this turn, gain 1 lore."}
+{
+  "artist": "Agnes Christianson",
+  "ink": "Amber",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "99 Puppies",
+  "rarity": "Uncommon",
+  "number": 24,
+  "keywords": [],
+  "flavor_text": "\"Two, four, six, plus three is nine, plus two is 11 . . .\"\n-Roger",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Whenever one of your characters quests this turn, gain 1 lore."
+}

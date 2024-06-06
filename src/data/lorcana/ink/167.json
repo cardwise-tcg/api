@@ -1,1 +1,22 @@
-{"artist":"Nicolas Ky","ink":"Sapphire","ink_cost":4,"inkable":true,"name":"Vault Door","rarity":"Common","number":167,"keywords":["Resist"],"flavor_text":"Only Scrooge knows about this vault. And he's going to keep it that way.","types":["Item"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"Sealed Away - Your locations and characters at locations gain Resist +1. (Damage dealt to them is reduced by 1.)"}
+{
+  "artist": "Nicolas Ky",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Vault Door",
+  "rarity": "Common",
+  "number": 167,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "Only Scrooge knows about this vault. And he's going to keep it that way.",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Sealed Away - Your locations and characters at locations gain Resist +1. (Damage dealt to them is reduced by 1.)"
+}

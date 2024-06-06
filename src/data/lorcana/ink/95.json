@@ -1,1 +1,21 @@
-{"artist":"Carmine Pucci","ink":"Emerald","ink_cost":1,"inkable":true,"name":"I Will Find My Way","rarity":"Common","number":95,"keywords":[],"flavor_text":"I would go most anywhere\nTo feel like I belong","types":["Action","Song"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"(A character with cost X or more can {e} to sing this song for free.)\n\nChosen character of yours gets +2{p} this turn. They may move to a location for free."}
+{
+  "artist": "Carmine Pucci",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "I Will Find My Way",
+  "rarity": "Common",
+  "number": 95,
+  "keywords": [],
+  "flavor_text": "I would go most anywhere\nTo feel like I belong",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "(A character with cost X or more can {e} to sing this song for free.)\n\nChosen character of yours gets +2{p} this turn. They may move to a location for free."
+}

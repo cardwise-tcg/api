@@ -1,1 +1,32 @@
-{"artist":"Luis Huerta","ink":"Emerald","ink_cost":5,"inkable":true,"name":"Don Karnage","rarity":"Common","number":71,"keywords":["Evasive"],"flavor_text":"\"You didn't expect to find me here, did you? Well neither did I.\"","classifications":["Dreamborn","Villain","Prince","Pirate"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Prince of Pirates","willpower":4,"strength":4,"lore":2,"text":"Evasive (Only characters with Evasive can challenge this character.)"}
+{
+  "artist": "Luis Huerta",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Don Karnage",
+  "rarity": "Common",
+  "number": 71,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"You didn't expect to find me here, did you? Well neither did I.\"",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Prince",
+    "Pirate"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Prince of Pirates",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 2,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)"
+}

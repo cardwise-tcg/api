@@ -1,1 +1,20 @@
-{"artist":"Ian Macdonald","ink":"Steel","ink_cost":10,"inkable":false,"name":"The Mob Song","rarity":"Uncommon","number":198,"keywords":[],"types":["Action","Song"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may {e} to sing this song for free.)\nDeal 3 damage to up to 3 chosen characters and/or locations."}
+{
+  "artist": "Ian Macdonald",
+  "ink": "Steel",
+  "ink_cost": 10,
+  "inkable": false,
+  "name": "The Mob Song",
+  "rarity": "Uncommon",
+  "number": 198,
+  "keywords": [],
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may {e} to sing this song for free.)\nDeal 3 damage to up to 3 chosen characters and/or locations."
+}

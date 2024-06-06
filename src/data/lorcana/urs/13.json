@@ -1,1 +1,29 @@
-{"artist":"Cristian Romero","ink":"Amber","ink_cost":3,"inkable":true,"name":"Julieta Madrigal","rarity":"Uncommon","number":13,"keywords":[],"flavor_text":"\"Eat this, mi amor.\"","classifications":["Storyborn","Mentor","Madrigal"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Excellent Cook","willpower":4,"strength":1,"lore":1,"text":"Signature Recipe - When you play this character, you may remove up to 2 damage from chosen character. If you removed damage this way, you may draw a card."}
+{
+  "artist": "Cristian Romero",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Julieta Madrigal",
+  "rarity": "Uncommon",
+  "number": 13,
+  "keywords": [],
+  "flavor_text": "\"Eat this, mi amor.\"",
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "Madrigal"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Excellent Cook",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 1,
+  "text": "Signature Recipe - When you play this character, you may remove up to 2 damage from chosen character. If you removed damage this way, you may draw a card."
+}

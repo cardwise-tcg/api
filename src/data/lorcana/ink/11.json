@@ -1,1 +1,27 @@
-{"artist":"Alexandria Neonakis","ink":"Amber","ink_cost":6,"inkable":true,"name":"Mr. Snoops","rarity":"Common","number":11,"keywords":[],"flavor_text":"\"This is simple, Snoops! I want that lore! The one that shines like a diamond!\"\n-Madame Medusa","classifications":["Dreamborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Inept Businessman","willpower":8,"strength":4,"lore":2}
+{
+  "artist": "Alexandria Neonakis",
+  "ink": "Amber",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Mr. Snoops",
+  "rarity": "Common",
+  "number": 11,
+  "keywords": [],
+  "flavor_text": "\"This is simple, Snoops! I want that lore! The one that shines like a diamond!\"\n-Madame Medusa",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Inept Businessman",
+  "willpower": 8,
+  "strength": 4,
+  "lore": 2
+}

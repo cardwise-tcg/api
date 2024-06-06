@@ -1,1 +1,28 @@
-{"artist":"Carlos Ruiz","ink":"Steel","ink_cost":5,"inkable":true,"name":"Li Shang","rarity":"Uncommon","number":182,"keywords":[],"flavor_text":"Immovable as a mountain and fierce as a dragon- the Empire's finest warrior.","classifications":["Dreamborn","Hero","Captain"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Imperial Captian","willpower":5,"strength":5,"lore":2}
+{
+  "artist": "Carlos Ruiz",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Li Shang",
+  "rarity": "Uncommon",
+  "number": 182,
+  "keywords": [],
+  "flavor_text": "Immovable as a mountain and fierce as a dragon- the Empire's finest warrior.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Captain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Imperial Captian",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2
+}

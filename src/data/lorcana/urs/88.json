@@ -1,1 +1,31 @@
-{"artist":"Mike Parker","ink":"Emerald","ink_cost":4,"inkable":false,"name":"Prince Philip","rarity":"Rare","number":88,"keywords":["Ward"],"flavor_text":"He stands ready to protect his friends from any threat.","classifications":["Dreamborn","Hero","Prince"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Warden of the Woods","willpower":4,"strength":3,"lore":2,"text":"Shining Beacon. You other Hero characters gain Ward. (Opponents can't choose them except to challenge.)"}
+{
+  "artist": "Mike Parker",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Prince Philip",
+  "rarity": "Rare",
+  "number": 88,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "He stands ready to protect his friends from any threat.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Warden of the Woods",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "text": "Shining Beacon. You other Hero characters gain Ward. (Opponents can't choose them except to challenge.)"
+}

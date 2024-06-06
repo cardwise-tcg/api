@@ -1,1 +1,31 @@
-{"artist":"Nicola Saviori","ink":"Ruby","ink_cost":2,"inkable":false,"name":"Stitch","rarity":"Common","number":125,"keywords":["Rush"],"flavor_text":"\"Who thought giving him power armor was a good idea?!\"\n-Nani","classifications":["Dreamborn","Hero","Alien"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Little Rocket","willpower":1,"strength":3,"lore":1,"text":"Rush (This character can challenge the turn they're played.)"}
+{
+  "artist": "Nicola Saviori",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Stitch",
+  "rarity": "Common",
+  "number": 125,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "\"Who thought giving him power armor was a good idea?!\"\n-Nani",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Alien"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Little Rocket",
+  "willpower": 1,
+  "strength": 3,
+  "lore": 1,
+  "text": "Rush (This character can challenge the turn they're played.)"
+}

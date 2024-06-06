@@ -1,1 +1,31 @@
-{"artist":"Alan Batson","ink":"Emerald","ink_cost":2,"inkable":true,"name":"Morph","rarity":"Rare","number":81,"keywords":["Shift"],"flavor_text":"\"You jiggle-headed blob of mischief!\"\n-John Silver","classifications":["Storyborn","Ally","Alien"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Space Goo","willpower":1,"strength":2,"lore":1,"text":"Mimicry - You may play any character with Shift on this character as if this character had any name."}
+{
+  "artist": "Alan Batson",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Morph",
+  "rarity": "Rare",
+  "number": 81,
+  "keywords": [
+    "Shift"
+  ],
+  "flavor_text": "\"You jiggle-headed blob of mischief!\"\n-John Silver",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Alien"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Space Goo",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 1,
+  "text": "Mimicry - You may play any character with Shift on this character as if this character had any name."
+}

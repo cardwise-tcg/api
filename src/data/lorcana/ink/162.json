@@ -1,1 +1,20 @@
-{"artist":"Denny Minonne","ink":"Sapphire","ink_cost":2,"inkable":true,"name":"Repair","rarity":"Common","number":162,"keywords":[],"flavor_text":"\"I'm thinkin' about opening a shop here. What do you think?\"","types":["Action"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"Remove up to 3 damage from one of your locations or characters."}
+{
+  "artist": "Denny Minonne",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Repair",
+  "rarity": "Common",
+  "number": 162,
+  "keywords": [],
+  "flavor_text": "\"I'm thinkin' about opening a shop here. What do you think?\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Remove up to 3 damage from one of your locations or characters."
+}

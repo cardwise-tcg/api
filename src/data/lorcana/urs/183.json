@@ -1,1 +1,28 @@
-{"artist":"Michela Cacciatore / Giulia Priori","ink":"Steel","ink_cost":3,"inkable":true,"name":"Ling","rarity":"Uncommon","number":183,"keywords":[],"flavor_text":"A good friend is handy in a fight.","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Imperial Soldier","willpower":3,"strength":3,"lore":1,"text":"Full of Spirit: Your Hero characters get +1{s}."}
+{
+  "artist": "Michela Cacciatore / Giulia Priori",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Ling",
+  "rarity": "Uncommon",
+  "number": 183,
+  "keywords": [],
+  "flavor_text": "A good friend is handy in a fight.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Imperial Soldier",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Full of Spirit: Your Hero characters get +1{s}."
+}

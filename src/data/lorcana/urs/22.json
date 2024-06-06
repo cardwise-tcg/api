@@ -1,1 +1,31 @@
-{"artist":"Lisanne Koeteeuw","ink":"Amber","ink_cost":6,"inkable":true,"name":"Prince Eric","rarity":"Uncommon","number":22,"keywords":["Bodyguard","Shift"],"classifications":["Floodborn","Hero","Prince"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Ursula's Groom","willpower":5,"strength":5,"lore":2,"text":"Shift 4 (You may pay 4{i} to play this on top of one of your characters named Prince Eric.)\nUnder Vanessa's Spell - While you have a character named Ursula in play, this character gains Bodyguard and gets +2{w}. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"}
+{
+  "artist": "Lisanne Koeteeuw",
+  "ink": "Amber",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Prince Eric",
+  "rarity": "Uncommon",
+  "number": 22,
+  "keywords": [
+    "Bodyguard",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Ursula's Groom",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2,
+  "text": "Shift 4 (You may pay 4{i} to play this on top of one of your characters named Prince Eric.)\nUnder Vanessa's Spell - While you have a character named Ursula in play, this character gains Bodyguard and gets +2{w}. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+}

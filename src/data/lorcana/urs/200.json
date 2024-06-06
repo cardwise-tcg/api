@@ -1,1 +1,21 @@
-{"artist":"Mariana Moreno","ink":"Steel","ink_cost":1,"inkable":true,"name":"Fortisphere","rarity":"Common","number":200,"keywords":["Bodyguard"],"types":["Item"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Resourceful: When you play this item, you may draw a card.\nExtract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyguard until the start of your next turn. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"}
+{
+  "artist": "Mariana Moreno",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Fortisphere",
+  "rarity": "Common",
+  "number": 200,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Resourceful: When you play this item, you may draw a card.\nExtract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyguard until the start of your next turn. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+}

@@ -1,1 +1,27 @@
-{"artist":"Massimiliano Narciso, Marieke Ferrari","ink":"Emerald","ink_cost":1,"inkable":false,"name":"Cursed Merfolk","rarity":"Rare","number":70,"keywords":[],"flavor_text":"\"Now it's happened once or twice, someone couldn't pay the price . . .\"\n-Ursula","classifications":["Storyborn"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Ursula's Handiwork","willpower":1,"strength":0,"lore":2,"text":"Poor Souls - Whenever this character is challenged, each opponent chooses and discards a card."}
+{
+  "artist": "Massimiliano Narciso, Marieke Ferrari",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Cursed Merfolk",
+  "rarity": "Rare",
+  "number": 70,
+  "keywords": [],
+  "flavor_text": "\"Now it's happened once or twice, someone couldn't pay the price . . .\"\n-Ursula",
+  "classifications": [
+    "Storyborn"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Ursula's Handiwork",
+  "willpower": 1,
+  "strength": 0,
+  "lore": 2,
+  "text": "Poor Souls - Whenever this character is challenged, each opponent chooses and discards a card."
+}

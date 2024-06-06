@@ -1,1 +1,22 @@
-{"artist":"Elodie Mondoloni","ink":"Sapphire","ink_cost":3,"inkable":true,"name":"Winter Camp","rarity":"Common","number":170,"keywords":[],"types":["Location"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Medical Tent","lore":1,"move_cost":1,"text":"Help the Wounded: Whenever a character quests while here, remove up to 2 damage from them. If they're a Hero character, remove up to 4 damage instead."}
+{
+  "artist": "Elodie Mondoloni",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Winter Camp",
+  "rarity": "Common",
+  "number": 170,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Medical Tent",
+  "lore": 1,
+  "move_cost": 1,
+  "text": "Help the Wounded: Whenever a character quests while here, remove up to 2 damage from them. If they're a Hero character, remove up to 4 damage instead."
+}

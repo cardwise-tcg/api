@@ -1,1 +1,30 @@
-{"artist":"Rudy Hill","ink":"Sapphire","ink_cost":5,"inkable":true,"name":"Dang Hu","rarity":"Rare","number":142,"keywords":["Support"],"flavor_text":"You can find villainy in the most unexpected places.","classifications":["Storyborn","Villain"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Talon Chief","willpower":5,"strength":3,"lore":2,"text":"You Better Talk Fast: Your other Villain characters gain Support. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)"}
+{
+  "artist": "Rudy Hill",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Dang Hu",
+  "rarity": "Rare",
+  "number": 142,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "You can find villainy in the most unexpected places.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Talon Chief",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 2,
+  "text": "You Better Talk Fast: Your other Villain characters gain Support. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)"
+}

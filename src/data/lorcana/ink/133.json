@@ -1,1 +1,20 @@
-{"artist":"Adam Bunch","ink":"Ruby","ink_cost":3,"inkable":true,"name":"Sumerian Talisman","rarity":"Uncommon","number":133,"keywords":[],"flavor_text":"\"Summoned spirit from the dark\nShow thyself before this arc.\"\n-Lena Sabrewing","types":["Item"],"set":{"key":"ink","name":"Into the Inklands","number":3},"text":"Source Of Magic - During your turn, whenever one of your characters is banished in a challenge, you may draw a card."}
+{
+  "artist": "Adam Bunch",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Sumerian Talisman",
+  "rarity": "Uncommon",
+  "number": 133,
+  "keywords": [],
+  "flavor_text": "\"Summoned spirit from the dark\nShow thyself before this arc.\"\n-Lena Sabrewing",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "text": "Source Of Magic - During your turn, whenever one of your characters is banished in a challenge, you may draw a card."
+}

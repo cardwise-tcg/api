@@ -1,1 +1,20 @@
-{"artist":"Rachel Elese","ink":"Sapphire","ink_cost":8,"inkable":false,"name":"Dig a Little Deeper","rarity":"Uncommon","number":162,"keywords":[],"types":["Action","Song"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may {e} to sing this song for free.)\nLook at the top 7 cards of your deck. Put 2 into your hand. Put the rest on the bottom of your deck in any order."}
+{
+  "artist": "Rachel Elese",
+  "ink": "Sapphire",
+  "ink_cost": 8,
+  "inkable": false,
+  "name": "Dig a Little Deeper",
+  "rarity": "Uncommon",
+  "number": 162,
+  "keywords": [],
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may {e} to sing this song for free.)\nLook at the top 7 cards of your deck. Put 2 into your hand. Put the rest on the bottom of your deck in any order."
+}

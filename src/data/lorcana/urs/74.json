@@ -1,1 +1,28 @@
-{"artist":"Alan Batson","ink":"Emerald","ink_cost":4,"inkable":true,"name":"Hades","rarity":"Legendary","number":74,"keywords":[],"classifications":["Storyborn","Villain","Deity"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Double Dealer","willpower":3,"strength":3,"lore":1,"text":"Here's the Trade-Off - {e}, Banish one of your other characters: Play a character with the same name as the banished character for free."}
+{
+  "artist": "Alan Batson",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Hades",
+  "rarity": "Legendary",
+  "number": 74,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Double Dealer",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Here's the Trade-Off - {e}, Banish one of your other characters: Play a character with the same name as the banished character for free."
+}

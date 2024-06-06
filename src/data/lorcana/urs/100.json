@@ -1,1 +1,20 @@
-{"artist":"Jonas Petrauskas","ink":"Emerald","ink_cost":3,"inkable":true,"name":"Vision Slab","rarity":"Uncommon","number":100,"keywords":[],"flavor_text":"\"Tio Bruno! What's happening to him? We have to help!\"\n-Mirabel","types":["Item"],"set":{"key":"urs","name":"Ursula's Return","number":4},"text":"Danger Revealed - At the start of your turn, if an opposing character has damage, gain 1 lore.\nTrapped! Damage counters can't be removed."}
+{
+  "artist": "Jonas Petrauskas",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Vision Slab",
+  "rarity": "Uncommon",
+  "number": 100,
+  "keywords": [],
+  "flavor_text": "\"Tio Bruno! What's happening to him? We have to help!\"\n-Mirabel",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Danger Revealed - At the start of your turn, if an opposing character has damage, gain 1 lore.\nTrapped! Damage counters can't be removed."
+}

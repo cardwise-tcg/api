@@ -1,1 +1,28 @@
-{"artist":"Jiahui Eva Gao","ink":"Ruby","ink_cost":2,"inkable":true,"name":"HeiHei","rarity":"Uncommon","number":107,"keywords":[],"flavor_text":"Considering the coconut.","classifications":["Storyborn","Ally"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Accidental Explorer","willpower":2,"strength":3,"lore":1,"text":"Mindless Wandering - Once per turn, when this character moves to a location, each opponent loses 1 lore."}
+{
+  "artist": "Jiahui Eva Gao",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "HeiHei",
+  "rarity": "Uncommon",
+  "number": 107,
+  "keywords": [],
+  "flavor_text": "Considering the coconut.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Accidental Explorer",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 1,
+  "text": "Mindless Wandering - Once per turn, when this character moves to a location, each opponent loses 1 lore."
+}

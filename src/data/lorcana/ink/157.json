@@ -1,1 +1,29 @@
-{"artist":"Grace Tran","ink":"Sapphire","ink_cost":5,"inkable":true,"name":"Tinker Bell","rarity":"Super Rare","number":157,"keywords":[],"flavor_text":"She lives in a world of possibilities.","classifications":["Dreamborn","Ally","Fairy"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Very Clever Fairy","willpower":4,"strength":3,"lore":2,"text":"I Can Use That - Whenever one of your items is banished, you may put that card into your inkwell facedown and exerted."}
+{
+  "artist": "Grace Tran",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Tinker Bell",
+  "rarity": "Super Rare",
+  "number": 157,
+  "keywords": [],
+  "flavor_text": "She lives in a world of possibilities.",
+  "classifications": [
+    "Dreamborn",
+    "Ally",
+    "Fairy"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Very Clever Fairy",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "text": "I Can Use That - Whenever one of your items is banished, you may put that card into your inkwell facedown and exerted."
+}

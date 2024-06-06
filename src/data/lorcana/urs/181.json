@@ -1,1 +1,27 @@
-{"artist":"Kendall Hale","ink":"Steel","ink_cost":3,"inkable":true,"name":"Lefou","rarity":"Rare","number":181,"keywords":[],"classifications":["Dreamborn","Ally"],"types":["Character"],"set":{"key":"urs","name":"Ursula's Return","number":4},"version":"Opportunistic Flunky","willpower":3,"strength":2,"lore":1,"text":"I Learned From the Best: During your turn, you may play this character for free if an opposing character was banished in a challenge this turn."}
+{
+  "artist": "Kendall Hale",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Lefou",
+  "rarity": "Rare",
+  "number": 181,
+  "keywords": [],
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Opportunistic Flunky",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "I Learned From the Best: During your turn, you may play this character for free if an opposing character was banished in a challenge this turn."
+}

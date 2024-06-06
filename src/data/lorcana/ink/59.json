@@ -1,1 +1,29 @@
-{"artist":"John Loren","ink":"Amethyst","ink_cost":3,"inkable":false,"name":"Ursula","rarity":"Rare","number":59,"keywords":[],"flavor_text":"The secret contract has already been written","classifications":["Dreamborn","Villain","Sorcerer"],"types":["Character"],"set":{"key":"ink","name":"Into the Inklands","number":3},"version":"Sea Witch","willpower":3,"strength":3,"lore":1,"text":"You're Too Late - Whenever this character quests, chosen opposing character can't ready at the start of their next turn."}
+{
+  "artist": "John Loren",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Ursula",
+  "rarity": "Rare",
+  "number": 59,
+  "keywords": [],
+  "flavor_text": "The secret contract has already been written",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ink",
+    "name": "Into the Inklands",
+    "number": 3
+  },
+  "version": "Sea Witch",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "You're Too Late - Whenever this character quests, chosen opposing character can't ready at the start of their next turn."
+}
