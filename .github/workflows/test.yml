@@ -1,15 +1,16 @@
 name: Tests
-'on':
+
+on:
   push:
+    branches:
+      - main
   pull_request:
-    types:
-      - opened
-      - synchronize
-      - reopened
+    branches:
+      - main
 
 jobs:
   test:
-    name: 'Node.js v20'
+    name: 'Testing on Node.js v20'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-node@v1
