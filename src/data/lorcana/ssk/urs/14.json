@@ -1,0 +1,27 @@
+{
+  "artist": "Stefano Zanchi",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Max",
+  "rarity": "Common",
+  "number": 14,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Loyal Sheepdog",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 1,
+  "text": "Here Boy - If you have a character named Prince Eric in play, you play 1{i} less to play this character."
+}

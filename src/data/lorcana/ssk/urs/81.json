@@ -1,0 +1,27 @@
+{
+  "artist": "Oggy Christiansson",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Pain",
+  "rarity": "Uncommon",
+  "number": 81,
+  "keywords": [],
+  "flavor_text": "\"We totally took care of that thing you told us to do and definitely did not spend the day in Thebes ticketing chariots and stealing people's laundry.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Immortal Sidekick",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 2
+}

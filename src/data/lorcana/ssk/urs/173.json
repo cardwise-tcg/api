@@ -1,0 +1,27 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Arges",
+  "rarity": "Common",
+  "number": 173,
+  "keywords": [],
+  "flavor_text": "\"Looks like you got some big feelings there, buddy - let's stomp 'em out!\"\n -Hades",
+  "classifications": [
+    "Storyborn",
+    "Titan"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "The Cyclops",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1
+}

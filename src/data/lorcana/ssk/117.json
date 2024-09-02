@@ -1,0 +1,30 @@
+{
+  "artist": "Jiahui Eva Gao",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Taffyta Muttonfudge",
+  "rarity": "Uncommon",
+  "number": 117,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Ally",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Sour Speedster",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Shift 2 (You may pay 2{i} to play this on top of one of your characters named Taffyta Muttonfudge.)\nNew Roster: Once per turn, when this character moves to a location, gain 2 lore."
+}

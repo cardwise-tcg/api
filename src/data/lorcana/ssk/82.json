@@ -1,0 +1,25 @@
+{
+  "artist": "Justin Runfola",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Scroop",
+  "rarity": "Common",
+  "number": 82,
+  "keywords": [
+    "Evasive"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Odious Mutineer",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 2,
+  "text": "Evasive (Only characters with Evasive can\nchallenge this character.)\nDo Say Hello To Mr. Arrow: When you play this character, you may pay 3{i} to banish chosen\ndamaged character."
+}

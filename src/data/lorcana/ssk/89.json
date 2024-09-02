@@ -1,0 +1,28 @@
+{
+  "artist": "Carlos Gomes Cabral",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Mother Gothel",
+  "rarity": "Uncommon",
+  "number": 89,
+  "keywords": [],
+  "flavor_text": "\"A beautiful lady never stands meekly at the back\nof the line.\"",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Conceited Manipulator",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Mother Knows Best: When you play this\ncharacter, you may pay 3{i} to return chosen\ncharacter to their player's hand."
+}

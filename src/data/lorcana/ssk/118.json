@@ -1,0 +1,27 @@
+{
+  "artist": "Federico Maria Cugliari",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Robin Hood",
+  "rarity": "Legendary",
+  "number": 118,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Sharpshooter",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 2,
+  "text": "My Greatest Performance: Whenever this character quests, look at the top 4 cards of your deck. You my reveal an action card with cost 6 or less and play it for free. Put the rest in your discard."
+}

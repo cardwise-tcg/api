@@ -1,0 +1,28 @@
+{
+  "artist": "Raquel Villanueva",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Mickey Mouse",
+  "rarity": "Common",
+  "number": 112,
+  "keywords": [],
+  "flavor_text": "He loves to share the spotlight with a star like Minnie.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Enthusiastic Dancer",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 2,
+  "text": "Perfect Partners: While you have a character named Minnie Mouse in play, this character gets +2{s}."
+}

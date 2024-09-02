@@ -1,0 +1,22 @@
+{
+  "artist": "Jeremy Adams",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Rapunzel's Tower",
+  "rarity": "Uncommon",
+  "number": 33,
+  "keywords": [],
+  "flavor_text": "\"It's a scary world out there.\"\n-Mother Gothel",
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Secluded Prison",
+  "move_cost": 1,
+  "text": "Safe And Sound: Characters get +3{w} while here."
+}

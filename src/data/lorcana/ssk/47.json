@@ -1,0 +1,31 @@
+{
+  "artist": "Michaela Martin",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Archimedes",
+  "rarity": "Uncommon",
+  "number": 47,
+  "keywords": [
+    "Challenger",
+    "Evasive",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Electrified Owl",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 2,
+  "text": "Shift 3 (You may pay 3{i} to play this on top of one of your\ncharacters named Archimedes.)\nEvasive (Only characters with Evasive can challenge this\ncharacter.)\nChallenger +3 (While challenging, this character gets +3{s}.)"
+}

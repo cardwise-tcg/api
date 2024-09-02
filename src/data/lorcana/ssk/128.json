@@ -1,0 +1,19 @@
+{
+  "artist": "Adam Bunch",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Evil Comes Prepared",
+  "rarity": "Common",
+  "number": 128,
+  "keywords": [],
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Ready chosen character of yours. They can't quest for the rest of this turn. If a Villain character is chosen, gain 1 lore."
+}

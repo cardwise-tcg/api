@@ -1,0 +1,31 @@
+{
+  "artist": "Lava Hijzelaar / Ellie Horie",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "The Queen",
+  "rarity": "Rare",
+  "number": 148,
+  "keywords": [
+    "Ward"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Crown of the Council",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 2,
+  "text": "Ward (Opponents can't choose this character except to challenge.)\nGatherer of the Wicked: When you play this character, look at the top 3 cards of your deck. You may reveal any number of character cards named The Queen and put them into your hand. Put the rest on the bottom of your deck in any order."
+}

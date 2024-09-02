@@ -1,0 +1,29 @@
+{
+  "artist": "Josep Sole",
+  "ink": "Sapphire",
+  "ink_cost": 9,
+  "inkable": false,
+  "name": "Sheriff of Nottingham",
+  "rarity": "Super Rare",
+  "number": 145,
+  "keywords": [
+    "Support"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Bushel Britches",
+  "willpower": 9,
+  "strength": 5,
+  "lore": 4,
+  "text": "Every Little Bit Helps: For each item you have in play, you pay 1{i} less to play this character.\nSupport (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)"
+}

@@ -1,0 +1,20 @@
+{
+  "artist": "Ian MacDonald",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Glimmer VS Glimmer",
+  "rarity": "Uncommon",
+  "number": 130,
+  "keywords": [],
+  "flavor_text": "Hades: \"Listen, kid. If I'm gettin' banished back to the lorebook, you're going with me.\"\nHercules: \"We'll see about that.\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Banish chosen character of yours to banish chosen character."
+}

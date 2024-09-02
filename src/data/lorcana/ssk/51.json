@@ -1,0 +1,28 @@
+{
+  "artist": "Carlos Gones Cabral",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Maleficent",
+  "rarity": "Uncommon",
+  "number": 51,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Vexed Partygoer",
+  "willpower": 4,
+  "strength": 0,
+  "lore": 2,
+  "text": "What An Awkward Situation: Whenever this\ncharacter quests, you may choose and discard a\ncard to return chosen character, item, or location\nwith cost 3 or less to their player's hand."
+}

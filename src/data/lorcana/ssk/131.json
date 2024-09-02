@@ -1,0 +1,22 @@
+{
+  "artist": "Denny Minonne",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Who's With Me?",
+  "rarity": "Super Rare",
+  "number": 131,
+  "keywords": [
+    "Reckless"
+  ],
+  "flavor_text": "\"Don't forget, the purple unicorn is mine!\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Your characters get +2{s} this turn.\nWhenever one of your characters with Reckless challenges another character this turn, gain 2 lore."
+}

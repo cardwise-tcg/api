@@ -1,0 +1,30 @@
+{
+  "artist": "French Carlomagno",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Belle",
+  "rarity": "Rare",
+  "number": 158,
+  "keywords": [
+    "Ward"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Of the Ball",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 2,
+  "text": "Ward (Opponents can't choose this character except to challenge.)\nUshered into the Party: When you play this character, your other characters gain Ward until the start of your next turn."
+}

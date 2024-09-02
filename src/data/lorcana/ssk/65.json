@@ -1,0 +1,20 @@
+{
+  "artist": "Billy Wimblett",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Half Hexwell Crown",
+  "rarity": "Rare",
+  "number": 65,
+  "keywords": [],
+  "flavor_text": "The broken crown holds dark and mysterious powers.",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "An unexpected Find: {e}, 2{i} - Draw a card.\nA Perilous Power: {e}, 2{i}, Discard a card - Exert\nchosen character."
+}

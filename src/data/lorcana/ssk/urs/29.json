@@ -1,0 +1,21 @@
+{
+  "artist": "Ellie Horie",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Lost in the Woods",
+  "rarity": "Uncommon",
+  "number": 29,
+  "keywords": [],
+  "flavor_text": "I'm left behind, wondering if I should follow.",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "(A character with cost X or more can {e} to sing this song for free.)\nAll opposing characters get -2{s} until the start of your next turn."
+}

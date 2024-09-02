@@ -1,0 +1,29 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Dopey",
+  "rarity": "Common",
+  "number": 181,
+  "keywords": [],
+  "classifications": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Knight Apprentice",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Stronger Together: When you play this character, if you have another Knight character in play, you may deal 1 damage to chosen character or location."
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Rianti Hidayat",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Pete",
+  "rarity": "Rare",
+  "number": 187,
+  "keywords": [],
+  "flavor_text": "He'll have you seeing double.",
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Wrestling Champ",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Re-Pete: {e} - Reveal the top card of your deck. If it's a character card named Pete, you may play it for free."
+}

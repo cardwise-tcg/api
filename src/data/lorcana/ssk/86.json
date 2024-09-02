@@ -1,0 +1,27 @@
+{
+  "artist": "Kenneth Anderson",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Clarabelle",
+  "rarity": "Common",
+  "number": 86,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Clumsy Guest",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "text": "Butterfingers: When you play this character,\nyou may pay 2{i}  to banish chosen item."
+}

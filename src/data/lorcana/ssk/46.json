@@ -1,0 +1,31 @@
+{
+  "artist": "Jackie Droujko",
+  "ink": "Amethyst",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Anna",
+  "rarity": "Rare",
+  "number": 46,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Mystical Majesty",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 2,
+  "text": "Shift 4 (You may pay 4{i} to play this on top of\none of your characters named Anna.)\nExceptional Power: When you play this\ncharacter, exert all opposing characters."
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Eva Widermann",
+  "ink": "Amethyst",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Magic Broom",
+  "rarity": "Common",
+  "number": 48,
+  "keywords": [],
+  "flavor_text": "Just a few barnacles away from retirement . . .",
+  "classifications": [
+    "Dreamborn",
+    "Broom"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Illuminary Keeper",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "text": "Nice and Tidy - Whenever you play another character, you may banish this character to draw a card."
+}

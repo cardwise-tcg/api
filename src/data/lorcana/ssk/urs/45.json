@@ -1,0 +1,30 @@
+{
+  "artist": "Otto Paredes",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Isabela Madrigal",
+  "rarity": "Rare",
+  "number": 45,
+  "keywords": [
+    "Evasive"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Golden Child",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\nLadies First - During your turn, if no other character has quested this turn, this character gets +3{l}.\nLeave it to me - Whenever this character quests, your other characters can't quest for the rest of this turn."
+}

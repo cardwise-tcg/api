@@ -1,0 +1,31 @@
+{
+  "artist": "Juan Diego Leon",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Turbo",
+  "rarity": "Uncommon",
+  "number": 106,
+  "keywords": [
+    "Rush",
+    "Shift"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Royal Hack",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Rush (This character can challenge the turn they're played.)\nGame Jump: This character also counts as being named King Candy for Shift."
+}

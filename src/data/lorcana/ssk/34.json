@@ -1,0 +1,22 @@
+{
+  "artist": "Matthew Oates",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Pride Lands",
+  "rarity": "Rare",
+  "number": 34,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Jungle Oasis",
+  "lore": 1,
+  "move_cost": 2,
+  "text": "Our Humble Home: While you have 3 or more characters here, you may\nbanish this location to play a character from your discard for free."
+}

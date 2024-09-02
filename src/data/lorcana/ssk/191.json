@@ -1,0 +1,31 @@
+{
+  "artist": "Mariana Moreno",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Happy",
+  "rarity": "Common",
+  "number": 191,
+  "keywords": [
+    "Evasive"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Lively Knight",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 1,
+  "text": "Burst of Speed: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)"
+}

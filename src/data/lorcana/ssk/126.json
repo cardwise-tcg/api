@@ -1,0 +1,28 @@
+{
+  "artist": "Raquel Villanueva",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Minnie Mouse",
+  "rarity": "Uncommon",
+  "number": 126,
+  "keywords": [],
+  "flavor_text": "She doesn't seek the spotlight-the spotlight seeks her.",
+  "classifications": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Dazzling Dancer",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Dance-Off: Whenever this character or one of your characters named Mickey Mouse challenges another character, gain 1 lore."
+}

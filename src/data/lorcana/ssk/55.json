@@ -1,0 +1,31 @@
+{
+  "artist": "Giulia Riva",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Rafiki",
+  "rarity": "Rare",
+  "number": 55,
+  "keywords": [
+    "Challenger",
+    "Rush"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "Sorcerer "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Shaman Duelist",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 2,
+  "text": "Rush (This character con challenge the turn\nthey're played.)\nSurprising Skill: When you play this character,\nhe gains Challenger +4 this turn. (They get +4\nwhile challenging.)"
+}

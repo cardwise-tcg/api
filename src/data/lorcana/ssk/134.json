@@ -1,0 +1,20 @@
+{
+  "artist": "Dustin Panzino",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Ruby Chromicon",
+  "rarity": "Uncommon",
+  "number": 134,
+  "keywords": [],
+  "flavor_text": "\"Leave fear behind.\"\n-Inscription",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Ruby Light: {e} - Chosen character gets +1{s} this turn."
+}

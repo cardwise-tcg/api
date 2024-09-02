@@ -1,0 +1,28 @@
+{
+  "artist": "Aubrey Archer",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Bruno Madrigal",
+  "rarity": "Rare",
+  "number": 38,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Out of the Shadows",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 1,
+  "text": "It Was Your Vision - When you play this character, chosen character gains \"When this character is banished in a challenge, you may return this card to your hand\" this turn."
+}

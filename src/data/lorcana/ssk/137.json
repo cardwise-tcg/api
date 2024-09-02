@@ -1,0 +1,29 @@
+{
+  "artist": "Otto Paredes",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "King Candy",
+  "rarity": "Common",
+  "number": 137,
+  "keywords": [],
+  "flavor_text": "\"My sweet subjects, I can without a pinch of hesitation assure you that I have never been so happy.\"",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "King",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Sovereign of Sugar",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1
+}

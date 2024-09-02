@@ -1,0 +1,28 @@
+{
+  "artist": "Simone Buonfantino",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Marshmallow",
+  "rarity": "Uncommon",
+  "number": 51,
+  "keywords": [],
+  "flavor_text": "\"You're very strong. Do you work out?\"\n-Olaf",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Terrifying Snowman",
+  "willpower": 3,
+  "strength": 0,
+  "lore": 1,
+  "text": "Behemoth - This character gets +1{s} for each card in your hand."
+}

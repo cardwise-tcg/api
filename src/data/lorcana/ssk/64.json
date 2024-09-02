@@ -1,0 +1,19 @@
+{
+  "artist": "Stefano Zanchi",
+  "ink": "Amethyst",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Retrosphere",
+  "rarity": "Common",
+  "number": 64,
+  "keywords": [],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Extract Of Amethyst: 2{i}, Banish this item - Return\nchosen character, item, or location with cost 3 or less\nto their player's hand."
+}

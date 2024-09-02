@@ -1,0 +1,27 @@
+{
+  "artist": "Alex Accorsi",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Pacha",
+  "rarity": "Uncommon",
+  "number": 143,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Emperor's Guide",
+  "willpower": 4,
+  "strength": 0,
+  "lore": 2,
+  "text": "Helpful Supplies: At the start of your turn, if you have an item in play, gain 1 lore.\nPerfect Directions: At the start of your turn, if you have a location in play, gain 1 lore."
+}

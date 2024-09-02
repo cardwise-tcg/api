@@ -3,7 +3,8 @@ export default {
         'tfc',
         'rfb',
         'ink',
-        'urs'
+        'urs',
+        'ssk'
     ],
     languages: ['en'],
 }

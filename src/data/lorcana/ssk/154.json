@@ -1,0 +1,31 @@
+{
+  "artist": "Jake Parker",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "King Candy",
+  "rarity": "Uncommon",
+  "number": 154,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Villain",
+    "King",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Sweet Abomination",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "text": "Shift 3 (You may pay 3{i} to play this on top of one of your characters named King Candy.)\nChanging the Code: When you play this character, you may draw 2 cards, then put a card from your hand on the bottom of your deck."
+}

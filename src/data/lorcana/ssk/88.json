@@ -1,0 +1,29 @@
+{
+  "artist": "Nicholas Kole",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Robin Hood",
+  "rarity": "Uncommon",
+  "number": 88,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Sneaky Sleuth",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 1,
+  "text": "Shift 3 (You may pay 3{i} to play this on top of\none of your characters named Robin Hood.)\nClever Plan: This character gets +1{l} for each\nopposing damaged character in play."
+}

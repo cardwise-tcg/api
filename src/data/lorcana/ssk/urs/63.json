@@ -1,0 +1,20 @@
+{
+  "artist": "Eri Welli",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Ursula's Plan",
+  "rarity": "Uncommon",
+  "number": 63,
+  "keywords": [],
+  "flavor_text": "\"With both the crown and the trident, together we would be unstoppable!\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Each opponent chooses and exerts one of their characters. Those characters can't ready at the start of their next turn."
+}

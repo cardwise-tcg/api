@@ -1,0 +1,27 @@
+{
+  "artist": "Amber Kommavongsa",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Gale",
+  "rarity": "Common",
+  "number": 42,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Wind Spirit",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 2,
+  "text": "Recurring Gust: When this character is\nbanished in a challenge, return this card to your\nhand."
+}

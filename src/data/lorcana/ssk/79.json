@@ -1,0 +1,29 @@
+{
+  "artist": "Hadjie Joos / Pix Smith",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Iago",
+  "rarity": "Rare",
+  "number": 79,
+  "keywords": [
+    "Evasive"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Fake Flamingo",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Evasive (Only characters with Evasive can\nchallenge this character.)\nIn Disguise: Whenever this character quests,\nyou pay 2{i} less for the next action you play this\nturn."
+}

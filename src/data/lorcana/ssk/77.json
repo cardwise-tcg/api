@@ -1,0 +1,28 @@
+{
+  "artist": "Oggy CYvistiansson",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Robin Hood",
+  "rarity": "Common",
+  "number": 77,
+  "keywords": [],
+  "flavor_text": "\"For a second there, I thought this might be a real\nchallenge.\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Archery Contestant",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Trick Shot: When you play this character, if an\nopponent has a damaged character in play, gain 1\nlore."
+}

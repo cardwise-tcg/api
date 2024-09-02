@@ -1,0 +1,20 @@
+{
+  "artist": "Leonardo Giammichele",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Vision of the Future",
+  "rarity": "Common",
+  "number": 160,
+  "keywords": [],
+  "flavor_text": "\"We must repair the Illuminary before it's too late. And we'll need these devices, these chromicons, to fix it.\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Look at the top 5 cards of your deck. Put one into your hand and the rest on the bottom of your deck in any order."
+}

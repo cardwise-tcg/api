@@ -1,0 +1,24 @@
+{
+  "artist": "Andreas Rocha",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Tropical Rainforest",
+  "rarity": "Uncommon",
+  "number": 102,
+  "keywords": [
+    "Reckless"
+  ],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Jaguar Lair",
+  "lore": 1,
+  "move_cost": 1,
+  "text": "Snack Time: Opposing damaged characters gain Reckless. (They can't\nquest and must challenge if able.)"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Franchesco D'ippolito / Giuseppe di Maio",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Donald Duck",
+  "rarity": "Common",
+  "number": 122,
+  "keywords": [],
+  "flavor_text": "He keeps his eye on the prize.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Daisy's Date",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Plucky Play: Whenever this character challenges another character, each opponent loses 1 lore."
+}

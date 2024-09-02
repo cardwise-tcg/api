@@ -1,0 +1,28 @@
+{
+  "artist": "Andrea Parisi",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Golden Harp",
+  "rarity": "Rare",
+  "number": 11,
+  "keywords": [],
+  "flavor_text": "You'll miss her when she's gone.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Enchanter of the Land",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 2,
+  "text": "Stolen Away - At the end of your turn, if you didn't play a song this turn, banish this character"
+}

@@ -1,0 +1,21 @@
+{
+  "artist": "Maxine Vee",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Tug-Of-War",
+  "rarity": "Common",
+  "number": 196,
+  "keywords": [
+    "Evasive"
+  ],
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Choose one:\n- Deal 1 damage to each opposing character without Evasive.\n- Deal 3 damage to each opposing character with Evasive."
+}

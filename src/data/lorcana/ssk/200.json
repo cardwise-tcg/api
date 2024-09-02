@@ -1,0 +1,21 @@
+{
+  "artist": "Eva Widermann",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Shield of Arendelle",
+  "rarity": "Common",
+  "number": 200,
+  "keywords": [
+    "Resist"
+  ],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Deflect: Banish this item - Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)"
+}

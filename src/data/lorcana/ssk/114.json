@@ -1,0 +1,29 @@
+{
+  "artist": "Carlos Luzzi",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Taffyta Muttonfudge",
+  "rarity": "Common",
+  "number": 114,
+  "keywords": [],
+  "flavor_text": "\"Never lose sight of where you're going. Second place.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Crowd Favorite",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "text": "Showstopper: When you play this character, if you have a location in play, each opponent loses 1 lore."
+}

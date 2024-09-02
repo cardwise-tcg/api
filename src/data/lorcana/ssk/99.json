@@ -1,0 +1,21 @@
+{
+  "artist": "Stefano Zanchi",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Obscurosphere",
+  "rarity": "Common",
+  "number": 99,
+  "keywords": [
+    "Ward"
+  ],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Extract Of Emerald: 2{i}, Banish this item - Your\ncharacters gain Ward until the start of your next turn.\n(Opponents can't choose them except to challenge.)"
+}

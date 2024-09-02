@@ -1,0 +1,28 @@
+{
+  "artist": "Chunxi Mu",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Kenai",
+  "rarity": "Common",
+  "number": 5,
+  "keywords": [],
+  "flavor_text": "\"You have to look after your little brother, no matter\nhow big a pain he is.\"\n-Kenai",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Big Brother",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 1,
+  "text": "Brothers Forever:\r While this character is exerted,\r your characters named Koda can't be challenged."
+}

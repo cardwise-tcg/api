@@ -1,0 +1,29 @@
+{
+  "artist": "Alexandria Neonakis",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Banzai",
+  "rarity": "Common",
+  "number": 87,
+  "keywords": [],
+  "flavor_text": "\"What do we got here, a little snack pock?\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Hyena"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Taunting Hyena",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Here Kitty, Kitty, Kitty: When you play this\ncharacter, you may exert chosen damaged\ncharacter."
+}

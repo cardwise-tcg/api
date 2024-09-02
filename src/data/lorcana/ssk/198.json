@@ -1,0 +1,22 @@
+{
+  "artist": "Gianluca Barone",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Duck For Cover!",
+  "rarity": "Common",
+  "number": 198,
+  "keywords": [
+    "Evasive",
+    "Resist"
+  ],
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Chosen character gains Resist +1 and Evasive this turn. (Damage dealt to them is reduced by 1. They can challenge characters with Evasive.)"
+}

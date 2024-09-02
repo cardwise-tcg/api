@@ -1,0 +1,22 @@
+{
+  "artist": "Brian Kesinger",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Break Free",
+  "rarity": "Common",
+  "number": 127,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "Tink darted from the shattered lantern in the blink of an eye.",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Deal 1 damage to chosen character of yours. They gain Rush and get +1{s} this turn. (They can challenge the turn they're played.)"
+}

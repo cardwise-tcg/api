@@ -1,0 +1,29 @@
+{
+  "artist": "Dustin Panzino / Leonardo Giammichele",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Hans",
+  "rarity": "Common",
+  "number": 146,
+  "keywords": [],
+  "flavor_text": "Hans was confident he could bring Anna to Ursula - all he needed was something of Kristoff's to lure her in.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Noble Scoundrel",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 2,
+  "text": "Royal Schemes: When you play this character, if a Princess or Queen character is in play, gain 1 lore."
+}

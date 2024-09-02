@@ -1,0 +1,32 @@
+{
+  "artist": "Hyuna Lee",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Vannelope Von Schweetz",
+  "rarity": "Rare",
+  "number": 124,
+  "keywords": [
+    "Evasive",
+    "Rush"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Random Roster Racer",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "text": "Rush (This character can challenge the turn they're played.)\nPixlexia: When you play this character, she gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)"
+}

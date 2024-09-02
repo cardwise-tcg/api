@@ -1,0 +1,28 @@
+{
+  "artist": "Stefano Spagnuolo",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Magica De Spell",
+  "rarity": "Rare",
+  "number": 53,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Cruel Sorceress",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 1,
+  "text": "Playing With Power: During opponents' turns,\nif an effect would cause you to discard one or\nmore cards from your hand, you don't discard."
+}

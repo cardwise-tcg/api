@@ -1,0 +1,27 @@
+{
+  "artist": "Randy Bishop",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "The Nokk",
+  "rarity": "Common",
+  "number": 36,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Mythical Spirit",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 1,
+  "text": "Turning Tides: When you play this character,\nyou may move up to 2 damage counters from\nchosen character to chosen opposing character."
+}

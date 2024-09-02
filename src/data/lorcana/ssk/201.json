@@ -1,0 +1,21 @@
+{
+  "artist": "Gaku Kumatori",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Plate Armor",
+  "rarity": "Rare",
+  "number": 201,
+  "keywords": [
+    "Resist"
+  ],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Well Crafted: {e} - Chosen character gains Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)"
+}

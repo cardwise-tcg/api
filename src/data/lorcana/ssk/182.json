@@ -1,0 +1,30 @@
+{
+  "artist": "Jenna Gray",
+  "ink": "Steel",
+  "ink_cost": 9,
+  "inkable": false,
+  "name": "Namaari",
+  "rarity": "Rare",
+  "number": 182,
+  "keywords": [
+    "Resist"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Resolute Daughter",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 3,
+  "text": "I Don't Have Any Other Choice: For each opposing character banished in a challenge this turn, you pay 2{i} less to play this character.\nResist +3 (Damage dealt to this character is reduced by 3.)"
+}

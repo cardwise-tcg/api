@@ -1,0 +1,29 @@
+{
+  "artist": "Otto Paredes",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Ed",
+  "rarity": "Common",
+  "number": 74,
+  "keywords": [],
+  "flavor_text": "\"A-heh, heh, heh, heh, heh, hee, hee, heeeee.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Hyena"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Laughing Hyena",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Cause A Panic: When you play this character, you may deal 2 damage to chosen damaged character."
+}

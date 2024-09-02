@@ -1,0 +1,20 @@
+{
+  "artist": "Michela Cacciatore / Giulia Riva",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Royal Tantrum",
+  "rarity": "Rare",
+  "number": 161,
+  "keywords": [],
+  "flavor_text": "\"I am King! King! King!\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Banish any number of your items, then draw a card for each item banished this way."
+}

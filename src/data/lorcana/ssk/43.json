@@ -1,0 +1,27 @@
+{
+  "artist": "James C Mulligan",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "White Rabbit",
+  "rarity": "Common",
+  "number": 43,
+  "keywords": [],
+  "flavor_text": "\"Oh me, oh my! Did a piece just fall off the\nIlluminary?! I've got to tell someone before it's too\nlate, late, late!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Royal Herald",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1
+}

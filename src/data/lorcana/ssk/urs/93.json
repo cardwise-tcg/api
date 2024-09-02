@@ -1,0 +1,23 @@
+{
+  "artist": "Wouter Bruneel",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Dodge!",
+  "rarity": "Common",
+  "number": 93,
+  "keywords": [
+    "Evasive",
+    "Ward"
+  ],
+  "flavor_text": "\"Missed me, you doggone bully!\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Chosen character gains Ward and Evasive until the start of your next turn. (Opponents can't choose them except to challenge. Only characters with Evasive can challenge them.)"
+}

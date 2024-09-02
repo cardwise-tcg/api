@@ -1,0 +1,30 @@
+{
+  "artist": "Federico M. Cugliari",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Donald Duck",
+  "rarity": "Legendary",
+  "number": 179,
+  "keywords": [],
+  "flavor_text": "Nobody stands a change against the daring duck of the high seas!",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Pirate",
+    "Captain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Buccaneer",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1,
+  "text": "Boarding Party: During your turn, whenever this character banishes a character in a challenge, your other characters get +1 {l} this turn."
+}

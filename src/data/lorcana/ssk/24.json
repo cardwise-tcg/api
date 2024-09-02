@@ -1,0 +1,28 @@
+{
+  "artist": "Gonzalo Kenny",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Minnie Mouse",
+  "rarity": "Common",
+  "number": 24,
+  "keywords": [],
+  "flavor_text": "\"Oh my! Is that part of the Illuminary? I have to\ngo help!\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Compassionate Friend",
+  "willpower": 5,
+  "strength": 1,
+  "lore": 2,
+  "text": "Patch Them Up: Whenever this character quests,\nyou may remove up to 2 damage from chosen\ncharacter."
+}

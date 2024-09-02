@@ -1,0 +1,28 @@
+{
+  "artist": "Jeanne Plounevez",
+  "ink": "Sapphire",
+  "ink_cost": 8,
+  "inkable": false,
+  "name": "Mufasa",
+  "rarity": "Legendary",
+  "number": 150,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Ruler of Pride Rock",
+  "willpower": 9,
+  "strength": 4,
+  "lore": 4,
+  "text": "A Delicate Balance: When you play this character, Exert all cards in your inkwell, then return 2 cards at random from your inkwell to your hand.\nEverything the Light Touches: Whenever this character quests, ready all cards in your inkwell."
+}

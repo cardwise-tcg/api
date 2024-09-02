@@ -1,0 +1,29 @@
+{
+  "artist": "Emily Abeydeeta",
+  "ink": "Amber",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Mirabel Madrigal",
+  "rarity": "Legendary",
+  "number": 14,
+  "keywords": [],
+  "flavor_text": "\"There's nothing we can't accomplish together!\"",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Madrigal "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Family Gatherer",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 5,
+  "text": "Not Without My Family: You can't play this\r character unless you have 5 or more characters in\r play."
+}

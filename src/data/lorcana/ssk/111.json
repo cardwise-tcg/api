@@ -1,0 +1,30 @@
+{
+  "artist": "Maddie Shilt",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Daisy Duck",
+  "rarity": "Common",
+  "number": 111,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "She has an unblemished record.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Spotless Food-Fighter",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)"
+}

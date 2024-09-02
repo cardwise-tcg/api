@@ -1,0 +1,29 @@
+{
+  "artist": "Jennifer Park / Livio Cacciatore",
+  "ink": "Emerald",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Clarabelle",
+  "rarity": "Legendary",
+  "number": 84,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Light on Her Hooves",
+  "willpower": 6,
+  "strength": 5,
+  "lore": 2,
+  "text": "Shift 5 (You may pay 5{i} to play this on top of one\nof your characters named Clarabelle.)\nKeep In Step: At the end of your turn, if chosen\nopponent has more cards in their hand than you, you\nmay draw cards until you have the same number."
+}

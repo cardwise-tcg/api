@@ -1,0 +1,23 @@
+{
+  "artist": "Samanta Erdini",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Luisa Madrigal",
+  "rarity": "Rare",
+  "number": 45,
+  "keywords": [],
+  "flavor_text": "\"This is just o worm-up, folks! Wait 'til you see the\nbig finale!\"",
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Entertaining Muscle",
+  "willpower": 8,
+  "strength": 4,
+  "lore": 3
+}

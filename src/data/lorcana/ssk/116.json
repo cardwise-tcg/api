@@ -1,0 +1,27 @@
+{
+  "artist": "Louis Jones",
+  "ink": "Ruby",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Pete",
+  "rarity": "Super Rare",
+  "number": 116,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Steamboat Rival",
+  "willpower": 6,
+  "strength": 6,
+  "lore": 2,
+  "text": "Scram!: When you play this character, if you have another character named Pete in play, you may banish chosen opposing character."
+}

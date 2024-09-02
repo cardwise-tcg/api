@@ -1,0 +1,21 @@
+{
+  "artist": "Emily Abeydeera",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Be King Undisputed",
+  "rarity": "Rare",
+  "number": 129,
+  "keywords": [],
+  "flavor_text": "Respected, saluted",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "(A character with cost 4 or more can {e} to sing this song for free.)\nEach opponent chooses and banishes one of their characters."
+}

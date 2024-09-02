@@ -1,0 +1,29 @@
+{
+  "artist": "C?sar Vegara",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Scar",
+  "rarity": "Common",
+  "number": 93,
+  "keywords": [
+    "Ward"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Vengeful Lion",
+  "willpower": 2,
+  "strength": 4,
+  "lore": 2,
+  "text": "Ward (Opponents can't choose this character\nexcept to challenge.)\nLife's not fair, is it?: Whenever one of your\ncharacters challenges a damaged character, you\nmay draw a card."
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Lissette Carrera",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Clarabelle",
+  "rarity": "Common",
+  "number": 90,
+  "keywords": [],
+  "flavor_text": "\"Golly! Those dancers can really moo-ve!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Contented Wallflower",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "One Step Behind: When you play this character,\nif an opponent has more cards in their hand than\nyou, you may draw a card."
+}

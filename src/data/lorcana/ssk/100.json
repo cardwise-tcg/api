@@ -1,0 +1,20 @@
+{
+  "artist": "Dustin Panino",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Emerald Chromicon",
+  "rarity": "Uncommon",
+  "number": 100,
+  "keywords": [],
+  "flavor_text": "\"Trust in the winds of change.\"\n-Inscription",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Emerald Light: During opponents' turns, whenever\none of your characters is banished, you may return\nchosen character to their player's hand."
+}

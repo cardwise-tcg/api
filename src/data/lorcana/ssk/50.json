@@ -1,0 +1,29 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Amethyst",
+  "ink_cost": 9,
+  "inkable": true,
+  "name": "Olaf",
+  "rarity": "Rare",
+  "number": 50,
+  "keywords": [
+    "Evasive"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Happy Passenger",
+  "willpower": 6,
+  "strength": 6,
+  "lore": 3,
+  "text": "Clear The Path: For each exerted character\nopponents have in play, you pay 1{i} less to\nplay this character.\nEvasive (Only characters with Evasive can\nchallenge this character.)"
+}

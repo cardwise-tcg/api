@@ -1,0 +1,32 @@
+{
+  "artist": "Lisanne Koeteeuw",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Elsa",
+  "rarity": "Super Rare",
+  "number": 48,
+  "keywords": [
+    "Evasive",
+    "Rush"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Queen",
+    "Sorcerer "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "The Fifth Spirit",
+  "willpower": 5,
+  "strength": 2,
+  "lore": 1,
+  "text": "Rush (This character can challenge the turn they're played.)\nEvasive (Only characters with Evasive can challenge this\ncharacter.)\nCrystallize: When you play this character, exert chosen\nopposing character."
+}

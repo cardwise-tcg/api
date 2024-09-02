@@ -1,0 +1,28 @@
+{
+  "artist": "Jenna Gray",
+  "ink": "Amber",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Maid Marian",
+  "rarity": "Uncommon",
+  "number": 22,
+  "keywords": [],
+  "flavor_text": "\"And who might you be, my knight and\nchampion?\"",
+  "classifications": [
+    "Dreamborn",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Lady of the Lists",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 2,
+  "text": "If It Pleases The Lady: When you play this\ncharacter, chosen opposing character gets -5 {s}\nuntil the start of your next turn."
+}

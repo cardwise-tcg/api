@@ -1,0 +1,21 @@
+{
+  "artist": "Alexa Rockman",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Seven Dwarfs' Mine",
+  "rarity": "Uncommon",
+  "number": 204,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "lore": 1,
+  "move_cost": 2,
+  "text": "Mountain Defense: During your turn, the first time you move a character here, you may deal 1 damage to chosen character. If the moved character is a Knight, deal 2 damage instead."
+}

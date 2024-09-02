@@ -1,0 +1,29 @@
+{
+  "artist": "Eri Welli",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Merryweather",
+  "rarity": "Common",
+  "number": 76,
+  "keywords": [],
+  "flavor_text": "\"The most beautiful color is blue!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Fairy"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Good Fairy",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "text": "Ray Of Hope: When you play this character, you\nmay pay 1{i} to give chosen character +2 {s} this\nturn."
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Jake Parker",
+  "ink": "Sapphire",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Merlin",
+  "rarity": "Legendary",
+  "number": 159,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Mentor",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Intellectual Visionary",
+  "willpower": 7,
+  "strength": 3,
+  "lore": 2,
+  "text": "Shift 5 (You may pay 5{i} to play this on top of one of your characters named Merlin.)\nOverdeveloped Brain: When you play this character, if you used Shift to play him, you may search your deck for any card, put that card into your hand, then shuffle your deck."
+}

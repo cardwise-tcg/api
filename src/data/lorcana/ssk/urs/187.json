@@ -1,0 +1,31 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Mickey Mouse",
+  "rarity": "Rare",
+  "number": 187,
+  "keywords": [
+    "Resist",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Playful Sorcerer",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "text": "Shift 3 (You may pay 3{i} to play this on top of one of your characters named Mickey Mouse.)\nResist +1 (Damage dealt to this character is reduced by 1.)\nSweep Away: When you play this character, deal damage to chosen character equal to the number of Broom characters you have in play."
+}

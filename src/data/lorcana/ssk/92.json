@@ -1,0 +1,29 @@
+{
+  "artist": "DyIan Bonner",
+  "ink": "Emerald",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Mother Gothel",
+  "rarity": "Super Rare",
+  "number": 92,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Villain "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Unwavering Schemer",
+  "willpower": 6,
+  "strength": 4,
+  "lore": 2,
+  "text": "Shift 4 (You may pay 4{i} to play this on top of\none of your characters named Mother Gothel.)\nThe World Is Dark: When you play this\ncharacter, each opponent chooses one of their\ncharacters and returns that card to their hand."
+}

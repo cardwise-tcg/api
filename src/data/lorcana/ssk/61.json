@@ -1,0 +1,20 @@
+{
+  "artist": "Jake Murphy",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "We Know The Way",
+  "rarity": "Rare",
+  "number": 61,
+  "keywords": [],
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "(A character with cost 3 or more can {e} to sing this song for\nfree.)\nShuffle chosen card from your discard into your deck.\nReveal the top card of your deck. If it has the same name\nas the chosen card, you may play the revealed card for free.\nOtherwise, put it into your hand."
+}

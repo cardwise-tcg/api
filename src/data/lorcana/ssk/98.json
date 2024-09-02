@@ -1,0 +1,19 @@
+{
+  "artist": "Stefano Zanchi",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Prince John's Mirror",
+  "rarity": "Rare",
+  "number": 98,
+  "keywords": [],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "You Look Regal: If you have a character named Prince\nJohn in play, you pay 1{i} less to play this item.\nA Feeling Of Power: At the end of each opponent's\nturn, if they have more than 3 cards in their hand, they\ndiscard until they have 3 cards in their hand."
+}

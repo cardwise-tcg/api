@@ -1,0 +1,29 @@
+{
+  "artist": "Brittney Hackett",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "The Muses",
+  "rarity": "Rare",
+  "number": 90,
+  "keywords": [
+    "Ward"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Proclaimers of Heroes",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Ward (Opponents can't choose this character except to challenge.)\nThe Gospel Truth - Whenever you play a song, you may return chosen character with 2{s} or less to their player's hand."
+}

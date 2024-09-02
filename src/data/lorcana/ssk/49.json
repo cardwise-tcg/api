@@ -1,0 +1,28 @@
+{
+  "artist": "Brian Kesinger",
+  "ink": "Amethyst",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Genie",
+  "rarity": "Legendary",
+  "number": 49,
+  "keywords": [],
+  "flavor_text": "\"Keep your eyes on me, folks! It's time for a little\nprestidigitation!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Main Attraction",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2,
+  "text": "Phenomenal Showman: While this character is\nexerted, opposing characters can't ready at the\nstart of their turn."
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Kasia Brzezinska",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Arthur",
+  "rarity": "Uncommon",
+  "number": 190,
+  "keywords": [],
+  "flavor_text": "\"That boy's got real spark. Lots of spirit. Throws himself heart and soul into everything he does.\"\n-Merlin",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Wart",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2
+}

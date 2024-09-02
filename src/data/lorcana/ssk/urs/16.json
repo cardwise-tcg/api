@@ -1,0 +1,33 @@
+{
+  "artist": "Jochem van Gool",
+  "ink": "Amber",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Mickey Mouse",
+  "rarity": "Legendary",
+  "number": 16,
+  "keywords": [
+    "Bodyguard",
+    "Shift",
+    "Support"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Musketeer",
+    "Captain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Musketeer Captain",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 2,
+  "text": "Shift 5 (You may pay 5{i} to play this on top of one of your characters named Mickey Mouse.)\nBodyguard, Support\nMusketeers United - When you play this character, if you used Shift to play him, you may draw a card for each character with Bodyguard you have in play."
+}

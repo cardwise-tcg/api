@@ -1,0 +1,30 @@
+{
+  "artist": "Hedvig H?ggman-Sund",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Vanellope von Schweetz",
+  "rarity": "Common",
+  "number": 9,
+  "keywords": [],
+  "flavor_text": "\"I'll take whatever you've got... as long as it's got\nsugar in it.\"",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Candy Mechanic",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "You've Got To Pay To Play:Whenever this\r character quests, chosen opposing character gets\r -1{s} until the start of your next turn."
+}

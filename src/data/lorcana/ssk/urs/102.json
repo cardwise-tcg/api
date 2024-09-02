@@ -1,0 +1,22 @@
+{
+  "artist": "Jonathan Livslyst",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Ursula's Garden",
+  "rarity": "Rare",
+  "number": 102,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Full of the Unfortunate",
+  "lore": 1,
+  "move_cost": 2,
+  "text": "Abandon Hope - While you have an exerted character here, opposing characters get -1{l}."
+}

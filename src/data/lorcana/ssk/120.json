@@ -1,0 +1,27 @@
+{
+  "artist": "Gaku Kumatori",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Pete",
+  "rarity": "Common",
+  "number": 120,
+  "keywords": [],
+  "flavor_text": "His half-baked scheme to whisk away the food almost worked. But in the end, he got his just desserts.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Pastry Chomper",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 1
+}

@@ -1,0 +1,20 @@
+{
+  "artist": "Dustin Panino",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Amber Chromicon",
+  "rarity": "Common",
+  "number": 32,
+  "keywords": [],
+  "flavor_text": "\"Comfort the weak and weary.\"\n-Inscription",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Amber Light: {e} - Remove up to 1 damage from each\nof your characters."
+}

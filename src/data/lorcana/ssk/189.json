@@ -1,0 +1,31 @@
+{
+  "artist": "Mariana Moreno",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Bashful",
+  "rarity": "Uncommon",
+  "number": 189,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Adoring Knight",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1,
+  "text": "Impress the Princess: While you have a character named Snow White in play, this character gains Bodyguard. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+}

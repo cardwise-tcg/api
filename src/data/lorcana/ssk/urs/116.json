@@ -1,0 +1,29 @@
+{
+  "artist": "Jared Mathews",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Mulan",
+  "rarity": "Common",
+  "number": 116,
+  "keywords": [],
+  "flavor_text": "She'll never give up",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Injured Soldier",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Battle Wound - This character enters play with 2 damage."
+}

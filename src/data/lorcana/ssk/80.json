@@ -1,0 +1,28 @@
+{
+  "artist": "Otto Paredes",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Banzai",
+  "rarity": "Rare",
+  "number": 80,
+  "keywords": [],
+  "flavor_text": "He won't turn down a quick bite before dinner",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Hyena"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Gluttonous Predator",
+  "willpower": 2,
+  "strength": 3,
+  "lore": 2
+}

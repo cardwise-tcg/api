@@ -1,0 +1,27 @@
+{
+  "artist": "Rianti Hidayat",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Chaca",
+  "rarity": "Common",
+  "number": 138,
+  "keywords": [],
+  "flavor_text": "\"Look, look! My tooth is even looser today!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Impressive Daughter",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 2
+}

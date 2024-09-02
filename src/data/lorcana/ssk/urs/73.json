@@ -1,0 +1,27 @@
+{
+  "artist": "Maddie Shilt",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Gus",
+  "rarity": "Common",
+  "number": 73,
+  "keywords": [],
+  "flavor_text": "You can always rely on him when it comes to cheese.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Champion of Cheese",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1
+}

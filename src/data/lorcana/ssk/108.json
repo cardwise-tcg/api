@@ -1,0 +1,28 @@
+{
+  "artist": "Ellie Harie",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Rancis Fluggerbutter",
+  "rarity": "Common",
+  "number": 108,
+  "keywords": [],
+  "flavor_text": "Ingredients: Butter, sugar, unsweetened chocolate, vanilla, and arrogance.",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Chocolate Charger",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 1
+}

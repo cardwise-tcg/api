@@ -1,0 +1,22 @@
+{
+  "artist": "Roberto Gatto",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "The Library",
+  "rarity": "Uncommon",
+  "number": 68,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "A Gift for Belle",
+  "lore": 1,
+  "move_cost": 1,
+  "text": "Lost In A Book: Whenever a character is banished while here, you may\ndraw a card."
+}

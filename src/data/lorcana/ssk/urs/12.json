@@ -1,0 +1,31 @@
+{
+  "artist": "Carlos Luzzi",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Goofy",
+  "rarity": "Rare",
+  "number": 12,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "flavor_text": "\"Count me in!\"",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Musketeer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Musketeer Swordsman",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "text": "En Gawrsh! - Whenever you play a character with Bodyguard, ready this character. He can't quest for the rest of this turn."
+}

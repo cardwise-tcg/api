@@ -1,0 +1,19 @@
+{
+  "artist": "Cory Godbey",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Remember Who You Are",
+  "rarity": "Rare",
+  "number": 97,
+  "keywords": [],
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "If chosen opponent has more cards in their hand than\nyou, draw cards until you have the same number."
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Otto Paredes",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Shenzi",
+  "rarity": "Common",
+  "number": 91,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Hyena"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Head Hyena",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 1,
+  "text": "Stick Around For Dinner: This character gets +1{s}\nfor each other Hyena character you have in play.\nWhat Have We Got Here: Whenever one of your\nHyena characters challenges a damaged character,\ngain 2 lore."
+}

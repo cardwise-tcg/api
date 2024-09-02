@@ -1,0 +1,28 @@
+{
+  "artist": "Lauren Barger",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Gazelle",
+  "rarity": "Common",
+  "number": 11,
+  "keywords": [],
+  "flavor_text": "\"Good evening, Lorcana! We're here tonight to\ncelebrate what's possible when we stand together\nas one.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Pop Star",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 2,
+  "text": "Singer 5 (This character counts as cost 5 to sing\nsongs.)"
+}

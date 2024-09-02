@@ -1,0 +1,26 @@
+{
+  "artist": "Jon Densk / Hayley Evans",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Rudy",
+  "rarity": "Common",
+  "number": 174,
+  "keywords": [],
+  "flavor_text": "\"The Illuminary can't handle this much groove! We have to keep the noise down or it'll fall apart for sure!\"",
+  "classifications": [
+    "Storyborn"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Groove Disrupter",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1
+}

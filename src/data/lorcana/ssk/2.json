@@ -1,0 +1,27 @@
+{
+  "artist": "Shannon Hallstein",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Nala",
+  "rarity": "Uncommon",
+  "number": 2,
+  "keywords": [],
+  "flavor_text": "The Lorcana Hide-and-Seek Championship was\nhers for the taking.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Mischievous Cub",
+  "willpower": 4,
+  "strength": 0,
+  "lore": 1
+}

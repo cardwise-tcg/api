@@ -1,0 +1,27 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Tanana",
+  "rarity": "Common",
+  "number": 156,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Wise Woman",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Your Brothers Need Guidance: When you play this character, you may remove up to 1 damage from chosen character or location."
+}

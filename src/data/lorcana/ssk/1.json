@@ -1,0 +1,28 @@
+{
+  "artist": "Therese Videfall",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Koda",
+  "rarity": "Rare",
+  "number": 1,
+  "keywords": [],
+  "flavor_text": "\"I mean, I don't want to brag or nothing, but I got some moves.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Talkative Cub",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 2,
+  "text": "Tell Everybody: During opponents' turns, you can't lost lore."
+}

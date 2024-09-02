@@ -1,0 +1,21 @@
+{
+  "artist": "Jeremy Adams",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Ratigan's Party",
+  "rarity": "Uncommon",
+  "number": 136,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Seedy Back Room",
+  "move_cost": 1,
+  "text": "Misfits' Revelry: While you have a damaged character here, this location gets +2{l}."
+}

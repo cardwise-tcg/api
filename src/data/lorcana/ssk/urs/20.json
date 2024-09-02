@@ -1,0 +1,28 @@
+{
+  "artist": "Kenneth Anderson",
+  "ink": "Amber",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Pluto",
+  "rarity": "Common",
+  "number": 20,
+  "keywords": [],
+  "flavor_text": "When you need help, his is the first face you want to see.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Rescue Dog",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 2,
+  "text": "To the Rescue - When you play this character, you may remove up to 3 damage from one of your characters."
+}

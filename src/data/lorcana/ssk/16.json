@@ -1,0 +1,27 @@
+{
+  "artist": "Francesco D'ippolito / Giuseppe di Maio",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Daisy Duck",
+  "rarity": "Super Rare",
+  "number": 16,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Donald's Date",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 2,
+  "text": "Big Prize: Whenever this character quests, each\r opponent reveals the top card of their deck. If it's\r a character card, they may put it into their hand.\r Otherwise, they put it on the bottom of their\r deck."
+}

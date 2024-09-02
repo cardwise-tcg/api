@@ -1,0 +1,30 @@
+{
+  "artist": "Cesar Vergara",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Donald Duck",
+  "rarity": "Common",
+  "number": 107,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Knight"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Pie Slinger",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 1,
+  "text": "Shift 4 (You may pay 4{i} to play this on top of one of your characters named Donald Duck.)\r Humble Pie: When you play this character, if you used Shift to play him, each opponent loses 2 lore.\r Raging Duck: While an opponent has 10 or more lore, this character gets +6{s}"
+}

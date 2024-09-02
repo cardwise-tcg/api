@@ -1,0 +1,28 @@
+{
+  "artist": "Isabella Ceravolo",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Moana",
+  "rarity": "Common",
+  "number": 18,
+  "keywords": [],
+  "flavor_text": "\"Investigate every port of the Illuminary, find the\nchromicons, restore the Illuminary, how hard con\nit-wait, what was that noise?\"",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Determined Explorer",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2
+}

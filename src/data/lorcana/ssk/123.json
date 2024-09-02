@@ -1,0 +1,30 @@
+{
+  "artist": "Nicholas Kole",
+  "ink": "Ruby",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Ratigan",
+  "rarity": "Rare",
+  "number": 123,
+  "keywords": [
+    "Evasive",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Party Crasher",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 3,
+  "text": "Shift 4 (You may pay 4{i} to play this on top of one of your characters named Ratigan.)\r Evasive (Only characters with Evasive can challenge this character.)\r Delightfully Wicked: Your damaged characters get +2{s}."
+}

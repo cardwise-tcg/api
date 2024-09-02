@@ -1,0 +1,29 @@
+{
+  "artist": "Koni",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Prince John",
+  "rarity": "Super Rare",
+  "number": 147,
+  "keywords": [],
+  "flavor_text": "A villainous schemer from day to night.",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Gold Lover",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 1,
+  "text": "Beautiful, Lovely Taxes: {e} - Play an item from your hand or discard with cost 5 or less for free, exerted."
+}

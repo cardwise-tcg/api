@@ -1,0 +1,21 @@
+{
+  "artist": "Sandara Tang",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Vitalisphere",
+  "rarity": "Common",
+  "number": 134,
+  "keywords": [
+    "Rush"
+  ],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Extract of Ruby: 1{i}, Banish this item - Chosen character gains Rush and gets +2{s} this turn. (They can challenge the turn they're played.)"
+}

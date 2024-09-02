@@ -1,0 +1,28 @@
+{
+  "artist": "Rosa la Barbera / Livio Cacciatore",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Prince Naveen",
+  "rarity": "Common",
+  "number": 3,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Ukulele Player",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "text": "Singer 6 (This-character counts as cost6 {i} to sing songs.)\r It's Beautiful, No?: When you play this character, you may play a song with cost 6 or\r less for free."
+}

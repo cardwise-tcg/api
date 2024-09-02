@@ -1,0 +1,27 @@
+{
+  "artist": "Gonzalo Kenny",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Sven",
+  "rarity": "Uncommon",
+  "number": 23,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Reindeer Steed",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "text": "Reindeer Games: When you play this character,\r you may ready chosen character. They can't quest\r or challenge for the rest of this turn."
+}

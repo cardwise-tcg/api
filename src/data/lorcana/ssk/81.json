@@ -1,0 +1,29 @@
+{
+  "artist": "Stefano Spagnuolo",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Ed",
+  "rarity": "Uncommon",
+  "number": 81,
+  "keywords": [],
+  "flavor_text": "As for as he's concerned, there's no such thing as\nbad taste.",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Hyena "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Hysterical Partygoer",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 2,
+  "text": "Rowdy Guest: Damaged characters can't\nchallenge this character."
+}

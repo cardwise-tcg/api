@@ -1,0 +1,28 @@
+{
+  "artist": "John Loren",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Alan-a-Dale",
+  "rarity": "Uncommon",
+  "number": 20,
+  "keywords": [],
+  "flavor_text": "\"Thank you! Now here's o little ditty for our floodborn\nfriends that we call 'Martin and the Flood.'\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Rockin' Rooster",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 2,
+  "text": "Fan Favorite: Whenever you play a song, gain 1 lore."
+}

@@ -1,0 +1,21 @@
+{
+  "artist": "Nicolas Ky",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Try Everything",
+  "rarity": "Uncommon",
+  "number": 25,
+  "keywords": [],
+  "flavor_text": "I want to try even though I could fail",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "(A character with cost 4 or more can {e} to sing this song for\nfree.)\nRemove up to 3 damage from chosen character and ready\nthem. They can't quest or challenge for the rest of this turn."
+}

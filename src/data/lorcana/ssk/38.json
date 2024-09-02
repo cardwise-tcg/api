@@ -1,0 +1,29 @@
+{
+  "artist": "Andrea Femerstrand",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Merlin",
+  "rarity": "Common",
+  "number": 38,
+  "keywords": [],
+  "flavor_text": "\"Don't rush me, now-this is important.\"",
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Turtle",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "text": "Give Me Time To Think: When you play this\ncharacter and when he leaves play, look at the\ntop 2 cards of your deck. Put one on the top of\nyour deck and the other on the bottom."
+}

@@ -1,0 +1,20 @@
+{
+  "artist": "Leonardo Giammichele",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Food Fight!",
+  "rarity": "Uncommon",
+  "number": 199,
+  "keywords": [],
+  "flavor_text": "\"Gawrsh, who ordered the . . . upside-down CAA-AA-AKE?\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Your characters gain \"{e}, 1{i} - Deal 1 damage to chosen character\" this turn."
+}

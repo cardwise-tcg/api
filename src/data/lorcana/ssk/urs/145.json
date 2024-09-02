@@ -1,0 +1,28 @@
+{
+  "artist": "Carlos Ruiz",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Hades",
+  "rarity": "Uncommon",
+  "number": 145,
+  "keywords": [],
+  "flavor_text": "\"This neat little scheme has Ursula's tentacles all over it. That sneaky sea witch... Wait! I can use this. She can keep those obnoxious Illumineers busy while I roll out my own plan.\"",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Meticulous Plotter",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 1
+}

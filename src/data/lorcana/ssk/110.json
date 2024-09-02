@@ -1,0 +1,30 @@
+{
+  "artist": "Simangaliso Sibaya",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Snowanna Rainbeau",
+  "rarity": "Common",
+  "number": 110,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "When it comes to racing, she never gets cold feet.",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Rush (This character can challenge the turn they're played.)"
+}

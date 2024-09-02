@@ -1,0 +1,20 @@
+{
+  "artist": "Nicola Saviori",
+  "ink": "Amber",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Blast From Your Past",
+  "rarity": "Super Rare",
+  "number": 28,
+  "keywords": [],
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "(A character with cost 6 or more can {e} to sing this\nsong for free.)\nName a card. Return all character cards with that\nname from your discard to your hand."
+}

@@ -1,0 +1,31 @@
+{
+  "artist": "Adam Ford",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Ursula",
+  "rarity": "Uncommon",
+  "number": 57,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "\"After her, Flotsam! I can't rule Lorcana without the Hexwell Crown!\"",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Mad Sea Witch",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Challenger +2 (While challenging, this character gets +2{s}.)"
+}

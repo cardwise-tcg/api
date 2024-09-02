@@ -1,0 +1,20 @@
+{
+  "artist": "Gabe",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Merlin's Cottage",
+  "rarity": "Uncommon",
+  "number": 170,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "move_cost": 1,
+  "text": "Knowledge is Power: Each player plays with the top card of their deck face up."
+}

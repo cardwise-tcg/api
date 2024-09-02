@@ -1,0 +1,29 @@
+{
+  "artist": "Luigi Aime",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Donald Duck",
+  "rarity": "Common",
+  "number": 155,
+  "keywords": [],
+  "flavor_text": "\"There's just gotta be one of those chromi-thingies around here somewhere!\"",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Detective"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Focused Flatfoot",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 2,
+  "text": "Baffling Mystery: When you play this character, you may put the top card of your deck into your inkwell facedown and exerted."
+}

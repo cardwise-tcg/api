@@ -1,0 +1,27 @@
+{
+  "artist": "Anderson Mahanski",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Tor",
+  "rarity": "Common",
+  "number": 91,
+  "keywords": [],
+  "flavor_text": "They say that his arrangements are exquisite,\nHis composites and bouquets are so divine.\nBut when the crowds try to come and visit,\nThere's always quite a fight to form a line.",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Florist",
+  "willpower": 7,
+  "strength": 4,
+  "lore": 1
+}

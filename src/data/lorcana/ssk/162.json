@@ -1,0 +1,21 @@
+{
+  "artist": "Grace Tran",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Ever as Before",
+  "rarity": "Common",
+  "number": 162,
+  "keywords": [],
+  "flavor_text": "Ever just as sure\nAs the sun will rise",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "(A character with cost 2 or more can {e} to sing this song for free.)\nRemove up to 2 damage from any number of chosen characters."
+}

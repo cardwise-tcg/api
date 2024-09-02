@@ -1,0 +1,28 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Earth Giant",
+  "rarity": "Common",
+  "number": 41,
+  "keywords": [],
+  "flavor_text": "Who woke up the big guy?",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Living Mountain",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 2,
+  "text": "Unearthed: When you play this character, each\nopponent draws a card."
+}

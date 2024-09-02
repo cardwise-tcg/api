@@ -1,0 +1,31 @@
+{
+  "artist": "Malia Ewart",
+  "ink": "Amethyst",
+  "ink_cost": 8,
+  "inkable": false,
+  "name": "Maleficent",
+  "rarity": "Super Rare",
+  "number": 35,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Villain",
+    "Queen",
+    "Sorcerer "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Formidable Queen",
+  "willpower": 7,
+  "strength": 7,
+  "lore": 2,
+  "text": "Shift 6 (You may pay 6{i} to play this on top of one of\nyour characters named Maleficent.)\nListen Well, All Of You: When you play this character,\nfor each of your characters named Maleficent in play,\nreturn a chosen opposing character, item, or location\nwith cost 3 or less to their player's hand."
+}

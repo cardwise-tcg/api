@@ -1,0 +1,32 @@
+{
+  "artist": "Aisha Durmagambetova",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "The Queen",
+  "rarity": "Super Rare",
+  "number": 144,
+  "keywords": [
+    "Shift",
+    "Ward"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Fairest of All",
+  "willpower": 6,
+  "strength": 2,
+  "lore": 1,
+  "text": "Shift 3 (You may pay 3{i} to play this on top of one of your characters named The Queen.)\nWard (Opponents can't choose this character except to challenge.)\nReflections of Vanity: For each other character named The Queen you have in play, this character gets +1{l}."
+}

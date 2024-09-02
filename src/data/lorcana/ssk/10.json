@@ -1,0 +1,30 @@
+{
+  "artist": "Hedvig H?ggman-Sund",
+  "ink": "Amber",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Fix-It Felix, Jr.",
+  "rarity": "Common",
+  "number": 10,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "flavor_text": "\"Golly, this place is going to take some real fixing!\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Trusty Builder",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of\nyour characters must choose one with Bodyguard\nif able.)"
+}

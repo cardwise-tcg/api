@@ -1,0 +1,20 @@
+{
+  "artist": "Adam Fenton",
+  "ink": "Emerald",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Hidden Inkcaster",
+  "rarity": "Common",
+  "number": 98,
+  "keywords": [],
+  "flavor_text": "\"It looks like it's been here forever.\"\n-Flounder",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "Fresh Ink - When you play this item, draw a card.\nUnexpected treasure - All cards in your hand count as having {n}."
+}

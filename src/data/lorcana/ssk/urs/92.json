@@ -1,0 +1,29 @@
+{
+  "artist": "Moniek Schilder",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Zeus",
+  "rarity": "Super Rare",
+  "number": 92,
+  "keywords": [],
+  "flavor_text": "\"Ha! Now watch your old man work!\"",
+  "classifications": [
+    "Storyborn",
+    "King",
+    "Deity"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Mr. Lightning Bolts",
+  "willpower": 5,
+  "strength": 0,
+  "lore": 2,
+  "text": "Target Practice - Whenever a this character challenges another character, he gets +{s} equal to the {s} of chosen character this turn."
+}

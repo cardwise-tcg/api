@@ -1,0 +1,22 @@
+{
+  "artist": "Antoine Couttolenc",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Night Howler Rage",
+  "rarity": "Common",
+  "number": 95,
+  "keywords": [
+    "Reckless"
+  ],
+  "flavor_text": "\"I think someone is targeting predators on purpose and\nmaking them go savage!\"\n-Judy Hopps",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Draw a card. Chosen character gains Reckless during their\nnext turn. (They can't quest and must challenge if able.)"
+}

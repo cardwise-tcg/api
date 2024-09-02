@@ -1,0 +1,26 @@
+{
+  "artist": "Mike Parker",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Denahi",
+  "rarity": "Rare",
+  "number": 115,
+  "keywords": [],
+  "flavor_text": "\"You'll pay for what you've done! I'll track you all the way to the Azurite Sea if I have to!\"",
+  "classifications": [
+    "Storyborn"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Avenging Brother",
+  "willpower": 5,
+  "strength": 7,
+  "lore": 2
+}

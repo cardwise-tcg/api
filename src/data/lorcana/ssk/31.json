@@ -1,0 +1,19 @@
+{
+  "artist": "Juan Diego Leon",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Queen's Sensor Core",
+  "rarity": "Rare",
+  "number": 31,
+  "keywords": [],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Symbol Of Nobility: At the start of your turn, if you have a\nPrincess or Queen character in play, gain 1 lore.\nRoyal Search: {e}, 2{i} - Reveal the top card of your deck.\nIf it's a Princess or Queen character card, you may put it into\nyour hand. Otherwise, put it on the top of your deck.\n"
+}

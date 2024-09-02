@@ -1,0 +1,19 @@
+{
+  "artist": "Alex Accorsi",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Healing Decanter",
+  "rarity": "Common",
+  "number": 30,
+  "keywords": [],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Renewing Essence: {e} - Remove up to 2 damage\nfrom chosen character."
+}

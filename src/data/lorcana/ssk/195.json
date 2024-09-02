@@ -1,0 +1,28 @@
+{
+  "artist": "Luis Huerta",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Pete",
+  "rarity": "Uncommon",
+  "number": 195,
+  "keywords": [],
+  "flavor_text": "\"It ain't cheatin' if you're the one makin' the rules.\"",
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Games Referee",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Blow the Whistle: When you play this character, opponents can't play actions until the start of your next turn."
+}

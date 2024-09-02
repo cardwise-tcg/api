@@ -1,0 +1,31 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Merlin",
+  "rarity": "Common",
+  "number": 142,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "\"A little rest and relaxation will do wonders for your health, boy.\"",
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Back from Bermuda",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 2,
+  "text": "Long Live the King!: Your characters named Arthur gain Resist +1"
+}

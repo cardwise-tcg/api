@@ -1,0 +1,31 @@
+{
+  "artist": "Samanta Erdini",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Mirabel Madrigal",
+  "rarity": "Common",
+  "number": 19,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "\"Why would Bruno break this prophecy? Could it be something dangerous? We have to find out!\"",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Madrigal"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Prophecy Finder",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)"
+}

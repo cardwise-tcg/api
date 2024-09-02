@@ -1,0 +1,31 @@
+{
+  "artist": "Eva Widermann",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Basil",
+  "rarity": "Common",
+  "number": 153,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "\"This case is as good as solved!\"\n-Basil",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Detective"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Practiced Detective",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 1,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)"
+}

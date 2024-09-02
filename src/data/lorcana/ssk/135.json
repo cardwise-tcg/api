@@ -1,0 +1,21 @@
+{
+  "artist": "Cristian Romero",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Sugar Rush Speedway",
+  "rarity": "Rare",
+  "number": 135,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Starting Line",
+  "move_cost": 0,
+  "text": "On Your Marks!: Once per turn, you may {e} chosen character here and deal them 1 damage to move them to another location for free."
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Mariana Moreno",
+  "ink": "Steel",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Mickey Mouse",
+  "rarity": "Common",
+  "number": 176,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "Underestimating him is a recipe for disaster.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Food Fight Defender",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "text": "Resist +1 (Damage dealt to this character is reduced by 1.)"
+}

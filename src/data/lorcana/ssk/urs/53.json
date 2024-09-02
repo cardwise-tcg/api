@@ -1,0 +1,28 @@
+{
+  "artist": "Samanta Erdini",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Pepa Madrigal",
+  "rarity": "Rare",
+  "number": 53,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Weather Maker",
+  "willpower": 5,
+  "strength": 1,
+  "lore": 1,
+  "text": "It Looks Like rain - When you play this character, you may exert chosen opposing character. That character can't ready at the start of their next turn unless they're at a location."
+}

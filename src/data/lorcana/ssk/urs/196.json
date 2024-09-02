@@ -1,0 +1,21 @@
+{
+  "artist": "Jennifer Park",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "I Find 'Em, I Flatten 'Em",
+  "rarity": "Uncommon",
+  "number": 196,
+  "keywords": [],
+  "flavor_text": "I don't ask how hard the work is\nGot a rough, indestructible surface",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "(A character with cost 4 or more can {e} to sing this song for free.)\nBanish all items."
+}

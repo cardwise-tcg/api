@@ -1,0 +1,30 @@
+{
+  "artist": "Kenneth Anderson",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Tick-Tock",
+  "rarity": "Common",
+  "number": 56,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"That cursed beast liked the taste of me so well he's followed me ever since . . . .\"\n-Captain Hook",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Ever-Present Pursuer",
+  "willpower": 7,
+  "strength": 4,
+  "lore": 1,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)"
+}

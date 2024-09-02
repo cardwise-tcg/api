@@ -1,0 +1,29 @@
+{
+  "artist": "Grace Tran",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Chicha",
+  "rarity": "Rare",
+  "number": 146,
+  "keywords": [
+    "Support"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Dedicated Mother",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 1,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)\nOne on the Way: During your turn, when you put a card into your inkwell, if it's the second card you've put into your inkwell this turn, you may draw a card."
+}

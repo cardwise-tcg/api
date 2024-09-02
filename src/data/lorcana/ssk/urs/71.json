@@ -1,0 +1,28 @@
+{
+  "artist": "Ellie Harie",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Diablo",
+  "rarity": "Common",
+  "number": 71,
+  "keywords": [],
+  "flavor_text": "\"Keep an eye on the sea witch, my pet. Tell me everything.\"\n-Maleficent",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Maleficent's Spy",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "text": "Scout Ahead - When you play this character, you may look at each opponent's hand."
+}

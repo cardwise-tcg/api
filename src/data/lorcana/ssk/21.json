@@ -1,0 +1,28 @@
+{
+  "artist": "Hyuna Lee",
+  "ink": "Amber",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Wreck-It Ralph",
+  "rarity": "Common",
+  "number": 21,
+  "keywords": [],
+  "flavor_text": "If he must give a victory speech, he'll keep it brief.",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Admiral Underpants",
+  "willpower": 7,
+  "strength": 6,
+  "lore": 2,
+  "text": "I've Got The Coolest Friend: When you play \r this character, return a character card from your\r discard to your hand. If that card is a Princess\r character card, gain 2 lore."
+}

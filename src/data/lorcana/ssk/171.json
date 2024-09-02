@@ -1,0 +1,29 @@
+{
+  "artist": "Karen Hallion",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Stitch",
+  "rarity": "Uncommon",
+  "number": 171,
+  "keywords": [],
+  "flavor_text": "He's not the biggest glimmer on the team, but he still packs a wallop.",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Alien"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Team Underdog",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 1,
+  "text": "Heave Ho!: When you play this character, you may deal 2 damage to chosen character."
+}

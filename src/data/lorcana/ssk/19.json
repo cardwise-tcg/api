@@ -1,0 +1,31 @@
+{
+  "artist": "Vanessa Morales",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Vanellope von Schweetz",
+  "rarity": "Common",
+  "number": 19,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Sugar Rush Princess",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 2,
+  "text": "Shift 2 (You may pay 2{i} to play this on top of one of\nyour characters named Vanellope von Schweetz.)\nI HEREBY DECREE: Whenever you play another\nPrincess character, all opposing characters get -1{s}\nuntil the start of your next turn."
+}

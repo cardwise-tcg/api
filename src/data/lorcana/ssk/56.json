@@ -1,0 +1,29 @@
+{
+  "artist": "Leonardo Giammichele",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Anna",
+  "rarity": "Common",
+  "number": 56,
+  "keywords": [],
+  "flavor_text": "\"Okay, I con totally move small stuff. I need\nsomething bigger... Where's Kristoff's sled?\"",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Queen "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Eager Acolyte",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Growing Powers: When you play this character,\neach opponent chooses and exerts one of their\nready characters."
+}

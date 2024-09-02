@@ -1,0 +1,32 @@
+{
+  "artist": "Anna Stosik",
+  "ink": "Steel",
+  "ink_cost": 7,
+  "inkable": false,
+  "name": "Arthur",
+  "rarity": "Legendary",
+  "number": 194,
+  "keywords": [
+    "Challenger",
+    "Resist",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "King"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "King Victorius",
+  "willpower": 6,
+  "strength": 3,
+  "lore": 3,
+  "text": "Shift 5 (You may pay 5{i} to play this on top of one of your characters named Arthur.)\r Knighted by the King: When you play this character, chosen character gains Challenger +2 and Resist +2 and can challenge ready characters this turn. (They get +2{s} while challenging. Damage dealt to them is reduced by 2.)"
+}

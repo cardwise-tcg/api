@@ -1,0 +1,30 @@
+{
+  "artist": "Brian Kesinger",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Jetsam",
+  "rarity": "Common",
+  "number": 46,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "He snatched the trident from the betrayed glimmer",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Ursula's \"Baby\"",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Challenger +2 (While challenging, this character gets +2{s}.)\nOminous Pair - Your characters named Flotsam gain Challenger +2."
+}

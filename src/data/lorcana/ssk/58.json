@@ -1,0 +1,28 @@
+{
+  "artist": "Saulo Nate",
+  "ink": "Amethyst",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Camilo Madrigal",
+  "rarity": "Legendary",
+  "number": 58,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Family Copycat",
+  "willpower": 7,
+  "strength": 3,
+  "lore": 1,
+  "text": "Imitate: Whenever this character quests, you\nmay gain lore equal to the {l} of chosen other\ncharacter of yours. Return that character to your\nhand."
+}

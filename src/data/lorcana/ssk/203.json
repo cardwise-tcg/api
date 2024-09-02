@@ -1,0 +1,22 @@
+{
+  "artist": "Saulo Nate",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Bad-Anon",
+  "rarity": "Rare",
+  "number": 203,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Villain Support Center",
+  "lore": 1,
+  "move_cost": 2,
+  "text": "There's No One I'd Rather Be Than Me: Villain characters gain \"{e}, 3{i} - Play a character with the same name as this character for free\" while here."
+}

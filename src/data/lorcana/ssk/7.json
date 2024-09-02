@@ -1,0 +1,27 @@
+{
+  "artist": "Ron Baird",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Tuke",
+  "rarity": "Common",
+  "number": 7,
+  "keywords": [],
+  "flavor_text": "\"I'd love a snack, but I'm kinda tied up right now.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Northern Moose",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 1
+}

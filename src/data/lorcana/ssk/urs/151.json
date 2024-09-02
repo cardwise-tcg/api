@@ -1,0 +1,28 @@
+{
+  "artist": "Noukah",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Pascal",
+  "rarity": "Common",
+  "number": 151,
+  "keywords": [],
+  "flavor_text": "If you want to find something hidden, get someone who's an expert at hiding.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Inquisitive Pet",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Colorful Tactics: When you play this character, look at the top 3 cards of your deck and put them back in any order."
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Cristian Romero",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Fix-It Felix, Jr.",
+  "rarity": "Common",
+  "number": 17,
+  "keywords": [],
+  "flavor_text": "\"l don't think I've ever seen anything as sweet as this.\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Delighted Sightseer",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Oh, My Land!: When you play this character, if\r you have a location in play, draw a card."
+}

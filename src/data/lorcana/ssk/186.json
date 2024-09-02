@@ -1,0 +1,32 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Grumpy",
+  "rarity": "Super Rare",
+  "number": 186,
+  "keywords": [
+    "Evasive",
+    "Resist"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Skeptical Knight",
+  "willpower": 1,
+  "strength": 3,
+  "lore": 1,
+  "text": "Boon of Resilience: While one of your Knight characters is at a location, that character gains Resist +2. (Damage dealt to them is reduced by 2.)\nBurst of Speed: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)"
+}

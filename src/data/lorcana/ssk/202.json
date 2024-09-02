@@ -1,0 +1,20 @@
+{
+  "artist": "Dustin Panzino",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": false,
+  "name": "Steel Chromicon",
+  "rarity": "Uncommon",
+  "number": 202,
+  "keywords": [],
+  "flavor_text": "\"Strong in will, strong in battle.\"\n-Inscription",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Steel Light: {e} - Deal 1 damage to chosen character."
+}

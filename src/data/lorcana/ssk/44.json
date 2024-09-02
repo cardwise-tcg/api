@@ -1,0 +1,28 @@
+{
+  "artist": "Kenneth Anderson",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Madam Mim",
+  "rarity": "Super Rare",
+  "number": 44,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Elephant",
+  "willpower": 7,
+  "strength": 3,
+  "lore": 1,
+  "text": "A Little Game: When you play this character, banish\nher or return another chosen character of yours to your\nhand.\nSneaky Move: At the start of your turn, you may move\nup to 2 damage counters from this character to chosen\nopposing character."
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Ian Macdonald",
+  "ink": "Emerald",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Prince Phillip",
+  "rarity": "Common",
+  "number": 83,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Swordsman of the Realm",
+  "willpower": 9,
+  "strength": 3,
+  "lore": 3,
+  "text": "Slayer Of Dragons: When you play this character,\nbanish chosen opposing Dragon character.\nPressing The Advantage: Whenever he challenges\na damaged character, ready this character after the\nchallenge."
+}

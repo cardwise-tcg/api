@@ -1,0 +1,20 @@
+{
+  "artist": "Adam Ford",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "All Funned Out",
+  "rarity": "Uncommon",
+  "number": 164,
+  "keywords": [],
+  "flavor_text": "\"Pretty pathetic, huh?\"",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Put chosen character of yours into your inkwell facedown and exerted."
+}

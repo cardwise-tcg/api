@@ -1,0 +1,28 @@
+{
+  "artist": "Eri Welli",
+  "ink": "Ruby",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Benja",
+  "rarity": "Common",
+  "number": 104,
+  "keywords": [],
+  "flavor_text": "\"We must work together to heal the entangled.\"",
+  "classifications": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Bold United",
+  "willpower": 3,
+  "strength": 5,
+  "lore": 1
+}

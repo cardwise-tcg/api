@@ -1,0 +1,28 @@
+{
+  "artist": "Koni",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Taffyta Muttonfudge",
+  "rarity": "Uncommon",
+  "number": 103,
+  "keywords": [],
+  "flavor_text": "\"There's not a glimmer that can keep up with me. You might as well quit now.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Ruthless Rival",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2
+}

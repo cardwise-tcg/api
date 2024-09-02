@@ -1,0 +1,28 @@
+{
+  "artist": "Eri Welli",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Fauna",
+  "rarity": "Common",
+  "number": 78,
+  "keywords": [],
+  "flavor_text": "\"The secret to a good cake is combining\neverything just right. Every ingredient is important,\nbut the magic is in how they work together.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Fairy "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Good Fairy",
+  "willpower": 7,
+  "strength": 3,
+  "lore": 2
+}

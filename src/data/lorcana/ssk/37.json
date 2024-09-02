@@ -1,0 +1,30 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Amethyst",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Cogsworth",
+  "rarity": "Common",
+  "number": 37,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "\"Step to it! Time is of the essence.\"",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Illuminary Watchman",
+  "willpower": 1,
+  "strength": 1,
+  "lore": 1,
+  "text": "Move It!: When you play this character,\nchosen character gains Rush this turn. (They can\nchallenge the turn they're played.)"
+}

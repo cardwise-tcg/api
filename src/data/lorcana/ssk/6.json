@@ -1,0 +1,29 @@
+{
+  "artist": "C?sar Vergara / Eri Welli",
+  "ink": "Amber",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Vanellope von Schweetz",
+  "rarity": "Rare",
+  "number": 6,
+  "keywords": [],
+  "flavor_text": "\"Look, the code may say I'm a princess, but I know\nwho I really am ... .\"",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Sugar Rush Champ",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1
+}

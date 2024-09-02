@@ -1,0 +1,28 @@
+{
+  "artist": "Kapik",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Tipo",
+  "rarity": "Uncommon",
+  "number": 157,
+  "keywords": [],
+  "flavor_text": "\"Mom, Mom! I think I'm still growing!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Growing Son",
+  "willpower": 2,
+  "strength": 1,
+  "lore": 1,
+  "text": "Measure Me Again: When you play this character, you may put a card from your hand into your inkwell facedown and exerted."
+}

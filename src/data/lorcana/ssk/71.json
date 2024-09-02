@@ -1,0 +1,27 @@
+{
+  "artist": "John Loren",
+  "ink": "Emerald",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Little John",
+  "rarity": "Uncommon",
+  "number": 71,
+  "keywords": [],
+  "flavor_text": "\"You're in for a real treat, Rob. Tonight's house\nspecial is my famous outlaw grub. Made from the\nfinest whatever we could find!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Camp Cook",
+  "willpower": 4,
+  "strength": 0,
+  "lore": 1
+}

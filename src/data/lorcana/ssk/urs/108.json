@@ -1,0 +1,31 @@
+{
+  "artist": "Antoine Couttolenc",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Hercules",
+  "rarity": "Common",
+  "number": 108,
+  "keywords": [
+    "Rush"
+  ],
+  "flavor_text": "\"Nice catch, Jerkules.\"\n-Village boy",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Clumsy Kid",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 1,
+  "text": "Rush (This character can challenge the turn they're played.)\n"
+}

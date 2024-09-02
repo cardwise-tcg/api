@@ -1,0 +1,29 @@
+{
+  "artist": "Eri Welli",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Flora",
+  "rarity": "Common",
+  "number": 75,
+  "keywords": [],
+  "flavor_text": "\"Don't fuss, dear! A flick of the wrist will turn these\nbriars into something beautiful.\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Fairy"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Good Fairy",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Fiddle Faddle: While being challenged, this character gets +2{s}."
+}

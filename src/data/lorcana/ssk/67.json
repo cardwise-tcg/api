@@ -1,0 +1,22 @@
+{
+  "artist": "Wietse Treurniet",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Elsa's Ice Palace",
+  "rarity": "Rare",
+  "number": 67,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Place of Solitude",
+  "lore": 1,
+  "move_cost": 1,
+  "text": "Eternal Winter: When you play this location, choose an exerted\ncharacter. While this location is in play, that character can't ready at the\nstart of their turn."
+}

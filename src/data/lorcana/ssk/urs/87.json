@@ -1,0 +1,31 @@
+{
+  "artist": "Randy Bishop",
+  "ink": "Emerald",
+  "ink_cost": 9,
+  "inkable": true,
+  "name": "Prince Phillip",
+  "rarity": "Super Rare",
+  "number": 87,
+  "keywords": [
+    "Evasive",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Vanquisher of Foes",
+  "willpower": 6,
+  "strength": 6,
+  "lore": 3,
+  "text": "Shift 6 (You may pay 6{i} to play this on top of one of your characters named Prince Philip.)\nEvasive (Only characters with Evasive can challenge this character.)\nSwift and Sure - When you play this character, banish all opposing damaged characters."
+}

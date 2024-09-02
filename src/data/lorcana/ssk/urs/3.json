@@ -1,0 +1,29 @@
+{
+  "artist": "Matthew Robert Davies",
+  "ink": "Amber",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Ariel",
+  "rarity": "Rare",
+  "number": 3,
+  "keywords": [],
+  "flavor_text": "\"Watch and you'll see-some day I'll be part of your world!\"",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Singing Mermaid",
+  "willpower": 3,
+  "strength": 3,
+  "lore": 2,
+  "text": "Singer 7 (This character counts as cost 7 to sing songs.)"
+}

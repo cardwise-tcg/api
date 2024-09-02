@@ -1,0 +1,30 @@
+{
+  "artist": "James C Mulligan",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Flounder",
+  "rarity": "Uncommon",
+  "number": 144,
+  "keywords": [
+    "Support"
+  ],
+  "flavor_text": "\"Ariel, Ariel! You won't believe what I found!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Collector's Companion",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)\nI'm Not a Guppy: If you have a character named Ariel in play, you may pay 1 {i} less to play this character."
+}

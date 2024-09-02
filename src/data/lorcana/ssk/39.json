@@ -1,0 +1,30 @@
+{
+  "artist": "Kendall Hale",
+  "ink": "Amethyst",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Archimedes",
+  "rarity": "Common",
+  "number": 39,
+  "keywords": [
+    "Evasive"
+  ],
+  "flavor_text": "\"Hmph. What does on owl have to do to get a little\npeace and quiet around here?\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Exasperated Owl",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2,
+  "text": "Evasive (Only characters with Evasive can\nchallenge this character.)"
+}

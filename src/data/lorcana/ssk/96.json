@@ -1,0 +1,20 @@
+{
+  "artist": "C?sar Vergara",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "You're Welcome",
+  "rarity": "Common",
+  "number": 96,
+  "keywords": [],
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "(A character with cost 4 or more can {e} to sing this\nsong for free.)\nShuffle chosen character, item, or location into their\nplayer's deck. That player draws 2 cards."
+}

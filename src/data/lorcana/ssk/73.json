@@ -1,0 +1,28 @@
+{
+  "artist": "Matt Chapman",
+  "ink": "Emerald",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Ulf",
+  "rarity": "Common",
+  "number": 73,
+  "keywords": [],
+  "flavor_text": "His performances are unspeakably good.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Mime",
+  "willpower": 3,
+  "strength": 4,
+  "lore": 2,
+  "text": "Silent Performance: This character can't {e} to sing songs."
+}

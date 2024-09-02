@@ -1,0 +1,30 @@
+{
+  "artist": "Shannon Hallstein",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Simba",
+  "rarity": "Uncommon",
+  "number": 192,
+  "keywords": [
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Hero",
+    "King"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Son of Mufasa",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 1,
+  "text": "Shift 4 (You may pay 4{i} to play this on top of one of your characters named Simba.)\nFearsome Roar: When you play this character, you may banish chosen item or location."
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Kendall Hale",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Bruni",
+  "rarity": "Uncommon",
+  "number": 40,
+  "keywords": [
+    "Evasive"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Fire Salamander",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2,
+  "text": "Evasive (Only characters with Evasive can\nchallenge this character.)\nParting Gift: When this character is banished,\nyou may draw a card."
+}

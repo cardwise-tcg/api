@@ -1,0 +1,28 @@
+{
+  "artist": "Heidi Neunhoffer",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Cri-Kee",
+  "rarity": "Rare",
+  "number": 69,
+  "keywords": [],
+  "flavor_text": "Everyone feels better just knowing he's around.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Lucky Cricket",
+  "willpower": 4,
+  "strength": 3,
+  "lore": 3,
+  "text": "Spreading Good Fortune - When you play this character, your other characters get +3{s} this turn."
+}

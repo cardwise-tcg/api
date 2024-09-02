@@ -1,0 +1,28 @@
+{
+  "artist": "Aris Zentelis",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Maleficent",
+  "rarity": "Common",
+  "number": 54,
+  "keywords": [],
+  "flavor_text": "\"Evidently my invitation was lost. How dreadful.\nHere, let me help with the decorations...\"",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Vengeful Sorceress",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 2
+}

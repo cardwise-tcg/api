@@ -1,0 +1,28 @@
+{
+  "artist": "Dinulescu Alexandru",
+  "ink": "Ruby",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Scar",
+  "rarity": "Uncommon",
+  "number": 109,
+  "keywords": [],
+  "flavor_text": "The second Rule of Villainy: Never settle for second place.",
+  "classifications": [
+    "Storyborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Betrayer",
+  "willpower": 3,
+  "strength": 6,
+  "lore": 2,
+  "text": "Long Live the King - When you play this character, you may banish chosen character named Mufasa."
+}

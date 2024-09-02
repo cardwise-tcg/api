@@ -1,0 +1,20 @@
+{
+  "artist": "Toni Bruno",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Medal of Heroes",
+  "rarity": "Common",
+  "number": 165,
+  "keywords": [],
+  "flavor_text": "\"You have etched in the rock of virtue a legacy beyond compare.\"",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Congratulations, Soldier: {e}, 2{i}, Banish this item - Chosen character of yours gets +2{l} this turn."
+}

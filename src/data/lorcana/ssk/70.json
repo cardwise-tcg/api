@@ -1,0 +1,30 @@
+{
+  "artist": "Julien Vandois",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Shenzi",
+  "rarity": "Uncommon",
+  "number": 70,
+  "keywords": [
+    "Evasive"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "Hyena"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Scar's Accomplice",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1,
+  "text": "Evasive (Only characters with Evasive can challenge this character.)\nEasy Pickings: While challenging a damaged character, this character gets +2{s}."
+}

@@ -1,0 +1,32 @@
+{
+  "artist": "Aubrey Archer",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": false,
+  "name": "Snow White",
+  "rarity": "Super Rare",
+  "number": 183,
+  "keywords": [
+    "Resist"
+  ],
+  "flavor_text": "Friendship is the best armor of all.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Princess",
+    "Knight"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Fair-haired",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 3,
+  "text": "Natural Leader: This character gains Resist +1 for each other Knight character you have in play. (Damage dealt to this character is reduced by 1 for each other Knight.)"
+}

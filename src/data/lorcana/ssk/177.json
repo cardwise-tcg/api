@@ -1,0 +1,31 @@
+{
+  "artist": "Wouter Bruneel",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Sleepy",
+  "rarity": "Uncommon",
+  "number": 177,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Sluggish Knight",
+  "willpower": 4,
+  "strength": 0,
+  "lore": 1,
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+}

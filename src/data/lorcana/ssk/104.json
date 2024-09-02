@@ -1,0 +1,27 @@
+{
+  "artist": "Lisanne Koeteeuw",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Wreck-It Ralph",
+  "rarity": "Rare",
+  "number": 104,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Demolition Dude",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Refreshing Break: Whenever you ready this character, gain 1 lore for each 1 damage on him."
+}

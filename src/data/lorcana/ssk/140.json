@@ -1,0 +1,27 @@
+{
+  "artist": "Cam Kendell",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Scrooge McDuck",
+  "rarity": "Rare",
+  "number": 140,
+  "keywords": [],
+  "flavor_text": "\"The secret room should be right here! Ach, I cannot believe I paid a whole penny for this map.\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Afficionado of Antiquities",
+  "willpower": 5,
+  "strength": 5,
+  "lore": 2
+}

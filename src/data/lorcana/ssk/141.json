@@ -1,0 +1,29 @@
+{
+  "artist": "Carlos Gomes Cabral",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Prince John",
+  "rarity": "Common",
+  "number": 141,
+  "keywords": [],
+  "flavor_text": "\"Of course I'm on the list. Check under 'PJ.'\"",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Opportunistic Briber",
+  "willpower": 5,
+  "strength": 1,
+  "lore": 1,
+  "text": "Taxes Never Fail Me: Whenever you play an item, this character gets +2{s} this turn."
+}

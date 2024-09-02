@@ -1,0 +1,21 @@
+{
+  "artist": "Giulia Riva",
+  "ink": "Emerald",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "We Don't Talk About Bruno",
+  "rarity": "Rare",
+  "number": 97,
+  "keywords": [],
+  "flavor_text": "Your fate is sealed when your prophecy is read!",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "text": "(A character with cost X or more can {e} to sing this song for free.)\nReturn chosen character to their player's hand, then that player discards a card at random."
+}

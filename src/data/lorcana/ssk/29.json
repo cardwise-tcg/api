@@ -1,0 +1,19 @@
+{
+  "artist": "Taraneh",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Invited to the Ball",
+  "rarity": "Common",
+  "number": 29,
+  "keywords": [],
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Reveal the top 2 cards of your deck. Put revealed\ncharacter cards into your hand. Put the rest on the\nbottom of your deck in any order."
+}

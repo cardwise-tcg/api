@@ -1,0 +1,21 @@
+{
+  "artist": "Linh Dang",
+  "ink": "Ruby",
+  "ink_cost": 7,
+  "inkable": true,
+  "name": "Don't Let the Frostbite Bite",
+  "rarity": "Rare",
+  "number": 129,
+  "keywords": [],
+  "flavor_text": "Let's call it a night.",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "(A character with cost 7 or more can {e} to sing this song for free.)\r \r Ready all your characters. They can't quest for the rest of this turn."
+}

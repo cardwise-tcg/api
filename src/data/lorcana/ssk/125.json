@@ -1,0 +1,28 @@
+{
+  "artist": "Valentin Palombo",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Simba",
+  "rarity": "Common",
+  "number": 125,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Adventurous Successor",
+  "willpower": 1,
+  "strength": 2,
+  "lore": 1,
+  "text": "I Laugh in the Face of Danger: When you play this character, chosen character gets +2{s} this turn."
+}

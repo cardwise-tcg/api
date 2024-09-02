@@ -1,0 +1,27 @@
+{
+  "artist": "Oggy Christiansson",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Tuk Tuk",
+  "rarity": "Common",
+  "number": 161,
+  "keywords": [],
+  "flavor_text": "\"Some say he's easily distracted. They're not wrong...\"\n - Raya",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Curious Partner",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 1
+}

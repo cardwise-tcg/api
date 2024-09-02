@@ -1,0 +1,21 @@
+{
+  "artist": "Javi Salas",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "When Will My Life Begin?",
+  "rarity": "Common",
+  "number": 197,
+  "keywords": [],
+  "flavor_text": "Stuck in the same place I've always been.",
+  "types": [
+    "Action",
+    "Song"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "(A character with cost 3 or more can {e} to sing this song for free.)\nChosen character can't challenge during their next turn. Draw a card."
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Federico Maria Cugliari",
+  "ink": "Ruby",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Maximus",
+  "rarity": "Super Rare",
+  "number": 105,
+  "keywords": [],
+  "flavor_text": "It's easy to get carried away when it comes to tug of war.",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Team Champion",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 2,
+  "text": "Royally Big Rewards: At the end of your turn, if you have any characters in play with 5{s} or more, gain 2 lore. If you have any in play with 10{s} or more, gain 5 lore instead."
+}

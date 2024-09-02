@@ -1,0 +1,29 @@
+{
+  "artist": "Brittney Hackett",
+  "ink": "Amethyst",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "King of Hearts",
+  "rarity": "Common",
+  "number": 57,
+  "keywords": [],
+  "flavor_text": "\"By order of the king. You heard what she said!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally",
+    "King "
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Monarch of Wonderland",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 2,
+  "text": "Pleasing The Queen: {e} - Chosen exerted\ncharacter can't ready at the start of their next\nturn."
+}

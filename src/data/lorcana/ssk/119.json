@@ -1,0 +1,29 @@
+{
+  "artist": "Dave Alvarez / Livio Cacciatore",
+  "ink": "Ruby",
+  "ink_cost": 9,
+  "inkable": false,
+  "name": "Gaston",
+  "rarity": "Rare",
+  "number": 119,
+  "keywords": [
+    "Rush"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Pure Paragon",
+  "willpower": 6,
+  "strength": 10,
+  "lore": 2,
+  "text": "A Man Among Men!: For each damaged character you have in play, you pay 2{i} less to play this character.\nRush (This character can challenge the turn they're played.)"
+}

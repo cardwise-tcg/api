@@ -1,0 +1,28 @@
+{
+  "artist": "Carmine Pucci",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Fa Zhou",
+  "rarity": "Common",
+  "number": 105,
+  "keywords": [],
+  "flavor_text": "\"I am ready to serve the Emperor.\"",
+  "classifications": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Mulan's Father",
+  "willpower": 4,
+  "strength": 0,
+  "lore": 1,
+  "text": "War Injury: This character can't challenge.\nHead of The Household: {e} - Ready chosen character named Mulan. She can't quest for the rest of this turn."
+}

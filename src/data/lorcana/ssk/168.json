@@ -1,0 +1,20 @@
+{
+  "artist": "Dustin Panzino",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": false,
+  "name": "Sapphire Chromicon",
+  "rarity": "Uncommon",
+  "number": 168,
+  "keywords": [],
+  "flavor_text": "\"Knowledge is eternal.\"\n-Inscription",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Powering Up: This item enters play exerted.\nSapphire Light: {e}, 2{i}, Banish one of your items - Gain 2 lore."
+}

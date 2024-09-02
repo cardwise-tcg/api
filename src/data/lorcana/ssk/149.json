@@ -1,0 +1,29 @@
+{
+  "artist": "Carlos Ruiz",
+  "ink": "Sapphire",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Kuzco",
+  "rarity": "Super Rare",
+  "number": 149,
+  "keywords": [
+    "Resist"
+  ],
+  "classifications": [
+    "Storyborn",
+    "King"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Selfish Emperor",
+  "willpower": 5,
+  "strength": 3,
+  "lore": 2,
+  "text": "Outplacement: When you play this character, you may put chosen item or location into its player's inkwell facedown and exerted.\nBy Invite Only: 4{i} - Your other characters gain Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)"
+}

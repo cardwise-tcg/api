@@ -1,0 +1,29 @@
+{
+  "artist": "Alexandra Neonakis",
+  "ink": "Steel",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Simba",
+  "rarity": "Common",
+  "number": 173,
+  "keywords": [],
+  "flavor_text": "\"This is my kingdom. If I don't fight for it, who will?\"",
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Lost Prince",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 1,
+  "text": "Face the Past: During your turn, whenever this character banishes another character in a challenge, you may draw a card."
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Jochem van Gool",
+  "ink": "Amber",
+  "ink_cost": 9,
+  "inkable": false,
+  "name": "Kristoff",
+  "rarity": "Rare",
+  "number": 13,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Reindeer Keeper",
+  "willpower": 7,
+  "strength": 3,
+  "lore": 1,
+  "text": "Bodyguard (This character may enter play exerted.\r An opposing character who challenges one of your\r characters must choose one with Bodyguard if able.)\r \r Song Of The Herd: For each song card in your\r discard, you pay 1{i} less to play this character."
+}

@@ -1,0 +1,21 @@
+{
+  "artist": "Jeremy Adams",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Snuggly Duckling",
+  "rarity": "Rare",
+  "number": 135,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Disreputable Pub",
+  "move_cost": 2,
+  "text": "Routine Ruckus: Whenever a character with 3{s} or more challenge another character while here, gain 1 lore. If the challenging character has 6{s} or more, gain 3 lore instead."
+}

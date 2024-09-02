@@ -1,0 +1,30 @@
+{
+  "artist": "Leonardo Giammichele",
+  "ink": "Sapphire",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Anna",
+  "rarity": "Super Rare",
+  "number": 138,
+  "keywords": [],
+  "flavor_text": "Make sure you know what's truly important and be willing to fight for it.",
+  "classifications": [
+    "Dreamborn",
+    "Hero",
+    "Queen",
+    "Knight"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "True-Hearted",
+  "willpower": 4,
+  "strength": 2,
+  "lore": 2,
+  "text": "Let Me Help You: Whenever this character quests, your other Hero characters get +1{l} this turn."
+}

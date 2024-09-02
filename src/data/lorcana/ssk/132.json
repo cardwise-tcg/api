@@ -1,0 +1,19 @@
+{
+  "artist": "Kendall Hale",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Potion of Might",
+  "rarity": "Common",
+  "number": 132,
+  "keywords": [],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Vile Concoction: 1{i}, Banish this item - Chosen character gets +3{s} this turn. If a Villain character is chosen, they get +4{s} instead."
+}

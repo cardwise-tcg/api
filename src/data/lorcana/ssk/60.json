@@ -1,0 +1,20 @@
+{
+  "artist": "Andy Estrada / Stefano Zanchi",
+  "ink": "Amethyst",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Finders Keepers",
+  "rarity": "Uncommon",
+  "number": 60,
+  "keywords": [],
+  "flavor_text": "\"Three wishes, comin' right up!\"\n-Iago",
+  "types": [
+    "Action"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Draw 3 cards."
+}

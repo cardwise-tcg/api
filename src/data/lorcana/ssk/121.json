@@ -1,0 +1,29 @@
+{
+  "artist": "Brian Weisz",
+  "ink": "Ruby",
+  "ink_cost": 1,
+  "inkable": false,
+  "name": "Arthur",
+  "rarity": "Common",
+  "number": 121,
+  "keywords": [
+    "Reckless"
+  ],
+  "flavor_text": "\"Hold it, boy. Not so fast.\"",
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Novice Sparrow",
+  "willpower": 3,
+  "strength": 2,
+  "text": "Reckless (This character can't quest and must challenge each turn if able.)"
+}

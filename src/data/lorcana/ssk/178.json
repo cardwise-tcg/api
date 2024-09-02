@@ -1,0 +1,30 @@
+{
+  "artist": "Alec Accorsi",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Kronk",
+  "rarity": "Common",
+  "number": 178,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "\"Maybe this one's a chromicon. Probably not. I really should have paid more attention when that wizard guy was talking . . .\"",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Unlicensed Investigator",
+  "willpower": 4,
+  "strength": 1,
+  "lore": 1,
+  "text": "Challenger +1 (While challenging, this character gets +1{s}.)"
+}

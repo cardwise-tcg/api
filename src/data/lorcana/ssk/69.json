@@ -1,0 +1,29 @@
+{
+  "artist": "James Rey Sanchez",
+  "ink": "Emerald",
+  "ink_cost": 9,
+  "inkable": false,
+  "name": "Robin Hood",
+  "rarity": "Rare",
+  "number": 69,
+  "keywords": [
+    "Ward"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Hero"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Timely Contestant",
+  "willpower": 6,
+  "strength": 6,
+  "lore": 4,
+  "text": "Tag Me In!: For each 1 damage on opposing characters, you pay 1{i} less to play this character.\nWard (Opponents can't choose this character except to challenge.)"
+}

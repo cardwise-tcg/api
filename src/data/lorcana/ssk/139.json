@@ -1,0 +1,32 @@
+{
+  "artist": "Carmine Pucci",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "The Queen",
+  "rarity": "Common",
+  "number": 139,
+  "keywords": [
+    "Ward"
+  ],
+  "flavor_text": "She'd seen what the ink could do for other glimmers. What could it do for her?",
+  "classifications": [
+    "Storyborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Cruelest of All",
+  "willpower": 4,
+  "strength": 0,
+  "lore": 1,
+  "text": "Ward (Opponents can't choose this character except to challenge.)"
+}

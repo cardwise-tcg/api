@@ -1,0 +1,28 @@
+{
+  "artist": "Adam Fenton",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Ratigan",
+  "rarity": "Common",
+  "number": 113,
+  "keywords": [],
+  "flavor_text": "\"The world's most diabolical genius should never suffer such indignities!\"",
+  "classifications": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Raging Rat",
+  "willpower": 5,
+  "strength": 1,
+  "lore": 1,
+  "text": "Nothing Can Stand in My Way: While this character has damage, he gets +2{s}."
+}

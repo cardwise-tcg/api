@@ -1,0 +1,27 @@
+{
+  "artist": "Sarah Schmidt",
+  "ink": "Sapphire",
+  "ink_cost": 1,
+  "inkable": true,
+  "name": "Fa Li",
+  "rarity": "Common",
+  "number": 143,
+  "keywords": [],
+  "flavor_text": "When far from home, Mulan often thinks of her calming presence.",
+  "classifications": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Mulan's Mother",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1
+}

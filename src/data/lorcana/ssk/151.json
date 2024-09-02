@@ -1,0 +1,27 @@
+{
+  "artist": "Matt Chapman",
+  "ink": "Sapphire",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Ludwig Von Drake",
+  "rarity": "Uncommon",
+  "number": 151,
+  "keywords": [],
+  "flavor_text": "\"So you see, there's a dark void at the edge of Lorcana. A complete absence of electromagnetic radiation! What's it made of? I don't know! The light's just gone. Kaput!\"",
+  "classifications": [
+    "Storyborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Self-Proclaimed Genius",
+  "willpower": 4,
+  "strength": 4,
+  "lore": 3
+}

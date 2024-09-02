@@ -1,0 +1,19 @@
+{
+  "artist": "Mario Oscar Gabriele",
+  "ink": "Ruby",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "The Sword Released",
+  "rarity": "Rare",
+  "number": 133,
+  "keywords": [],
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Power Appointed: At the start of your turn, if you have a character in play with more {s} than each opposing character in play, each opponent loses 1 lore and you gain lore equal to the lore lost."
+}

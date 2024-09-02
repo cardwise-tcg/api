@@ -1,0 +1,20 @@
+{
+  "artist": "McKay Anderson",
+  "ink": "Sapphire",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Basil's Magnifying Glass",
+  "rarity": "Rare",
+  "number": 166,
+  "keywords": [],
+  "flavor_text": "\"I say, a piece of the Hexwell Crown!\" -Basil",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Find What's Hidden: {e}, 2{i} - Look at the top 3 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order."
+}

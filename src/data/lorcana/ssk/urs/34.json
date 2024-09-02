@@ -1,0 +1,22 @@
+{
+  "artist": "Jeremy Adams",
+  "ink": "Amber",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "The Underworld",
+  "rarity": "Rare",
+  "number": 34,
+  "keywords": [],
+  "types": [
+    "Location"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "River Styx",
+  "lore": 1,
+  "move_cost": 2,
+  "text": "Save a Soul - Whenever a character quests while here, you may pay 3{i} to return a character card from your discard to your hand."
+}

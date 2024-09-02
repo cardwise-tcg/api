@@ -1,0 +1,30 @@
+{
+  "artist": "Alice Pisoni",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Diablo",
+  "rarity": "Legendary",
+  "number": 70,
+  "keywords": [
+    "Evasive",
+    "Shift"
+  ],
+  "classifications": [
+    "Floodborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Devoted Herald",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Shift: Discard an action card (You may discard an action card to play this on top of one of your characters named Diablo.)\nEvasive (Only characters with Evasive can challenge this character.)\nCircle Far and Wide - During each opponent's turn, whenever they draw a card while this character is exerted, you may draw a card."
+}

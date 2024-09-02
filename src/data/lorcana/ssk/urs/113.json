@@ -1,0 +1,28 @@
+{
+  "artist": "Valentin Palombo",
+  "ink": "Ruby",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Lumiere",
+  "rarity": "Rare",
+  "number": 113,
+  "keywords": [],
+  "flavor_text": "\"The invaders are at out gates, mes amis! It's time to show them what we're made of.\"",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Fiery Friend",
+  "willpower": 2,
+  "strength": 2,
+  "lore": 1,
+  "text": "Fervent Address: Your other characters get +1{s}."
+}

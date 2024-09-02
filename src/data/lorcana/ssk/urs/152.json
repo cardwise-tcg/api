@@ -1,0 +1,31 @@
+{
+  "artist": "Mike Parker",
+  "ink": "Sapphire",
+  "ink_cost": 3,
+  "inkable": true,
+  "name": "Prince Phillip",
+  "rarity": "Rare",
+  "number": 152,
+  "keywords": [
+    "Resist",
+    "Support"
+  ],
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "urs",
+    "name": "Ursula's Return",
+    "number": 4
+  },
+  "version": "Gallant Defender",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 2,
+  "text": "Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)\nBest Defense: Whenever one of your characters is chosen for Support, they gain Resist +1 this turn. (Damage dealt to them is reduced by 1.)"
+}

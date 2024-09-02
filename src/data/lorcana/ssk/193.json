@@ -1,0 +1,29 @@
+{
+  "artist": "Mariana Moreno",
+  "ink": "Steel",
+  "ink_cost": 2,
+  "inkable": false,
+  "name": "Doc",
+  "rarity": "Rare",
+  "number": 193,
+  "keywords": [],
+  "classifications": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Bold Knight",
+  "willpower": 3,
+  "strength": 1,
+  "lore": 1,
+  "text": "Drastic Measures: When you play this character, you may discard your hand to draw 2 cards."
+}

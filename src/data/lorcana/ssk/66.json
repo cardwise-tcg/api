@@ -1,0 +1,20 @@
+{
+  "artist": "Dustin Panino",
+  "ink": "Amethyst",
+  "ink_cost": 2,
+  "inkable": true,
+  "name": "Amethyst Chromicon",
+  "rarity": "Uncommon",
+  "number": 66,
+  "keywords": [],
+  "flavor_text": "\"Seek not power for its own sake.\"\n-Inscription",
+  "types": [
+    "Item"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "text": "Amethyst Light: {e} - Each player may draw a card."
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Dylan Bonner / Celeste Jamneck",
+  "ink": "Emerald",
+  "ink_cost": 3,
+  "inkable": false,
+  "name": "Anna",
+  "rarity": "Legendary",
+  "number": 85,
+  "keywords": [],
+  "classifications": [
+    "Storyborn",
+    "Hero",
+    "Queen"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Diplomatic Queen",
+  "willpower": 3,
+  "strength": 2,
+  "lore": 2,
+  "text": "Royal Resolution: When you play this character,\nyou may pay 2{i} to choose one:\n• Each opponent chooses and discards a card.\n• Chosen character gets +2{s} this turn.\n• Banish chosen damaged character."
+}

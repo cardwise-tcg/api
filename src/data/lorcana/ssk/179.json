@@ -1,0 +1,30 @@
+{
+  "artist": "Brian Weisz",
+  "ink": "Steel",
+  "ink_cost": 5,
+  "inkable": true,
+  "name": "Heihei",
+  "rarity": "Common",
+  "number": 179,
+  "keywords": [
+    "Bodyguard"
+  ],
+  "flavor_text": "Who's the \"boat snack\" now?!",
+  "classifications": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Protective Rooster",
+  "willpower": 5,
+  "strength": 4,
+  "lore": 2,
+  "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+}

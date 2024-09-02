@@ -1,0 +1,31 @@
+{
+  "artist": "Cam Kendell",
+  "ink": "Steel",
+  "ink_cost": 6,
+  "inkable": true,
+  "name": "Jafar",
+  "rarity": "Legendary",
+  "number": 172,
+  "keywords": [
+    "Challenger"
+  ],
+  "flavor_text": "\"No one will keep from me the broken crown!\"",
+  "classifications": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Tyrannical Hypnotist",
+  "willpower": 7,
+  "strength": 0,
+  "lore": 2,
+  "text": "Challenger +7 (While challenging, this character gets +7{s}.)\nIntimidating Gaze: Opposing characters with cost 4 or less can't challenge."
+}

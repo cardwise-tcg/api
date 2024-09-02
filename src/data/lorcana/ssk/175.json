@@ -1,0 +1,26 @@
+{
+  "artist": "Valerio Buonfantino",
+  "ink": "Steel",
+  "ink_cost": 4,
+  "inkable": true,
+  "name": "Royal Guard",
+  "rarity": "Common",
+  "number": 175,
+  "keywords": [],
+  "flavor_text": "\"Hey, I've been turned into a cow. Can I go home?\"",
+  "classifications": [
+    "Storyborn"
+  ],
+  "types": [
+    "Character"
+  ],
+  "set": {
+    "key": "ssk",
+    "name": "Shimmering Skies",
+    "number": 5
+  },
+  "version": "Bovine Protector",
+  "willpower": 7,
+  "strength": 1,
+  "lore": 1
+}
